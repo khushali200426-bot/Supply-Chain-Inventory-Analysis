@@ -1,0 +1,1501 @@
+Order_ID,Order_Date,Region,Warehouse,Supplier,Product_Category,Product,Units_Ordered,Units_Sold,Stock_Level,Reorder_Level,Unit_Cost,Unit_Price,Lead_Time_Days,Defect_Rate,Delivery_Status
+ORD-00001,2025-08-20,North,WH-03,Supplier B,Furniture,Desk,49,29,761,228,151.69,183.18,15.0,0.063,On Time
+ORD-00002,2025-09-13,North,WH-04,Supplier A,Accessories,Laptop Stand,378,304,753,224,364.16,517.59,10.0,0.071,On Time
+ORD-00003,2025-01-24,East,WH-03,Supplier B,Office Supplies,File Folder,426,358,753,62,118.76,143.63,8.0,0.045,On Time
+ORD-00004,2025-04-19,East,WH-01,Supplier C,Office Supplies,File Folder,307,224,251,118,5.45,6.31,9.0,0.028,Delayed
+ORD-00005,2025-07-10,East,WH-03,Supplier A,Electronics,Monitor,105,82,711,115,359.04,415.08,7.0,0.048,On Time
+ORD-00006,2025-12-13,East,WH-04,Supplier D,Electronics,Laptop,253,185,750,108,89.74,119.95,11.0,0.007,On Time
+ORD-00007,2025-01-25,West,WH-04,Supplier A,Electronics,Mouse,254,221,75,117,56.72,76.49,9.0,0.001,On Time
+ORD-00008,2025-07-06,North,WH-04,Supplier D,Accessories,Power Bank,332,332,387,108,122.57,152.39,1.0,0.001,On Time
+ORD-00009,2025-10-15,East,WH-01,Supplier A,Office Supplies,Pen Set,384,242,397,166,193.05,240.54,14.0,0.033,On Time
+ORD-00010,2025-04-26,Central,WH-04,Supplier C,Office Supplies,File Folder,284,210,790,59,240.57,301.16,9.0,0.018,On Time
+ORD-00011,2025-12-04,East,WH-01,Supplier C,Electronics,Mouse,306,189,218,190,27.06,36.64,3.0,0.013,On Time
+ORD-00012,2025-02-06,West,WH-03,,Accessories,Laptop Stand,346,298,424,179,485.43,566.71,6.0,0.049,On Time
+ORD-00013,2025-10-09,South,WH-04,Supplier B,Accessories,Mouse Pad,412,376,25,64,359.45,513.56,8.0,0.08,On Time
+ORD-00014,2025-05-17,West,WH-03,Supplier C,Electronics,Monitor,288,288,306,95,164.98,200.74,3.0,0.014,On Time
+ORD-00015,2025-08-15,West,WH-02,Supplier D,Electronics,Mouse,205,141,229,234,162.76,235.99,4.0,0.044,On Time
+ORD-00016,2025-11-16,East,WH-03,Supplier D,Electronics,Keyboard,150,150,778,187,227.03,272.77,7.0,0.01,On Time
+ORD-00017,2025-11-24,Central,WH-02,Supplier E,Furniture,Bookshelf,310,180,376,199,314.99,435.15,12.0,0.075,On Time
+ORD-00018,2025-07-01,North,WH-03,Supplier D,Furniture,Table,296,252,789,138,77.45,94.26,7.0,0.023,Delayed
+ORD-00019,2025-12-28,North,WH-01,Supplier E,Furniture,Table,339,196,238,126,98.52,115.69,4.0,0.07,On Time
+ORD-00020,2025-03-27,West,WH-03,Supplier A,Electronics,Keyboard,370,368,640,185,430.42,607.96,9.0,0.023,On Time
+ORD-00021,2025-02-22,Central,WH-01,Supplier A,Office Supplies,File Folder,199,162,449,198,131.85,185.6,13.0,0.064,Delayed
+ORD-00022,2025-12-14,North,WH-01,Supplier A,Electronics,Mouse,309,273,699,199,193.2,245.57,3.0,0.017,On Time
+ORD-00023,2025-12-21,South,WH-04,Supplier B,Electronics,Laptop,499,481,541,159,436.28,593.65,12.0,0.023,On Time
+ORD-00024,2025-08-23,North,WH-01,Supplier B,Furniture,Cabinet,396,247,459,146,333.26,438.94,8.0,0.015,On Time
+ORD-00025,2025-09-24,South,WH-02,Supplier E,Furniture,Bookshelf,182,103,45,94,174.15,244.84,8.0,0.021,On Time
+ORD-00026,2025-10-14,West,WH-04,Supplier D,Office Supplies,Notebook,290,286,431,140,343.43,427.4,13.0,0.067,Delayed
+ORD-00027,2025-04-10,East,WH-04,Supplier D,Electronics,Mouse,395,279,629,217,14.74,19.27,4.0,0.051,On Time
+ORD-00028,2025-03-28,South,WH-03,Supplier A,Furniture,Table,115,70,198,163,369.14,478.26,7.0,0.032,On Time
+ORD-00029,2025-01-15,South,WH-01,Supplier C,Office Supplies,File Folder,281,220,187,199,246.07,309.11,4.0,0.078,On Time
+ORD-00030,2025-04-11,North,WH-01,Supplier B,Electronics,Keyboard,384,326,617,207,407.53,577.65,13.0,0.037,Delayed
+ORD-00031,2025-06-14,South,WH-02,Supplier B,Office Supplies,Pen Set,488,275,324,239,477.55,572.95,12.0,0.078,On Time
+ORD-00032,2025-01-29,West,WH-03,Supplier A,Electronics,Headphones,372,255,29,122,463.27,553.54,1.0,0.016,Delayed
+ORD-00033,2025-04-24,Central,WH-03,Supplier B,Electronics,Mouse,307,173,685,222,455.09,602.12,1.0,0.072,On Time
+ORD-00034,2025-04-17,Central,WH-04,Supplier A,Accessories,Power Bank,455,345,391,84,258.52,348.29,14.0,0.001,Delayed
+ORD-00035,2025-12-30,North,WH-04,Supplier E,Accessories,Laptop Stand,102,101,618,91,183.27,221.46,1.0,0.044,On Time
+ORD-00036,2025-05-10,Central,WH-04,Supplier D,Accessories,Mouse Pad,244,244,152,182,235.19,298.04,2.0,0.034,On Time
+ORD-00037,2025-03-25,West,WH-02,Supplier C,Furniture,Table,431,374,71,76,346.5,496.87,6.0,0.042,On Time
+ORD-00038,2025-09-28,West,WH-02,Supplier D,Electronics,Mouse,242,152,251,247,442.58,541.71,12.0,0.044,Delayed
+ORD-00039,2025-09-01,East,WH-04,Supplier D,Office Supplies,Notebook,488,488,247,239,107.46,145.13,10.0,0.031,On Time
+ORD-00040,2025-08-02,South,WH-03,Supplier E,Furniture,Desk,137,110,140,81,459.51,630.47,11.0,0.08,On Time
+ORD-00041,2025-11-02,South,WH-02,Supplier B,Electronics,Mouse,211,132,614,185,408.51,524.71,5.0,0.078,On Time
+ORD-00042,2025-06-15,North,WH-03,Supplier C,Furniture,Desk,98,98,612,152,489.53,700.64,11.0,0.077,On Time
+ORD-00043,2025-10-06,South,WH-03,Supplier B,Electronics,Monitor,97,90,654,134,440.72,604.23,2.0,0.078,On Time
+ORD-00044,2025-02-28,South,WH-01,Supplier D,Accessories,USB Cable,166,152,132,195,143.57,184.83,8.0,0.063,On Time
+ORD-00045,2025-03-31,East,WH-04,Supplier A,Electronics,Headphones,126,113,449,127,57.45,75.88,9.0,0.079,Delayed
+ORD-00046,2025-11-27,West,WH-01,Supplier D,Office Supplies,Stapler,401,260,351,192,60.56,82.23,7.0,0.071,On Time
+ORD-00047,2025-07-13,East,WH-04,Supplier B,Furniture,Desk,290,190,428,203,149.16,198.03,12.0,0.033,Cancelled
+ORD-00048,2025-05-03,North,WH-04,Supplier D,Furniture,Office Chair,409,365,639,230,309.02,436.83,14.0,0.063,On Time
+ORD-00049,2025-05-16,Central,WH-03,Supplier A,Furniture,Bookshelf,263,173,464,93,403.14,506.77,15.0,0.073,On Time
+ORD-00050,2025-05-19,Central,WH-04,Supplier E,Electronics,Mouse,92,70,207,81,450.13,558.15,15.0,0.057,On Time
+ORD-00051,2025-08-17,West,WH-03,Supplier B,Accessories,Webcam,376,353,291,77,313.76,380.95,12.0,0.034,Delayed
+ORD-00052,2025-10-01,Central,WH-03,Supplier D,Office Supplies,File Folder,487,458,10,216,7.79,9.05,9.0,0.005,On Time
+ORD-00053,2025-02-19,East,WH-04,Supplier B,Accessories,USB Cable,373,289,732,209,97.23,113.07,4.0,0.065,On Time
+ORD-00054,2025-04-28,Central,WH-03,Supplier E,Accessories,Webcam,441,417,784,126,54.36,76.7,13.0,0.076,Delayed
+ORD-00055,2025-07-21,North,WH-03,Supplier D,Office Supplies,File Folder,45,43,341,67,184.85,250.2,7.0,0.029,Delayed
+ORD-00056,2025-07-10,South,WH-03,Supplier D,Accessories,Webcam,229,200,221,152,253.17,341.31,5.0,0.012,Delayed
+ORD-00057,2025-12-30,South,WH-02,Supplier B,Electronics,Mouse,111,73,96,119,26.48,35.33,5.0,0.026,On Time
+ORD-00058,2025-11-19,North,WH-03,Supplier B,Electronics,Mouse,144,98,674,168,177.5,249.35,3.0,0.047,On Time
+ORD-00059,2025-06-30,North,WH-02,Supplier A,Electronics,Mouse,454,321,708,188,93.69,121.24,9.0,0.025,On Time
+ORD-00060,2025-03-19,West,WH-02,Supplier E,Furniture,Office Chair,92,55,70,209,325.3,459.04,13.0,0.049,On Time
+ORD-00061,2025-03-16,West,WH-03,Supplier A,Furniture,Cabinet,499,342,104,197,234.81,295.35,10.0,0.077,On Time
+ORD-00062,2025-10-22,East,WH-03,Supplier D,Electronics,Headphones,142,92,795,146,250.18,357.26,5.0,0.054,On Time
+ORD-00063,2025-10-08,North,WH-02,Supplier B,Accessories,Webcam,328,255,562,217,216.71,294.64,6.0,,Cancelled
+ORD-00064,2025-01-21,Central,WH-02,Supplier D,Furniture,Bookshelf,203,203,156,185,478.23,586.86,3.0,0.075,On Time
+ORD-00065,2025-06-20,West,WH-03,Supplier D,Electronics,Headphones,206,124,255,84,111.29,146.82,10.0,0.045,On Time
+ORD-00066,2025-01-15,South,WH-03,Supplier C,Furniture,Table,217,197,653,118,260.75,341.56,7.0,0.01,On Time
+ORD-00067,2025-07-30,West,WH-04,Supplier C,Electronics,Mouse,97,86,306,175,369.33,440.01,9.0,0.04,On Time
+ORD-00068,2025-02-17,South,WH-02,Supplier D,Accessories,USB Cable,367,219,132,148,280.64,372.51,9.0,0.052,On Time
+ORD-00069,2025-03-27,South,WH-02,Supplier B,Electronics,Monitor,205,205,664,127,464.87,578.5,14.0,0.067,On Time
+ORD-00070,2025-05-29,Central,WH-04,Supplier D,Accessories,USB Cable,363,302,703,198,192.09,223.92,15.0,0.075,On Time
+ORD-00071,2025-07-07,South,WH-02,Supplier C,Office Supplies,Pen Set,272,199,713,160,234.52,336.44,13.0,0.025,On Time
+ORD-00072,2025-11-02,East,WH-01,Supplier B,Electronics,Monitor,32,29,465,201,48.82,65.54,10.0,0.012,On Time
+ORD-00073,2025-05-31,Central,WH-02,Supplier D,Electronics,Laptop,318,215,408,66,306.45,433.04,14.0,0.006,Delayed
+ORD-00074,2025-05-21,West,WH-04,Supplier E,Accessories,Power Bank,95,85,728,195,147.66,199.76,10.0,0.059,On Time
+ORD-00075,2025-03-10,North,WH-01,Supplier E,Office Supplies,Pen Set,70,39,240,189,84.35,106.04,5.0,0.064,On Time
+ORD-00076,2025-09-17,North,WH-03,Supplier D,Office Supplies,Printer Paper,294,285,543,193,274.54,357.95,7.0,0.033,On Time
+ORD-00077,2025-11-30,North,WH-04,Supplier B,Office Supplies,Pen Set,168,130,411,53,268.49,363.19,13.0,0.032,On Time
+ORD-00078,2025-01-09,West,WH-04,Supplier D,Electronics,Keyboard,238,206,601,211,42.56,61.2,12.0,0.076,On Time
+ORD-00079,2025-05-01,East,WH-03,Supplier D,Furniture,Table,141,93,139,141,350.62,429.9,12.0,0.073,On Time
+ORD-00080,2025-04-11,North,WH-04,Supplier C,Electronics,Mouse,230,204,301,223,313.77,443.2,13.0,0.019,Cancelled
+ORD-00081,2025-05-29,Central,WH-02,Supplier E,Accessories,Webcam,299,279,285,124,98.56,140.67,3.0,0.062,Cancelled
+ORD-00082,2025-05-26,East,WH-03,Supplier C,Office Supplies,Notebook,45,35,385,208,237.37,320.72,6.0,0.05,On Time
+ORD-00083,2025-12-19,South,WH-04,Supplier C,Furniture,Cabinet,192,164,64,202,361.56,516.81,12.0,0.012,On Time
+ORD-00084,2025-08-31,East,WH-03,Supplier D,Electronics,Mouse,175,136,587,152,267.07,339.01,8.0,0.029,On Time
+ORD-00085,2025-08-29,West,WH-03,Supplier C,Furniture,Desk,257,256,748,73,200.77,288.29,13.0,0.014,Cancelled
+ORD-00086,2025-12-03,North,WH-03,Supplier E,Furniture,Office Chair,395,315,35,114,164.56,223.94,8.0,0.024,On Time
+ORD-00087,2025-02-12,South,WH-01,Supplier C,Office Supplies,Pen Set,101,98,450,166,307.14,357.08,2.0,0.049,On Time
+ORD-00088,2025-04-05,Central,WH-04,Supplier E,Office Supplies,Notebook,375,356,774,202,469.86,668.17,6.0,0.03,On Time
+ORD-00089,2025-08-14,East,WH-01,Supplier C,Accessories,Laptop Stand,432,326,206,205,337.51,437.19,7.0,0.032,On Time
+ORD-00090,2025-01-06,East,WH-04,Supplier E,Furniture,Desk,292,194,651,213,42.0,54.1,12.0,0.043,On Time
+ORD-00091,2025-08-02,East,WH-02,Supplier C,Electronics,Laptop,87,65,252,131,233.04,307.6,7.0,0.007,On Time
+ORD-00092,2025-07-25,North,WH-02,Supplier C,Office Supplies,Pen Set,63,60,733,55,445.96,532.84,3.0,0.059,On Time
+ORD-00093,2025-03-08,North,WH-02,Supplier B,Office Supplies,File Folder,80,53,199,115,51.76,66.81,14.0,0.032,On Time
+ORD-00094,2025-04-10,East,WH-04,Supplier E,Office Supplies,Printer Paper,142,115,747,116,494.49,691.96,14.0,0.038,On Time
+ORD-00095,2025-01-12,South,WH-03,Supplier E,Office Supplies,Notebook,368,350,767,121,474.79,548.21,9.0,0.078,Delayed
+ORD-00096,2025-08-25,North,WH-03,Supplier E,Furniture,Cabinet,215,156,577,144,43.75,53.89,2.0,0.028,On Time
+ORD-00097,2025-11-18,Central,WH-01,Supplier A,Furniture,Desk,349,304,576,97,467.04,537.44,,0.052,On Time
+ORD-00098,2025-09-15,Central,WH-01,Supplier C,Furniture,Office Chair,428,287,285,119,184.75,235.5,3.0,0.031,On Time
+ORD-00099,2025-12-03,West,WH-02,Supplier E,Electronics,Headphones,498,301,418,127,423.13,579.05,15.0,0.072,On Time
+ORD-00100,2025-05-15,Central,WH-01,Supplier A,Electronics,Laptop,342,323,349,116,212.1,294.74,11.0,0.068,On Time
+ORD-00101,2025-08-10,South,WH-04,Supplier B,Electronics,Headphones,130,77,162,225,223.22,320.0,2.0,0.019,On Time
+ORD-00102,2025-06-05,Central,WH-04,Supplier E,Office Supplies,Notebook,277,189,574,114,318.95,425.02,11.0,0.055,On Time
+ORD-00103,2025-05-22,North,WH-01,Supplier E,Furniture,Cabinet,108,105,407,221,388.37,476.29,9.0,0.005,On Time
+ORD-00104,2025-06-07,Central,WH-01,Supplier A,Furniture,Bookshelf,452,326,453,112,21.73,31.01,4.0,0.077,On Time
+ORD-00105,2025-11-22,Central,WH-01,Supplier C,Accessories,Webcam,217,217,632,95,298.61,412.86,2.0,0.028,On Time
+ORD-00106,2025-12-10,West,WH-01,Supplier B,Electronics,Laptop,301,301,436,196,97.43,128.83,3.0,0.067,On Time
+ORD-00107,2025-09-19,Central,WH-02,Supplier E,Furniture,Table,219,149,496,241,176.25,239.47,13.0,0.025,On Time
+ORD-00108,2025-10-10,East,WH-02,Supplier C,Office Supplies,File Folder,118,67,213,122,177.24,252.97,4.0,0.051,On Time
+ORD-00109,2025-12-04,South,WH-01,Supplier B,Electronics,Laptop,46,41,121,120,237.18,323.45,15.0,0.079,On Time
+ORD-00110,2025-12-10,East,WH-04,Supplier D,Electronics,Laptop,108,83,334,159,170.4,214.79,14.0,0.07,On Time
+ORD-00111,2025-08-17,West,WH-02,Supplier D,Electronics,Monitor,165,99,267,227,58.14,79.3,10.0,0.013,On Time
+ORD-00112,2025-10-07,North,WH-04,Supplier B,Electronics,Keyboard,201,181,537,112,77.09,89.59,13.0,0.044,Delayed
+ORD-00113,2025-12-24,West,WH-03,Supplier A,Accessories,Power Bank,276,156,359,90,21.55,27.28,6.0,0.028,On Time
+ORD-00114,2025-10-17,Central,WH-04,Supplier B,Accessories,Webcam,208,204,687,56,237.77,302.42,5.0,0.035,On Time
+ORD-00115,2025-06-17,North,WH-01,Supplier B,Office Supplies,Notebook,259,160,444,186,477.45,572.96,3.0,0.027,On Time
+ORD-00116,2025-02-16,West,WH-03,Supplier A,Accessories,Webcam,378,231,435,53,62.26,72.03,10.0,0.027,Delayed
+ORD-00117,2025-07-22,Central,WH-02,Supplier A,Accessories,Power Bank,406,258,289,138,473.4,563.35,8.0,0.043,On Time
+ORD-00118,2025-08-02,Central,WH-02,Supplier C,Electronics,Laptop,215,215,380,226,368.01,495.48,8.0,0.015,Delayed
+ORD-00119,2025-09-03,Central,WH-03,Supplier C,Accessories,USB Cable,316,283,679,183,320.56,445.8,7.0,0.043,On Time
+ORD-00120,2025-01-24,East,WH-04,Supplier A,Furniture,Bookshelf,184,174,258,131,324.41,469.25,3.0,0.022,On Time
+ORD-00121,2025-11-17,Central,WH-02,Supplier D,Accessories,Laptop Stand,326,244,190,70,414.23,519.41,14.0,0.023,On Time
+ORD-00122,2025-10-01,West,WH-01,Supplier D,Accessories,Mouse Pad,290,208,712,192,57.93,77.04,15.0,0.059,On Time
+ORD-00123,2025-02-13,North,WH-03,Supplier B,Furniture,Cabinet,27,18,660,177,254.85,364.73,1.0,0.002,On Time
+ORD-00124,2025-11-28,East,WH-01,Supplier E,Electronics,Monitor,57,45,87,244,350.06,420.11,5.0,0.03,On Time
+ORD-00125,2025-11-09,West,WH-03,Supplier B,Electronics,Monitor,133,109,345,243,295.48,403.42,1.0,0.033,On Time
+ORD-00126,2025-12-29,South,WH-02,Supplier B,Furniture,Table,358,309,59,233,417.23,574.31,6.0,0.039,On Time
+ORD-00127,2025-06-05,West,WH-04,Supplier E,Accessories,Laptop Stand,75,50,94,154,40.77,47.97,11.0,0.054,On Time
+ORD-00128,2025-07-18,West,WH-03,Supplier A,Accessories,Power Bank,450,450,704,153,346.9,488.57,7.0,0.03,Delayed
+ORD-00129,2025-06-11,North,WH-03,Supplier D,Electronics,Laptop,493,312,704,117,269.34,375.44,15.0,0.017,On Time
+ORD-00130,2025-08-22,East,WH-01,Supplier B,Furniture,Cabinet,378,378,13,209,192.68,223.51,15.0,0.071,Cancelled
+ORD-00131,2025-06-12,West,WH-02,Supplier E,Furniture,Bookshelf,157,87,326,243,173.44,204.2,12.0,0.078,On Time
+ORD-00132,2025-04-26,East,WH-01,Supplier C,Electronics,Laptop,121,95,120,159,312.31,363.76,5.0,0.002,On Time
+ORD-00133,2025-04-03,North,WH-02,Supplier B,Electronics,Laptop,353,252,343,206,446.04,557.74,4.0,0.044,On Time
+ORD-00134,2025-02-11,North,WH-01,Supplier D,Furniture,Bookshelf,196,151,772,115,250.61,326.49,2.0,0.027,On Time
+ORD-00135,2025-10-11,South,WH-03,Supplier A,Accessories,USB Cable,188,157,142,211,413.24,541.22,5.0,0.022,On Time
+ORD-00136,2025-07-29,Central,WH-01,Supplier B,Furniture,Cabinet,358,274,621,76,204.07,251.07,9.0,0.027,Delayed
+ORD-00137,2025-07-25,South,WH-04,Supplier B,Furniture,Table,305,231,693,109,55.69,79.27,4.0,0.051,On Time
+ORD-00138,2025-08-08,West,WH-02,Supplier E,Office Supplies,Printer Paper,280,256,128,167,35.45,44.68,14.0,0.015,Delayed
+ORD-00139,2025-10-07,South,WH-02,Supplier C,Furniture,Cabinet,394,351,359,216,30.41,35.39,2.0,0.073,On Time
+ORD-00140,2025-05-16,South,WH-03,Supplier C,Accessories,Webcam,242,233,696,93,193.17,239.54,13.0,0.037,Delayed
+ORD-00141,2025-04-16,Central,WH-02,Supplier A,Accessories,Laptop Stand,218,147,551,85,171.93,225.11,15.0,0.026,On Time
+ORD-00142,2025-04-28,West,WH-04,Supplier D,Electronics,Headphones,230,196,64,68,360.38,458.57,6.0,0.061,On Time
+ORD-00143,2025-08-25,North,WH-01,Supplier A,Furniture,Cabinet,306,257,370,140,372.7,459.22,8.0,0.001,On Time
+ORD-00144,2025-11-05,East,WH-03,Supplier B,Furniture,Bookshelf,199,146,717,94,30.17,35.88,2.0,0.035,On Time
+ORD-00145,2025-04-10,North,WH-04,Supplier B,Electronics,Headphones,269,213,462,198,114.46,159.76,9.0,0.028,On Time
+ORD-00146,2025-09-18,East,WH-02,Supplier C,Electronics,Monitor,250,176,562,200,140.76,203.94,7.0,0.027,On Time
+ORD-00147,2025-11-01,West,WH-02,Supplier D,Office Supplies,Notebook,491,304,694,204,276.07,344.77,14.0,0.027,On Time
+ORD-00148,2025-12-20,North,WH-04,Supplier E,Furniture,Cabinet,42,27,339,147,76.54,96.78,13.0,0.003,Delayed
+ORD-00149,2025-10-13,South,WH-01,Supplier D,Electronics,Headphones,67,40,228,249,71.3,95.21,2.0,0.012,On Time
+ORD-00150,2025-11-24,South,WH-01,Supplier B,Electronics,Monitor,128,114,217,68,472.18,644.78,11.0,0.011,On Time
+ORD-00151,2025-04-13,Central,WH-03,Supplier E,Accessories,Mouse Pad,315,277,679,90,403.08,510.95,5.0,0.079,On Time
+ORD-00152,2025-03-04,Central,WH-02,Supplier D,Electronics,Monitor,25,25,749,75,94.42,134.22,5.0,0.002,On Time
+ORD-00153,2025-06-24,North,WH-04,Supplier D,Electronics,Mouse,57,52,94,77,206.25,271.84,7.0,0.013,On Time
+ORD-00154,2025-10-09,West,WH-01,Supplier E,Furniture,Desk,188,108,694,113,181.03,232.64,13.0,0.078,Delayed
+ORD-00155,2025-10-20,South,WH-03,Supplier B,Accessories,USB Cable,375,372,254,117,396.55,532.96,15.0,0.05,On Time
+ORD-00156,2025-08-14,South,WH-02,Supplier D,Electronics,Keyboard,302,296,694,129,257.56,369.82,5.0,0.036,Delayed
+ORD-00157,2025-01-07,West,WH-02,Supplier E,Office Supplies,Pen Set,222,171,344,100,68.29,94.81,11.0,0.006,On Time
+ORD-00158,2025-05-07,Central,WH-03,Supplier B,Office Supplies,Stapler,344,289,221,151,370.8,430.87,14.0,0.054,On Time
+ORD-00159,2025-04-02,Central,WH-03,Supplier E,Electronics,Mouse,332,332,605,225,201.46,251.76,6.0,0.011,On Time
+ORD-00160,2025-07-09,East,WH-01,Supplier E,Office Supplies,Pen Set,292,238,694,59,135.15,174.5,14.0,0.054,Delayed
+ORD-00161,2025-12-25,South,WH-04,Supplier D,Furniture,Cabinet,263,263,192,216,190.87,237.51,9.0,0.078,On Time
+ORD-00162,2025-02-22,West,WH-02,Supplier B,Office Supplies,File Folder,346,204,142,149,251.39,341.9,3.0,0.043,Delayed
+ORD-00163,2025-08-30,South,WH-04,Supplier D,Office Supplies,File Folder,494,318,783,171,174.84,244.41,3.0,0.017,On Time
+ORD-00164,2025-05-12,East,WH-02,Supplier A,Furniture,Table,66,50,359,196,124.74,170.82,8.0,0.05,On Time
+ORD-00165,2025-12-30,South,WH-02,Supplier A,Electronics,Laptop,268,225,291,113,202.26,292.63,,0.041,On Time
+ORD-00166,2025-04-22,West,WH-04,Supplier B,Accessories,Webcam,98,93,302,173,14.49,17.85,12.0,0.043,On Time
+ORD-00167,2025-01-07,South,WH-03,Supplier E,Furniture,Office Chair,129,129,278,68,387.39,547.19,6.0,0.038,On Time
+ORD-00168,2025-08-18,North,WH-01,Supplier D,Electronics,Mouse,32,23,206,125,89.62,123.67,12.0,0.054,Delayed
+ORD-00169,2025-06-05,Central,WH-02,Supplier D,Electronics,Laptop,414,237,546,111,26.73,33.64,10.0,0.046,Cancelled
+ORD-00170,2025-07-16,North,WH-03,Supplier B,Office Supplies,Stapler,399,379,662,190,328.58,450.23,3.0,0.079,On Time
+ORD-00171,2025-11-19,East,WH-02,Supplier B,Office Supplies,Stapler,384,327,744,74,388.1,458.43,2.0,0.066,Delayed
+ORD-00172,2025-12-30,South,WH-01,Supplier A,Electronics,Keyboard,109,70,29,138,407.85,565.61,13.0,0.021,On Time
+ORD-00173,2025-08-11,North,WH-02,Supplier C,Furniture,Table,361,287,768,141,249.29,326.49,2.0,0.058,On Time
+ORD-00174,2025-09-07,North,WH-01,Supplier B,Electronics,Mouse,367,338,722,91,106.66,132.01,2.0,0.017,On Time
+ORD-00175,2025-03-24,North,WH-01,Supplier C,Office Supplies,Notebook,299,279,414,166,369.93,498.2,15.0,0.063,On Time
+ORD-00176,2025-08-28,Central,WH-02,Supplier B,Electronics,Headphones,240,191,124,88,351.36,471.7,5.0,0.012,On Time
+ORD-00177,2025-12-26,South,WH-02,Supplier E,Office Supplies,Stapler,92,64,710,207,126.9,153.91,15.0,0.038,On Time
+ORD-00178,2025-11-19,Central,WH-01,Supplier E,Furniture,Cabinet,253,253,35,182,452.19,524.14,12.0,0.063,On Time
+ORD-00179,2025-09-20,West,WH-03,Supplier A,Accessories,USB Cable,279,245,575,130,56.66,72.53,5.0,0.022,Delayed
+ORD-00180,2025-07-08,East,WH-04,Supplier A,Electronics,Laptop,132,99,691,195,491.43,649.11,1.0,0.067,On Time
+ORD-00181,2025-10-17,West,WH-01,Supplier C,Furniture,Table,65,44,404,156,430.82,608.74,2.0,0.052,Delayed
+ORD-00182,2025-12-28,East,WH-02,Supplier B,Electronics,Mouse,293,268,390,160,345.51,493.55,2.0,0.032,Delayed
+ORD-00183,2025-02-27,West,WH-02,Supplier D,Accessories,Webcam,62,41,532,70,469.68,614.64,15.0,0.034,On Time
+ORD-00184,2025-01-09,South,WH-03,Supplier A,Accessories,USB Cable,227,144,548,99,362.54,498.91,4.0,0.074,On Time
+ORD-00185,2025-10-31,South,WH-04,Supplier D,Electronics,Headphones,436,355,92,170,99.28,127.26,7.0,0.017,On Time
+ORD-00186,2025-04-25,Central,WH-01,Supplier D,Office Supplies,Stapler,368,255,559,183,223.87,307.56,3.0,0.055,Delayed
+ORD-00187,2025-07-29,Central,WH-01,Supplier B,Accessories,Laptop Stand,122,105,454,99,40.39,48.93,5.0,0.057,Cancelled
+ORD-00188,2025-02-10,Central,WH-04,Supplier C,Office Supplies,Pen Set,143,87,96,243,197.88,249.59,11.0,0.074,On Time
+ORD-00189,2025-10-31,East,WH-01,Supplier B,Furniture,Table,29,25,396,164,372.09,498.7,9.0,0.057,On Time
+ORD-00190,2025-06-22,West,WH-04,Supplier A,Electronics,Mouse,348,240,677,50,196.29,226.8,5.0,0.047,On Time
+ORD-00191,2025-08-22,East,WH-02,Supplier D,Electronics,Laptop,206,113,407,234,168.5,230.3,9.0,0.072,On Time
+ORD-00192,2025-10-08,East,WH-04,Supplier B,Accessories,Webcam,50,30,295,79,299.7,419.78,1.0,0.066,On Time
+ORD-00193,2025-03-19,South,WH-01,Supplier B,Accessories,Power Bank,175,175,707,235,436.74,554.55,9.0,0.057,On Time
+ORD-00194,2025-04-18,West,WH-04,Supplier B,Office Supplies,Pen Set,79,77,703,156,28.55,36.67,14.0,0.003,Delayed
+ORD-00195,2025-10-08,North,WH-03,Supplier A,Furniture,Office Chair,268,178,378,229,195.81,275.19,5.0,0.03,Cancelled
+ORD-00196,2025-02-08,South,WH-02,Supplier C,Furniture,Table,406,381,664,214,83.33,115.22,8.0,0.051,On Time
+ORD-00197,2025-04-29,Central,WH-02,Supplier B,Office Supplies,Pen Set,393,335,431,97,349.2,431.77,5.0,0.042,Delayed
+ORD-00198,2025-12-01,South,WH-04,Supplier A,Accessories,Mouse Pad,458,458,727,136,57.33,71.5,14.0,0.026,Delayed
+ORD-00199,2025-12-02,North,WH-01,Supplier D,Accessories,USB Cable,289,212,663,178,334.08,452.23,12.0,0.012,On Time
+ORD-00200,2025-01-27,North,WH-03,Supplier E,Office Supplies,Printer Paper,461,410,706,68,146.66,193.44,6.0,0.044,On Time
+ORD-00201,2025-04-14,Central,WH-02,Supplier A,Office Supplies,Printer Paper,236,137,452,95,103.46,124.01,8.0,0.023,On Time
+ORD-00202,2025-03-15,East,WH-02,Supplier E,Electronics,Keyboard,418,312,762,244,468.49,582.32,2.0,0.019,On Time
+ORD-00203,2025-07-10,East,WH-01,Supplier B,Electronics,Keyboard,21,21,529,179,14.17,20.12,3.0,0.032,On Time
+ORD-00204,2025-11-20,Central,WH-01,Supplier B,Accessories,Laptop Stand,43,35,593,105,221.7,300.73,11.0,0.063,On Time
+ORD-00205,2025-05-27,Central,WH-03,Supplier A,Office Supplies,Pen Set,225,156,297,194,15.71,22.71,9.0,0.039,Delayed
+ORD-00206,2025-09-12,South,WH-04,Supplier E,Electronics,Mouse,339,206,104,141,244.38,337.27,5.0,0.017,On Time
+ORD-00207,2025-10-11,West,WH-01,Supplier B,Electronics,Monitor,218,196,678,131,253.02,362.47,5.0,0.009,On Time
+ORD-00208,2025-08-01,West,WH-04,Supplier D,Office Supplies,Notebook,375,327,50,128,164.22,199.5,9.0,0.04,On Time
+ORD-00209,2025-05-03,West,WH-03,Supplier C,Electronics,Keyboard,133,98,340,199,70.42,97.28,10.0,0.064,On Time
+ORD-00210,2025-07-25,North,WH-04,Supplier C,Electronics,Mouse,299,299,790,154,191.31,221.17,3.0,0.052,Cancelled
+ORD-00211,2025-08-28,Central,WH-02,Supplier B,Furniture,Table,174,97,164,76,337.77,456.4,14.0,0.019,On Time
+ORD-00212,2025-12-05,East,WH-04,Supplier E,Office Supplies,Stapler,184,129,513,104,392.29,506.36,4.0,0.035,On Time
+ORD-00213,2025-10-13,South,WH-03,Supplier B,Office Supplies,Pen Set,241,241,284,209,267.72,335.73,7.0,0.068,Delayed
+ORD-00214,2025-01-22,East,WH-03,Supplier E,Electronics,Mouse,110,78,675,109,296.97,418.35,2.0,0.014,On Time
+ORD-00215,2025-09-16,North,WH-03,Supplier D,Office Supplies,Printer Paper,186,125,574,158,104.31,146.69,8.0,0.043,Delayed
+ORD-00216,2025-12-23,North,WH-04,Supplier E,Electronics,Monitor,466,380,188,205,147.23,170.3,5.0,0.028,On Time
+ORD-00217,2025-04-15,West,WH-02,Supplier B,Furniture,Desk,226,217,761,205,85.14,113.48,15.0,0.01,On Time
+ORD-00218,2025-09-15,North,WH-01,Supplier D,Office Supplies,File Folder,301,181,146,169,128.4,161.83,1.0,0.004,Delayed
+ORD-00219,2025-07-23,East,WH-02,Supplier A,Office Supplies,Notebook,84,84,776,202,116.32,148.27,3.0,0.044,On Time
+ORD-00220,2025-11-06,East,WH-04,Supplier C,Accessories,Webcam,395,374,745,134,262.13,366.88,15.0,0.002,On Time
+ORD-00221,2025-09-19,North,WH-04,Supplier B,Office Supplies,Notebook,23,14,189,135,283.53,352.41,9.0,0.008,On Time
+ORD-00222,2025-04-17,Central,WH-01,Supplier B,Office Supplies,Stapler,176,159,191,166,472.75,677.41,5.0,0.028,On Time
+ORD-00223,2025-09-08,South,WH-04,Supplier B,Electronics,Laptop,268,198,268,203,101.81,122.57,8.0,0.003,Delayed
+ORD-00224,2025-08-09,South,WH-03,Supplier D,Furniture,Table,276,207,252,157,322.63,435.17,1.0,0.032,On Time
+ORD-00225,2025-08-10,South,WH-03,Supplier A,Electronics,Keyboard,254,239,105,124,409.54,553.55,14.0,0.01,On Time
+ORD-00226,2025-09-15,South,WH-03,Supplier E,Electronics,Monitor,325,325,206,168,282.32,346.03,7.0,0.028,On Time
+ORD-00227,2025-07-20,North,WH-03,Supplier A,Accessories,Mouse Pad,385,236,535,248,131.23,163.7,7.0,0.063,Delayed
+ORD-00228,2025-09-15,West,WH-03,Supplier D,Furniture,Desk,489,371,641,194,134.96,189.0,8.0,0.05,Delayed
+ORD-00229,2025-12-15,Central,WH-04,Supplier B,Accessories,Mouse Pad,414,327,396,56,24.43,33.68,3.0,0.036,On Time
+ORD-00230,2025-08-13,South,WH-01,Supplier C,Office Supplies,Pen Set,93,68,417,233,156.19,195.04,1.0,0.007,Delayed
+ORD-00231,2025-07-21,West,WH-01,Supplier B,Office Supplies,Stapler,206,150,278,241,373.58,489.46,11.0,0.05,On Time
+ORD-00232,2025-08-14,West,WH-03,Supplier E,Furniture,Desk,81,46,180,197,28.52,33.33,15.0,0.013,On Time
+ORD-00233,2025-08-24,Central,WH-04,Supplier C,Office Supplies,Pen Set,356,317,593,215,113.55,137.69,9.0,0.006,Cancelled
+ORD-00234,2025-07-02,East,WH-02,Supplier B,Furniture,Office Chair,183,140,700,124,354.59,459.46,1.0,0.053,On Time
+ORD-00235,2025-07-19,South,WH-02,Supplier C,Electronics,Monitor,75,48,179,107,392.41,461.39,11.0,0.073,On Time
+ORD-00236,2025-12-23,South,WH-04,Supplier A,Office Supplies,Printer Paper,130,124,168,65,230.38,323.22,6.0,0.037,On Time
+ORD-00237,2025-09-03,West,WH-03,Supplier D,Electronics,Headphones,237,225,518,228,350.55,478.64,9.0,0.003,On Time
+ORD-00238,2025-12-19,Central,WH-01,Supplier B,Electronics,Laptop,259,205,456,76,197.04,282.38,14.0,0.07,On Time
+ORD-00239,2025-04-21,North,WH-04,Supplier E,Office Supplies,Stapler,40,27,675,100,84.16,114.29,2.0,0.005,On Time
+ORD-00240,2025-01-06,South,WH-02,Supplier A,Electronics,Laptop,160,139,91,124,202.08,289.4,4.0,0.069,On Time
+ORD-00241,2025-08-24,Central,WH-02,Supplier B,Accessories,Power Bank,284,197,66,193,292.08,384.48,2.0,0.031,On Time
+ORD-00242,2025-05-07,Central,WH-02,Supplier A,Accessories,Laptop Stand,158,105,528,136,474.29,630.84,4.0,0.029,On Time
+ORD-00243,2025-04-14,Central,WH-03,Supplier E,Accessories,Mouse Pad,478,437,121,237,39.03,56.32,2.0,0.043,On Time
+ORD-00244,2025-08-25,West,WH-02,Supplier B,Furniture,Bookshelf,89,50,57,172,256.16,343.93,12.0,0.077,On Time
+ORD-00245,2025-06-04,South,WH-04,Supplier E,Electronics,Laptop,404,241,601,125,167.82,194.54,1.0,0.072,On Time
+ORD-00246,2025-09-14,West,WH-04,Supplier C,Accessories,USB Cable,137,75,385,89,256.61,350.82,11.0,0.038,On Time
+ORD-00247,2025-08-23,West,WH-02,Supplier E,Furniture,Table,217,135,42,116,16.87,23.98,3.0,0.056,Cancelled
+ORD-00248,2025-10-16,North,WH-04,Supplier C,Accessories,Power Bank,224,130,513,179,159.95,222.12,8.0,0.046,On Time
+ORD-00249,2025-02-09,East,WH-02,Supplier B,Accessories,Webcam,233,233,636,151,410.83,544.41,5.0,0.055,Delayed
+ORD-00250,2025-10-15,West,WH-02,Supplier C,Accessories,Power Bank,75,52,12,225,279.2,377.31,4.0,0.066,On Time
+ORD-00251,2025-07-16,North,WH-01,Supplier B,Electronics,Monitor,306,191,495,229,228.04,329.99,5.0,0.003,On Time
+ORD-00252,2025-09-30,West,WH-03,Supplier B,Furniture,Cabinet,489,327,525,201,146.33,172.26,6.0,0.026,On Time
+ORD-00253,2025-09-21,West,WH-03,Supplier D,Accessories,USB Cable,312,312,781,142,152.53,205.94,6.0,0.077,Delayed
+ORD-00254,2025-02-26,Central,WH-01,Supplier B,Furniture,Cabinet,194,157,51,159,194.64,240.38,5.0,0.076,On Time
+ORD-00255,2025-10-25,North,WH-01,Supplier C,Electronics,Headphones,366,268,18,131,418.61,561.79,12.0,0.001,Cancelled
+ORD-00256,2025-04-08,South,WH-03,Supplier D,Office Supplies,Stapler,389,383,666,127,483.77,644.52,11.0,0.016,On Time
+ORD-00257,2025-05-17,West,WH-02,Supplier D,Accessories,Laptop Stand,481,359,618,51,222.13,265.68,12.0,0.08,Delayed
+ORD-00258,2025-03-28,South,WH-02,Supplier B,Office Supplies,Stapler,147,105,797,114,199.71,242.05,6.0,0.039,Delayed
+ORD-00259,2025-08-30,West,WH-03,Supplier E,Office Supplies,File Folder,450,294,151,69,424.04,566.72,9.0,0.046,On Time
+ORD-00260,2025-07-18,West,WH-02,Supplier E,Electronics,Mouse,397,293,799,83,216.32,257.09,5.0,0.013,On Time
+ORD-00261,2025-11-06,North,WH-01,Supplier D,Office Supplies,Pen Set,344,243,445,90,278.25,342.12,13.0,0.072,On Time
+ORD-00262,2025-03-25,East,WH-02,Supplier B,Accessories,Power Bank,461,409,36,218,119.32,167.12,6.0,0.019,Delayed
+ORD-00263,2025-08-30,East,WH-02,Supplier E,Electronics,Mouse,311,216,52,72,373.03,465.59,4.0,0.015,On Time
+ORD-00264,2025-10-08,South,WH-04,Supplier B,Furniture,Table,307,257,140,87,268.33,347.87,13.0,0.018,On Time
+ORD-00265,2025-11-19,Central,WH-04,Supplier B,Accessories,Mouse Pad,245,142,225,221,405.47,580.77,3.0,0.074,On Time
+ORD-00266,2025-09-09,Central,WH-04,Supplier D,Office Supplies,Pen Set,83,53,615,116,391.46,476.85,13.0,0.056,On Time
+ORD-00267,2025-07-09,West,WH-02,Supplier D,Office Supplies,Stapler,474,357,529,111,111.43,141.17,12.0,0.061,On Time
+ORD-00268,2025-06-01,West,WH-03,Supplier A,Office Supplies,Notebook,445,445,607,189,359.24,478.49,6.0,0.03,On Time
+ORD-00269,2025-10-29,East,WH-01,Supplier E,Furniture,Bookshelf,67,49,354,79,401.03,552.06,11.0,0.073,On Time
+ORD-00270,2025-10-05,Central,WH-02,Supplier E,Electronics,Headphones,221,194,517,136,176.32,250.46,11.0,0.063,On Time
+ORD-00271,2025-05-19,West,WH-03,Supplier E,Accessories,Mouse Pad,356,241,659,242,90.44,128.84,5.0,0.06,On Time
+ORD-00272,2025-06-25,West,WH-02,Supplier C,Accessories,Webcam,433,265,422,218,6.3,8.71,4.0,0.078,On Time
+ORD-00273,2025-01-08,Central,WH-01,Supplier B,Accessories,Webcam,424,245,255,197,228.2,278.06,5.0,0.029,On Time
+ORD-00274,2025-10-22,South,WH-02,Supplier D,Accessories,USB Cable,79,55,458,167,179.45,207.7,7.0,0.049,On Time
+ORD-00275,2025-08-23,Central,WH-01,Supplier E,Furniture,Desk,416,261,30,55,279.68,353.83,1.0,0.073,On Time
+ORD-00276,2025-06-12,North,WH-02,Supplier A,Furniture,Bookshelf,276,175,417,124,98.08,116.96,14.0,0.063,Cancelled
+ORD-00277,2025-02-18,South,WH-01,Supplier E,Office Supplies,Pen Set,84,78,466,181,430.53,586.86,15.0,0.045,On Time
+ORD-00278,2025-10-29,South,WH-02,Supplier B,Office Supplies,File Folder,258,143,453,142,132.59,178.78,1.0,0.006,On Time
+ORD-00279,2025-02-07,Central,WH-01,Supplier B,Office Supplies,Printer Paper,308,255,274,59,117.08,136.19,11.0,0.052,On Time
+ORD-00280,2025-05-16,Central,WH-04,Supplier D,Office Supplies,Notebook,57,42,669,100,242.95,340.37,13.0,0.042,On Time
+ORD-00281,2025-11-06,West,WH-02,Supplier C,Accessories,USB Cable,44,35,193,142,251.93,308.52,1.0,0.015,On Time
+ORD-00282,2025-08-07,West,WH-02,Supplier D,Furniture,Bookshelf,429,356,236,87,111.47,142.64,2.0,0.071,Delayed
+ORD-00283,2025-12-14,East,WH-03,Supplier E,Furniture,Table,480,339,557,178,139.57,188.47,9.0,0.027,On Time
+ORD-00284,2025-10-23,Central,WH-03,Supplier A,Electronics,Laptop,78,54,255,185,89.0,113.82,13.0,0.031,On Time
+ORD-00285,2025-02-03,East,WH-01,Supplier D,Office Supplies,Stapler,495,453,82,151,360.64,462.48,5.0,0.054,On Time
+ORD-00286,2025-12-18,South,WH-02,Supplier C,Electronics,Keyboard,436,429,159,130,386.19,451.72,14.0,0.039,Delayed
+ORD-00287,2025-03-20,North,WH-01,Supplier D,Furniture,Cabinet,376,243,522,132,233.85,297.09,9.0,0.007,On Time
+ORD-00288,2025-08-24,West,WH-04,Supplier B,Furniture,Office Chair,402,240,78,240,358.47,494.49,13.0,0.031,On Time
+ORD-00289,2025-09-30,West,WH-03,Supplier E,Electronics,Mouse,316,315,239,210,369.29,526.07,5.0,0.008,On Time
+ORD-00290,2025-06-10,South,WH-01,Supplier E,Office Supplies,Stapler,177,128,732,192,73.45,93.58,15.0,0.015,On Time
+ORD-00291,2025-06-24,North,WH-01,Supplier E,Electronics,Laptop,76,62,81,80,483.26,617.16,14.0,0.001,Delayed
+ORD-00292,2025-11-04,Central,WH-03,Supplier E,Electronics,Headphones,452,329,617,70,411.41,559.84,7.0,0.015,On Time
+ORD-00293,2025-08-09,North,WH-02,Supplier E,Accessories,Laptop Stand,67,41,406,180,106.22,152.2,14.0,0.026,On Time
+ORD-00294,2025-01-09,West,WH-01,Supplier E,Furniture,Cabinet,347,293,93,175,97.15,119.51,14.0,0.043,On Time
+ORD-00295,2025-10-16,Central,WH-03,Supplier A,Electronics,Headphones,452,367,749,243,67.2,86.15,15.0,0.074,On Time
+ORD-00296,2025-04-23,East,WH-02,Supplier C,Furniture,Cabinet,450,293,308,84,73.5,102.08,6.0,0.043,On Time
+ORD-00297,2025-07-24,South,WH-04,Supplier E,Office Supplies,Stapler,75,58,757,218,375.34,500.29,2.0,0.056,Delayed
+ORD-00298,2025-07-05,West,WH-03,Supplier C,Electronics,Mouse,84,79,302,236,237.48,280.98,3.0,0.029,On Time
+ORD-00299,2025-12-07,Central,WH-01,Supplier E,Office Supplies,Pen Set,287,242,743,193,392.55,525.36,5.0,0.06,On Time
+ORD-00300,2025-07-16,East,WH-04,Supplier D,Electronics,Headphones,88,52,232,233,374.4,451.54,4.0,0.05,On Time
+ORD-00301,2025-09-23,Central,WH-02,Supplier E,Electronics,Mouse,235,193,742,94,304.28,396.5,14.0,0.037,Delayed
+ORD-00302,2025-09-19,North,WH-02,Supplier B,Furniture,Table,409,368,225,108,344.75,451.19,11.0,0.016,On Time
+ORD-00303,2025-09-05,East,WH-03,Supplier A,Furniture,Bookshelf,108,102,240,227,14.09,19.91,6.0,0.024,Cancelled
+ORD-00304,2025-04-25,West,WH-03,Supplier D,Office Supplies,Notebook,468,404,414,61,159.33,205.34,8.0,0.05,On Time
+ORD-00305,2025-05-01,Central,WH-03,Supplier D,Office Supplies,Stapler,300,187,178,189,320.72,395.71,8.0,0.034,On Time
+ORD-00306,2025-05-21,North,WH-02,Supplier B,Accessories,Power Bank,276,249,338,82,9.63,11.74,3.0,0.071,On Time
+ORD-00307,2025-03-06,Central,WH-04,Supplier E,Furniture,Table,179,159,435,226,21.32,30.11,4.0,0.019,On Time
+ORD-00308,2025-10-03,East,WH-02,Supplier A,Furniture,Table,253,142,563,70,426.68,512.57,1.0,0.006,On Time
+ORD-00309,2025-11-09,South,WH-01,Supplier D,Office Supplies,Pen Set,150,113,779,109,343.59,439.03,2.0,0.047,On Time
+ORD-00310,2025-08-27,North,WH-02,Supplier A,Electronics,Keyboard,68,48,205,101,136.36,164.47,13.0,0.071,On Time
+ORD-00311,2025-10-29,Central,WH-01,Supplier D,Furniture,Table,166,146,617,231,345.54,477.53,9.0,0.029,On Time
+ORD-00312,2025-01-10,North,WH-04,Supplier E,Electronics,Headphones,335,220,535,216,397.27,513.4,15.0,0.052,On Time
+ORD-00313,2025-08-21,South,WH-03,Supplier D,Electronics,Monitor,432,365,634,226,156.86,196.91,12.0,0.019,On Time
+ORD-00314,2025-07-14,South,WH-03,Supplier D,Accessories,Webcam,453,453,86,172,22.84,28.74,10.0,0.045,Delayed
+ORD-00315,2025-01-12,Central,WH-02,Supplier C,Accessories,Power Bank,21,19,286,155,466.73,656.07,10.0,0.063,On Time
+ORD-00316,2025-06-26,West,WH-03,Supplier E,Office Supplies,Printer Paper,348,348,475,241,175.86,231.46,2.0,0.069,Delayed
+ORD-00317,2025-06-26,West,WH-04,Supplier B,Furniture,Table,459,459,457,149,57.71,78.79,12.0,0.008,On Time
+ORD-00318,2025-08-05,South,WH-03,Supplier B,Electronics,Headphones,164,91,329,203,248.47,352.61,6.0,0.029,On Time
+ORD-00319,2025-01-11,West,WH-02,Supplier E,Electronics,Monitor,463,398,169,120,385.39,547.46,14.0,0.051,Cancelled
+ORD-00320,2025-04-28,East,WH-04,Supplier B,Electronics,Monitor,385,291,501,184,114.72,143.23,7.0,0.003,On Time
+ORD-00321,2025-06-13,Central,WH-01,Supplier E,Furniture,Table,439,430,322,249,138.4,198.71,6.0,0.055,On Time
+ORD-00322,2025-02-08,Central,WH-02,Supplier B,Office Supplies,File Folder,80,54,640,111,125.14,144.84,8.0,0.042,On Time
+ORD-00323,2025-02-22,North,WH-01,Supplier C,Office Supplies,File Folder,292,292,170,137,495.88,626.32,9.0,0.023,On Time
+ORD-00324,2025-08-06,West,WH-04,Supplier B,Electronics,Monitor,68,58,317,73,102.71,145.72,8.0,0.065,On Time
+ORD-00325,2025-07-25,North,WH-02,,Accessories,Power Bank,351,332,155,89,289.88,357.25,5.0,0.023,Delayed
+ORD-00326,2025-11-08,East,WH-02,Supplier E,Office Supplies,File Folder,463,274,684,125,463.01,570.39,8.0,0.079,On Time
+ORD-00327,2025-12-26,South,WH-04,Supplier A,Office Supplies,Stapler,423,271,405,224,77.71,96.42,10.0,0.065,On Time
+ORD-00328,2025-02-25,South,WH-03,Supplier A,Office Supplies,Printer Paper,453,420,700,185,485.57,647.6,15.0,0.057,On Time
+ORD-00329,2025-04-28,South,WH-02,Supplier E,Furniture,Bookshelf,150,84,98,231,474.0,607.43,15.0,0.005,On Time
+ORD-00330,2025-09-10,West,WH-02,Supplier C,Electronics,Laptop,62,59,744,58,442.86,605.84,10.0,0.072,On Time
+ORD-00331,2025-10-13,South,WH-01,,Furniture,Cabinet,76,42,787,52,111.21,157.75,9.0,0.063,On Time
+ORD-00332,2025-09-25,West,WH-03,Supplier C,Office Supplies,Notebook,69,60,760,231,318.86,431.18,14.0,0.018,On Time
+ORD-00333,2025-10-18,East,WH-01,Supplier A,Electronics,Headphones,471,345,317,70,381.64,462.3,8.0,0.031,Delayed
+ORD-00334,2025-11-29,North,WH-01,Supplier E,Electronics,Mouse,484,414,555,144,493.08,705.01,2.0,0.021,On Time
+ORD-00335,2025-06-29,West,WH-03,Supplier E,Electronics,Headphones,197,176,380,225,94.31,115.94,2.0,0.079,On Time
+ORD-00336,2025-12-24,South,WH-03,Supplier C,Electronics,Monitor,312,225,460,224,384.18,459.08,12.0,0.068,On Time
+ORD-00337,2025-08-23,East,WH-04,Supplier C,Accessories,Laptop Stand,65,39,176,245,172.71,203.28,3.0,0.074,Delayed
+ORD-00338,2025-12-09,West,WH-03,Supplier B,Office Supplies,Pen Set,189,110,401,240,91.94,121.27,7.0,0.063,On Time
+ORD-00339,2025-07-15,South,WH-02,Supplier D,Furniture,Cabinet,290,244,646,65,213.58,252.91,9.0,0.037,Delayed
+ORD-00340,2025-11-04,North,WH-03,Supplier D,Electronics,Mouse,436,353,745,156,397.95,474.21,8.0,0.016,Delayed
+ORD-00341,2025-03-21,South,WH-04,Supplier B,Furniture,Desk,355,326,500,142,235.1,291.53,9.0,0.017,On Time
+ORD-00342,2025-05-15,Central,WH-04,Supplier D,Furniture,Bookshelf,158,127,159,182,271.07,334.63,6.0,0.012,On Time
+ORD-00343,2025-01-22,West,WH-04,Supplier A,Electronics,Laptop,266,202,477,188,497.6,662.44,1.0,0.044,On Time
+ORD-00344,2025-11-27,West,WH-03,Supplier D,Furniture,Table,167,125,710,206,202.56,282.58,14.0,0.074,On Time
+ORD-00345,2025-08-13,West,WH-03,Supplier B,Furniture,Cabinet,249,140,52,128,309.62,426.78,12.0,0.079,Delayed
+ORD-00346,2025-02-27,North,WH-01,Supplier D,Office Supplies,File Folder,299,214,38,119,185.8,228.3,4.0,0.023,On Time
+ORD-00347,2025-04-03,East,WH-01,Supplier E,Office Supplies,Pen Set,144,144,641,97,199.43,244.02,13.0,0.056,On Time
+ORD-00348,2025-07-11,West,WH-02,Supplier C,Electronics,Headphones,211,208,40,64,349.34,502.96,6.0,0.048,On Time
+ORD-00349,2025-04-13,North,WH-01,Supplier A,Furniture,Desk,393,280,702,83,469.25,540.8,15.0,0.039,On Time
+ORD-00350,2025-01-07,South,WH-02,Supplier E,Office Supplies,File Folder,99,83,683,109,273.47,386.66,12.0,0.053,On Time
+ORD-00351,2025-05-08,South,WH-04,Supplier E,Furniture,Office Chair,113,110,137,239,385.36,466.25,6.0,0.03,On Time
+ORD-00352,2025-02-24,East,WH-01,Supplier B,Accessories,USB Cable,245,188,776,51,49.16,70.5,15.0,0.076,On Time
+ORD-00353,2025-08-19,Central,WH-03,,Office Supplies,Printer Paper,84,46,303,129,109.52,137.19,8.0,0.056,On Time
+ORD-00354,2025-12-28,North,WH-01,Supplier C,Electronics,Laptop,107,62,450,68,253.56,325.09,15.0,0.06,On Time
+ORD-00355,2025-03-03,East,WH-02,Supplier A,Electronics,Laptop,107,86,397,98,14.91,20.31,1.0,0.019,On Time
+ORD-00356,2025-08-28,North,WH-01,Supplier B,Office Supplies,Printer Paper,220,220,775,127,130.16,172.63,13.0,0.013,On Time
+ORD-00357,2025-03-31,Central,WH-04,Supplier A,Electronics,Monitor,233,208,651,77,261.11,325.18,11.0,0.032,On Time
+ORD-00358,2025-08-20,North,WH-03,Supplier D,Office Supplies,Stapler,223,130,533,97,12.41,16.33,2.0,0.061,Delayed
+ORD-00359,2025-08-21,East,WH-02,Supplier E,Accessories,Power Bank,420,270,556,145,135.95,186.14,2.0,0.075,On Time
+ORD-00360,2025-12-20,West,WH-03,Supplier A,Office Supplies,Printer Paper,401,375,719,214,259.45,301.66,13.0,0.034,On Time
+ORD-00361,2025-11-29,West,WH-03,Supplier E,Furniture,Desk,108,104,769,226,288.71,332.99,6.0,0.062,On Time
+ORD-00362,2025-10-19,East,WH-02,Supplier B,Office Supplies,Pen Set,495,425,119,158,463.25,596.4,14.0,0.038,On Time
+ORD-00363,2025-12-11,South,WH-03,Supplier D,Furniture,Desk,80,69,337,225,324.45,385.95,14.0,0.024,On Time
+ORD-00364,2025-06-01,South,WH-03,Supplier B,Furniture,Cabinet,290,163,414,122,210.29,283.74,11.0,0.059,Cancelled
+ORD-00365,2025-05-25,South,WH-01,Supplier D,Accessories,Power Bank,113,108,254,149,465.52,565.24,7.0,0.064,On Time
+ORD-00366,2025-05-10,South,WH-03,Supplier D,Furniture,Cabinet,326,307,771,78,393.52,503.65,2.0,0.016,On Time
+ORD-00367,2025-05-21,East,WH-03,Supplier E,Accessories,Mouse Pad,46,31,172,237,104.0,125.77,5.0,0.024,On Time
+ORD-00368,2025-04-03,South,WH-03,Supplier B,Accessories,Webcam,233,210,569,206,69.77,91.72,6.0,0.04,On Time
+ORD-00369,2025-04-24,South,WH-03,Supplier B,Electronics,Keyboard,93,61,408,107,339.53,402.28,4.0,0.015,On Time
+ORD-00370,2025-10-11,West,WH-02,Supplier A,Electronics,Laptop,80,45,592,97,282.14,326.42,1.0,0.074,Delayed
+ORD-00371,2025-05-23,Central,WH-04,Supplier B,Electronics,Laptop,205,133,408,72,395.89,461.35,3.0,0.047,On Time
+ORD-00372,2025-08-11,West,WH-01,Supplier A,Electronics,Mouse,50,31,502,76,370.71,532.44,14.0,0.01,On Time
+ORD-00373,2025-08-20,North,WH-03,Supplier C,Electronics,Headphones,238,171,655,56,314.48,375.08,10.0,0.015,Cancelled
+ORD-00374,2025-02-02,North,WH-03,Supplier C,Office Supplies,Notebook,31,23,248,98,493.26,672.09,9.0,0.076,On Time
+ORD-00375,2025-10-03,Central,WH-02,Supplier C,Electronics,Headphones,321,258,474,231,269.13,314.98,13.0,0.059,On Time
+ORD-00376,2025-06-19,South,WH-04,Supplier B,Furniture,Cabinet,434,342,589,158,60.99,72.12,6.0,0.059,On Time
+ORD-00377,2025-05-20,North,WH-03,Supplier B,Accessories,USB Cable,51,34,799,117,415.0,540.61,2.0,0.006,On Time
+ORD-00378,2025-12-23,West,WH-02,Supplier A,Electronics,Headphones,179,101,41,219,129.67,167.2,9.0,0.072,On Time
+ORD-00379,2025-07-20,West,WH-01,Supplier D,Accessories,Power Bank,256,218,132,236,389.76,559.49,4.0,0.035,Delayed
+ORD-00380,2025-01-23,West,WH-01,Supplier A,Electronics,Laptop,246,183,543,221,478.77,686.29,11.0,0.053,Delayed
+ORD-00381,2025-08-12,South,WH-03,Supplier C,Electronics,Keyboard,200,139,676,203,349.91,484.23,13.0,0.077,On Time
+ORD-00382,2025-09-27,North,WH-03,Supplier A,Office Supplies,Printer Paper,336,330,119,200,300.03,399.23,8.0,0.008,On Time
+ORD-00383,2025-12-13,Central,WH-04,Supplier D,Office Supplies,File Folder,65,60,280,122,232.89,299.61,10.0,0.039,Delayed
+ORD-00384,2025-06-02,South,WH-04,Supplier B,Accessories,Mouse Pad,360,352,389,150,185.38,233.0,7.0,0.004,On Time
+ORD-00385,2025-11-29,West,WH-03,Supplier A,Office Supplies,Notebook,477,380,309,57,179.74,257.77,12.0,0.04,On Time
+ORD-00386,2025-03-26,West,WH-02,Supplier C,Accessories,USB Cable,99,60,636,102,320.0,425.88,11.0,0.02,On Time
+ORD-00387,2025-04-19,West,WH-04,Supplier C,Electronics,Headphones,154,138,741,191,376.88,498.88,3.0,0.073,On Time
+ORD-00388,2025-01-31,South,WH-03,Supplier B,Electronics,Mouse,279,182,751,248,340.87,415.71,15.0,0.032,Delayed
+ORD-00389,2025-08-17,South,WH-04,Supplier A,Office Supplies,File Folder,494,380,773,184,103.21,120.14,8.0,0.051,On Time
+ORD-00390,2025-08-28,West,WH-03,Supplier D,Accessories,Webcam,327,190,258,186,249.52,357.7,4.0,0.069,On Time
+ORD-00391,2025-12-29,Central,WH-01,Supplier B,Accessories,Laptop Stand,266,256,530,52,396.86,493.74,2.0,0.079,On Time
+ORD-00392,2025-11-06,Central,WH-03,Supplier A,Furniture,Bookshelf,492,301,43,127,240.47,308.47,11.0,0.04,On Time
+ORD-00393,2025-05-21,North,WH-01,Supplier E,Furniture,Cabinet,178,178,237,194,270.63,320.53,5.0,0.036,On Time
+ORD-00394,2025-06-05,North,WH-04,Supplier C,Office Supplies,Notebook,222,218,594,221,386.71,541.81,1.0,0.006,On Time
+ORD-00395,2025-10-26,Central,WH-03,Supplier D,Furniture,Bookshelf,131,102,408,135,332.33,384.93,13.0,0.001,Delayed
+ORD-00396,2025-12-11,West,WH-04,Supplier D,Accessories,Laptop Stand,487,449,733,95,207.63,290.72,8.0,0.049,On Time
+ORD-00397,2025-04-09,Central,WH-01,Supplier D,Accessories,Mouse Pad,311,267,593,139,448.23,534.33,14.0,0.005,Cancelled
+ORD-00398,2025-02-16,South,WH-03,Supplier C,Furniture,Bookshelf,457,434,579,235,85.47,121.02,8.0,0.03,On Time
+ORD-00399,2025-11-23,West,WH-04,Supplier A,Office Supplies,Pen Set,329,251,229,205,497.78,681.43,3.0,0.0,On Time
+ORD-00400,2025-03-08,West,WH-01,Supplier B,Office Supplies,File Folder,138,130,380,191,63.83,76.56,1.0,0.049,On Time
+ORD-00401,2025-03-03,West,WH-04,Supplier A,Electronics,Headphones,402,314,796,58,12.4,16.36,4.0,0.034,Delayed
+ORD-00402,2025-04-19,East,WH-02,Supplier B,Accessories,Webcam,36,36,770,164,445.56,554.19,9.0,0.01,On Time
+ORD-00403,2025-06-16,North,WH-01,Supplier D,Furniture,Cabinet,350,277,537,203,126.25,151.94,9.0,0.024,On Time
+ORD-00404,2025-02-06,West,WH-01,Supplier A,Accessories,USB Cable,433,338,84,179,366.2,515.52,15.0,0.046,On Time
+ORD-00405,2025-04-29,South,WH-01,Supplier D,Furniture,Office Chair,246,231,627,124,406.45,516.62,1.0,0.053,On Time
+ORD-00406,2025-03-27,East,WH-03,Supplier E,Accessories,USB Cable,380,365,145,130,430.2,546.17,11.0,0.037,On Time
+ORD-00407,2025-02-21,Central,WH-03,Supplier D,Furniture,Desk,425,351,83,177,495.84,595.49,15.0,0.064,On Time
+ORD-00408,2025-04-01,South,WH-03,Supplier D,Electronics,Monitor,136,87,263,83,150.55,190.43,7.0,0.009,On Time
+ORD-00409,2025-10-16,Central,WH-02,Supplier B,Accessories,Mouse Pad,62,48,27,196,356.57,503.29,6.0,0.007,On Time
+ORD-00410,2025-12-03,North,WH-02,Supplier E,Electronics,Laptop,387,387,52,88,62.12,78.21,14.0,0.004,On Time
+ORD-00411,2025-10-25,West,WH-01,Supplier D,Furniture,Cabinet,134,124,59,62,206.37,296.24,7.0,0.043,On Time
+ORD-00412,2025-07-23,Central,WH-02,Supplier D,Accessories,Laptop Stand,302,288,524,182,424.75,609.05,7.0,0.056,On Time
+ORD-00413,2025-08-26,North,WH-04,Supplier E,Accessories,USB Cable,56,31,753,99,186.99,223.17,8.0,0.01,On Time
+ORD-00414,2025-06-04,North,WH-01,Supplier E,Office Supplies,Printer Paper,321,251,740,72,297.59,358.06,8.0,0.051,On Time
+ORD-00415,2025-08-28,East,WH-01,Supplier A,Office Supplies,Printer Paper,132,115,580,171,254.37,358.36,10.0,0.038,On Time
+ORD-00416,2025-05-16,North,WH-04,Supplier B,Furniture,Desk,54,52,585,169,324.75,411.73,14.0,0.079,On Time
+ORD-00417,2025-12-28,West,WH-01,Supplier E,Electronics,Monitor,151,86,591,137,486.58,560.21,11.0,0.057,On Time
+ORD-00418,2025-03-05,Central,WH-02,Supplier E,Furniture,Desk,355,346,312,206,32.59,40.16,2.0,0.053,On Time
+ORD-00419,2025-05-03,East,WH-03,Supplier C,Office Supplies,File Folder,355,292,151,161,289.11,384.31,12.0,0.046,On Time
+ORD-00420,2025-09-11,South,WH-04,Supplier E,Office Supplies,Stapler,488,316,211,160,432.2,600.66,12.0,0.08,On Time
+ORD-00421,2025-04-24,East,WH-02,Supplier B,Office Supplies,Stapler,429,304,216,121,243.28,289.51,12.0,0.078,On Time
+ORD-00422,2025-01-20,West,WH-04,Supplier D,Office Supplies,Notebook,396,273,424,203,43.87,51.91,4.0,0.043,On Time
+ORD-00423,2025-01-16,North,WH-04,Supplier D,Electronics,Monitor,247,201,230,106,282.47,402.98,4.0,0.036,On Time
+ORD-00424,2025-05-25,West,WH-01,Supplier D,Furniture,Table,166,95,371,50,169.38,232.96,13.0,0.037,On Time
+ORD-00425,2025-07-27,West,WH-01,Supplier D,Electronics,Headphones,141,88,767,205,81.7,108.41,15.0,0.034,On Time
+ORD-00426,2025-01-19,West,WH-02,Supplier C,Furniture,Cabinet,100,95,90,162,425.27,587.19,11.0,0.043,On Time
+ORD-00427,2025-06-15,South,WH-04,Supplier E,Furniture,Desk,192,118,772,111,263.19,336.53,10.0,0.022,On Time
+ORD-00428,2025-02-07,West,WH-01,Supplier D,Accessories,Mouse Pad,173,115,572,96,466.97,643.27,12.0,0.074,On Time
+ORD-00429,2025-06-30,North,WH-01,Supplier A,Furniture,Desk,169,131,294,127,403.98,509.64,13.0,0.039,Cancelled
+ORD-00430,2025-12-15,North,WH-04,Supplier D,Electronics,Laptop,394,318,378,155,348.02,425.71,8.0,0.067,On Time
+ORD-00431,2025-04-15,Central,WH-02,Supplier E,Electronics,Monitor,77,71,501,236,7.49,10.25,14.0,0.038,Delayed
+ORD-00432,2025-04-10,West,WH-02,Supplier D,Office Supplies,Printer Paper,82,63,355,208,216.77,276.58,13.0,0.057,On Time
+ORD-00433,2025-03-31,North,WH-04,Supplier C,Office Supplies,Printer Paper,175,165,213,247,102.76,148.43,13.0,0.027,On Time
+ORD-00434,2025-10-27,South,WH-02,Supplier B,Electronics,Keyboard,468,402,34,175,455.84,572.01,3.0,0.05,On Time
+ORD-00435,2025-11-28,South,WH-01,Supplier B,Electronics,Mouse,447,271,562,226,91.42,130.41,12.0,0.04,On Time
+ORD-00436,2025-03-20,South,WH-04,Supplier E,Office Supplies,Pen Set,375,235,78,54,146.6,209.62,13.0,0.029,Delayed
+ORD-00437,2025-03-14,South,WH-01,Supplier B,Electronics,Laptop,446,342,525,80,260.83,318.88,15.0,0.071,On Time
+ORD-00438,2025-06-25,North,WH-03,Supplier B,Accessories,Webcam,440,329,501,86,135.36,188.08,13.0,0.009,On Time
+ORD-00439,2025-04-06,East,WH-03,Supplier A,Office Supplies,Stapler,341,314,249,128,108.88,139.36,12.0,0.039,On Time
+ORD-00440,2025-12-11,West,WH-02,,Electronics,Mouse,420,352,370,192,301.55,429.79,3.0,0.016,On Time
+ORD-00441,2025-04-13,West,WH-03,Supplier E,Electronics,Headphones,187,139,450,101,49.02,62.99,13.0,0.069,Delayed
+ORD-00442,2025-08-12,West,WH-01,Supplier B,Accessories,Laptop Stand,185,117,40,246,33.79,46.4,2.0,0.02,On Time
+ORD-00443,2025-01-06,North,WH-03,Supplier B,Furniture,Bookshelf,104,68,638,188,189.26,244.16,1.0,0.051,On Time
+ORD-00444,2025-05-02,Central,WH-01,Supplier B,Furniture,Office Chair,464,388,716,92,361.73,440.71,8.0,0.013,On Time
+ORD-00445,2025-08-24,Central,WH-02,Supplier C,Accessories,Power Bank,156,118,611,247,279.63,338.3,14.0,0.032,On Time
+ORD-00446,2025-04-26,Central,WH-02,Supplier D,Accessories,Mouse Pad,480,387,699,200,214.32,273.82,9.0,0.072,Delayed
+ORD-00447,2025-06-12,Central,WH-01,Supplier C,Accessories,Webcam,478,303,666,89,285.05,392.41,9.0,0.013,Delayed
+ORD-00448,2025-08-14,Central,WH-03,Supplier E,Office Supplies,Printer Paper,208,183,723,112,185.9,247.53,11.0,0.053,On Time
+ORD-00449,2025-08-18,East,WH-02,Supplier A,Furniture,Cabinet,483,471,331,179,468.39,635.41,8.0,0.016,On Time
+ORD-00450,2025-07-01,South,WH-04,Supplier D,Electronics,Laptop,419,284,353,136,32.18,39.73,5.0,0.033,Delayed
+ORD-00451,2025-09-06,West,WH-02,Supplier A,Office Supplies,Pen Set,398,316,724,122,338.33,437.94,1.0,0.043,On Time
+ORD-00452,2025-11-14,West,WH-03,Supplier E,Office Supplies,File Folder,21,21,545,224,446.18,519.05,9.0,0.046,On Time
+ORD-00453,2025-07-29,West,WH-04,Supplier E,Furniture,Table,125,89,364,153,402.92,562.18,6.0,0.048,On Time
+ORD-00454,2025-05-24,East,WH-03,Supplier A,Accessories,Power Bank,383,324,480,207,96.1,139.05,12.0,0.051,On Time
+ORD-00455,2025-12-11,North,WH-01,Supplier A,Electronics,Mouse,91,54,114,65,151.48,192.69,15.0,0.022,On Time
+ORD-00456,2025-04-06,South,WH-04,Supplier A,Furniture,Bookshelf,446,380,796,108,359.94,415.11,7.0,0.032,Cancelled
+ORD-00457,2025-12-12,Central,WH-03,Supplier E,Electronics,Keyboard,145,86,331,96,46.71,56.1,8.0,0.003,On Time
+ORD-00458,2025-09-01,West,WH-04,Supplier B,Furniture,Office Chair,189,189,581,165,406.87,547.55,13.0,0.062,On Time
+ORD-00459,2025-03-27,East,WH-03,Supplier A,Electronics,Mouse,224,203,536,207,360.86,481.25,5.0,0.067,On Time
+ORD-00460,2025-07-03,South,WH-04,Supplier D,Electronics,Headphones,332,313,513,158,366.16,507.63,6.0,0.016,On Time
+ORD-00461,2025-05-01,South,WH-03,Supplier E,Electronics,Headphones,356,321,94,58,54.62,66.97,12.0,0.016,On Time
+ORD-00462,2025-11-28,Central,WH-01,Supplier C,Office Supplies,Pen Set,491,414,718,114,360.29,496.87,13.0,0.003,On Time
+ORD-00463,2025-04-02,West,WH-04,Supplier C,Office Supplies,Pen Set,214,165,244,108,341.51,463.22,7.0,0.078,On Time
+ORD-00464,2025-03-11,West,WH-04,Supplier D,Office Supplies,File Folder,177,173,272,151,416.31,519.07,7.0,0.065,On Time
+ORD-00465,2025-05-13,East,WH-04,Supplier B,Accessories,Power Bank,160,160,15,241,25.59,33.62,2.0,0.029,On Time
+ORD-00466,2025-10-06,West,WH-04,Supplier A,Furniture,Cabinet,294,235,503,185,16.44,19.63,14.0,0.039,On Time
+ORD-00467,2025-05-17,South,WH-01,Supplier E,Electronics,Keyboard,26,26,298,172,189.64,243.83,11.0,0.023,On Time
+ORD-00468,2025-11-10,West,WH-04,Supplier A,Accessories,Webcam,412,346,579,229,78.65,111.24,12.0,0.048,On Time
+ORD-00469,2025-07-06,East,WH-02,Supplier E,Electronics,Keyboard,486,398,666,195,281.4,359.17,14.0,0.057,Cancelled
+ORD-00470,2025-08-09,East,WH-01,Supplier C,Accessories,Laptop Stand,73,56,563,140,459.09,643.58,1.0,0.036,On Time
+ORD-00471,2025-02-15,West,WH-02,Supplier A,Electronics,Headphones,123,80,359,145,198.78,263.8,8.0,0.07,On Time
+ORD-00472,2025-10-05,Central,WH-04,Supplier D,Accessories,Mouse Pad,361,199,209,107,423.25,511.1,5.0,0.041,On Time
+ORD-00473,2025-07-11,North,WH-03,Supplier B,Electronics,Headphones,357,239,695,226,5.12,6.78,10.0,0.012,On Time
+ORD-00474,2025-01-08,Central,WH-02,Supplier D,Accessories,Power Bank,80,64,344,81,88.41,115.09,15.0,0.05,On Time
+ORD-00475,2025-10-03,South,WH-04,Supplier B,Furniture,Office Chair,106,78,616,97,20.06,25.47,2.0,0.037,On Time
+ORD-00476,2025-06-28,East,WH-02,Supplier A,Accessories,Mouse Pad,277,214,226,94,167.43,198.55,3.0,0.075,On Time
+ORD-00477,2025-11-30,North,WH-04,Supplier A,Electronics,Keyboard,197,197,632,231,454.55,579.56,6.0,0.031,On Time
+ORD-00478,2025-02-08,South,WH-04,Supplier B,Office Supplies,File Folder,261,189,362,149,52.99,62.1,10.0,0.032,Cancelled
+ORD-00479,2025-10-20,East,WH-04,Supplier C,Accessories,Laptop Stand,222,172,701,149,305.17,359.99,6.0,0.052,On Time
+ORD-00480,2025-06-27,North,WH-03,Supplier E,Furniture,Office Chair,50,30,684,95,228.49,291.27,8.0,0.042,On Time
+ORD-00481,2025-06-11,East,WH-02,Supplier D,Office Supplies,File Folder,308,176,640,208,469.54,582.99,5.0,0.03,On Time
+ORD-00482,2025-11-27,Central,WH-01,Supplier D,Office Supplies,Pen Set,481,451,334,214,65.65,93.73,5.0,0.079,Delayed
+ORD-00483,2025-04-14,North,WH-01,Supplier D,Furniture,Desk,99,82,237,193,109.95,138.84,7.0,0.024,On Time
+ORD-00484,2025-06-10,West,WH-01,Supplier A,Office Supplies,Printer Paper,30,27,154,223,19.62,27.02,10.0,0.022,On Time
+ORD-00485,2025-10-14,East,WH-01,Supplier D,Office Supplies,Stapler,436,272,317,175,219.8,287.73,13.0,0.069,On Time
+ORD-00486,2025-05-03,West,WH-04,Supplier E,Accessories,Power Bank,273,228,663,95,142.53,194.02,14.0,0.0,On Time
+ORD-00487,2025-02-23,South,WH-02,Supplier E,Electronics,Keyboard,403,272,643,170,435.6,534.93,15.0,0.016,On Time
+ORD-00488,2025-02-03,North,WH-02,Supplier B,Electronics,Laptop,410,272,294,137,304.45,436.15,5.0,0.047,On Time
+ORD-00489,2025-08-30,North,WH-03,Supplier A,Accessories,Laptop Stand,403,223,401,110,308.97,404.45,15.0,0.013,On Time
+ORD-00490,2025-04-23,North,WH-02,Supplier E,Accessories,Mouse Pad,306,188,747,95,268.3,375.46,9.0,0.079,On Time
+ORD-00491,2025-11-14,North,WH-02,Supplier C,Furniture,Desk,195,137,369,228,50.47,63.57,6.0,0.037,Delayed
+ORD-00492,2025-01-23,West,WH-02,Supplier A,Office Supplies,Pen Set,145,88,778,239,225.28,265.84,7.0,0.048,On Time
+ORD-00493,2025-02-15,Central,WH-03,Supplier A,Electronics,Keyboard,66,66,174,212,499.76,675.73,12.0,0.013,On Time
+ORD-00494,2025-11-08,Central,WH-01,Supplier E,Electronics,Laptop,225,158,742,130,418.44,482.18,8.0,0.023,On Time
+ORD-00495,2025-05-15,West,WH-02,Supplier C,Furniture,Desk,495,304,590,219,447.26,578.12,13.0,0.049,On Time
+ORD-00496,2025-04-28,North,WH-03,Supplier B,Furniture,Table,456,296,233,94,412.5,498.23,5.0,0.044,On Time
+ORD-00497,2025-07-08,South,WH-03,Supplier E,Office Supplies,Notebook,126,106,133,167,56.01,74.95,14.0,0.063,On Time
+ORD-00498,2025-05-11,South,WH-04,Supplier C,Electronics,Keyboard,483,281,353,245,117.59,169.78,11.0,0.022,On Time
+ORD-00499,2025-07-31,South,WH-03,Supplier A,Accessories,Webcam,294,288,533,96,6.55,8.45,4.0,0.052,On Time
+ORD-00500,2025-04-23,East,WH-01,Supplier C,Accessories,USB Cable,356,356,61,207,155.24,216.6,15.0,0.023,On Time
+ORD-00501,2025-02-13,East,WH-02,Supplier A,Office Supplies,File Folder,142,95,138,201,58.76,76.53,12.0,0.047,On Time
+ORD-00502,2025-05-08,South,WH-03,Supplier E,Furniture,Office Chair,493,382,144,243,239.03,310.44,15.0,0.048,On Time
+ORD-00503,2025-12-30,South,WH-01,Supplier E,Furniture,Cabinet,153,85,666,220,340.18,486.16,8.0,0.01,On Time
+ORD-00504,2025-06-07,Central,WH-03,Supplier D,Accessories,Laptop Stand,126,109,136,211,437.88,620.47,12.0,0.044,On Time
+ORD-00505,2025-09-30,West,WH-03,Supplier D,Office Supplies,Pen Set,324,245,747,72,375.86,520.84,10.0,0.001,Delayed
+ORD-00506,2025-11-11,South,WH-03,Supplier D,Electronics,Monitor,348,238,80,110,469.6,581.78,9.0,0.04,Delayed
+ORD-00507,2025-12-21,Central,WH-03,Supplier E,Accessories,Webcam,69,45,282,214,31.68,41.61,1.0,0.056,On Time
+ORD-00508,2025-12-06,Central,WH-03,Supplier B,Accessories,Laptop Stand,356,312,196,62,11.03,13.43,3.0,0.006,On Time
+ORD-00509,2025-02-14,South,WH-01,Supplier E,Accessories,USB Cable,114,86,12,248,332.36,426.48,12.0,0.075,On Time
+ORD-00510,2025-04-18,South,WH-02,Supplier C,Office Supplies,Printer Paper,287,183,294,56,148.23,192.0,4.0,0.037,On Time
+ORD-00511,2025-08-07,East,WH-02,Supplier E,Office Supplies,Pen Set,42,37,31,219,130.48,182.61,13.0,0.075,Cancelled
+ORD-00512,2025-11-14,Central,WH-02,Supplier E,Furniture,Table,73,60,175,215,168.79,239.48,7.0,0.009,On Time
+ORD-00513,2025-11-11,Central,WH-02,Supplier A,Accessories,USB Cable,393,384,319,229,138.55,176.57,6.0,0.076,On Time
+ORD-00514,2025-06-26,North,WH-01,Supplier A,Accessories,Laptop Stand,273,166,486,221,258.16,298.26,10.0,0.009,Delayed
+ORD-00515,2025-08-16,South,WH-04,Supplier A,Electronics,Keyboard,472,445,507,241,222.87,313.92,10.0,0.037,On Time
+ORD-00516,2025-07-10,East,WH-04,Supplier E,Electronics,Keyboard,254,225,443,190,258.65,310.97,11.0,0.075,On Time
+ORD-00517,2025-06-09,East,WH-01,Supplier B,Furniture,Bookshelf,78,47,767,77,337.99,451.75,1.0,0.019,On Time
+ORD-00518,2025-09-24,North,WH-01,Supplier C,Accessories,Power Bank,183,164,243,145,196.63,227.6,4.0,0.003,On Time
+ORD-00519,2025-12-24,Central,WH-03,Supplier C,Accessories,Webcam,278,214,679,156,129.4,164.32,6.0,0.063,On Time
+ORD-00520,2025-11-22,West,WH-03,Supplier B,Electronics,Mouse,333,333,672,147,87.27,126.17,3.0,0.048,On Time
+ORD-00521,2025-07-09,Central,WH-03,Supplier B,Office Supplies,File Folder,235,145,734,161,177.99,210.07,15.0,0.041,On Time
+ORD-00522,2025-06-24,Central,WH-02,Supplier C,Furniture,Cabinet,202,176,385,50,372.19,475.33,2.0,0.003,On Time
+ORD-00523,2025-10-17,West,WH-03,Supplier D,Accessories,Laptop Stand,76,56,739,92,379.57,471.48,2.0,0.052,Delayed
+ORD-00524,2025-12-23,East,WH-04,Supplier A,Accessories,Webcam,164,164,255,91,335.12,476.38,10.0,0.014,On Time
+ORD-00525,2025-05-25,West,WH-02,Supplier A,Accessories,Mouse Pad,442,316,312,144,120.84,170.48,12.0,0.074,On Time
+ORD-00526,2025-08-20,North,WH-03,Supplier C,Furniture,Desk,109,109,414,227,296.1,361.63,12.0,0.055,On Time
+ORD-00527,2025-12-26,West,WH-02,Supplier B,Furniture,Table,471,471,797,237,287.49,337.62,4.0,0.057,On Time
+ORD-00528,2025-07-23,North,WH-04,Supplier D,Electronics,Headphones,330,226,672,178,244.71,327.46,13.0,0.019,On Time
+ORD-00529,2025-08-01,West,WH-03,Supplier C,Electronics,Headphones,64,60,717,100,277.24,346.8,1.0,0.07,Delayed
+ORD-00530,2025-02-09,South,WH-04,Supplier A,Accessories,Webcam,479,479,30,193,248.44,335.8,15.0,0.043,On Time
+ORD-00531,2025-10-02,North,WH-04,Supplier E,Accessories,Laptop Stand,276,186,266,216,284.9,330.38,10.0,0.069,On Time
+ORD-00532,2025-11-19,North,WH-04,Supplier B,Accessories,Laptop Stand,40,30,408,64,359.18,427.43,2.0,0.022,On Time
+ORD-00533,2025-03-23,North,WH-03,Supplier E,Accessories,USB Cable,486,393,538,174,59.27,80.36,13.0,0.06,Delayed
+ORD-00534,2025-06-30,West,WH-01,Supplier C,Office Supplies,File Folder,40,27,60,210,376.06,456.43,10.0,0.046,On Time
+ORD-00535,2025-11-16,West,WH-03,Supplier A,Office Supplies,Stapler,71,39,456,136,72.26,101.69,15.0,0.004,Delayed
+ORD-00536,2025-03-24,East,WH-04,Supplier D,Accessories,USB Cable,357,235,279,102,37.98,44.34,2.0,0.032,On Time
+ORD-00537,2025-10-30,North,WH-03,Supplier E,Accessories,Laptop Stand,190,131,604,194,488.16,592.94,4.0,0.015,Delayed
+ORD-00538,2025-09-19,North,WH-04,Supplier D,Electronics,Headphones,455,351,645,138,478.71,693.92,4.0,0.029,Delayed
+ORD-00539,2025-09-29,North,WH-01,Supplier A,Furniture,Bookshelf,86,54,271,155,34.92,44.69,1.0,0.031,On Time
+ORD-00540,2025-07-19,North,WH-02,Supplier E,Electronics,Headphones,132,130,374,55,224.41,305.4,7.0,0.038,On Time
+ORD-00541,2025-08-28,Central,WH-01,Supplier D,Accessories,Webcam,319,287,58,80,97.19,117.09,7.0,0.048,On Time
+ORD-00542,2025-06-29,South,WH-01,Supplier D,Office Supplies,Stapler,179,106,527,246,245.25,326.91,10.0,0.046,On Time
+ORD-00543,2025-06-20,South,WH-02,Supplier E,Electronics,Mouse,285,249,638,89,415.94,568.94,11.0,0.003,On Time
+ORD-00544,2025-10-22,North,WH-03,Supplier A,Office Supplies,Pen Set,339,297,127,207,475.55,591.75,10.0,0.06,On Time
+ORD-00545,2025-06-26,South,WH-02,Supplier D,Office Supplies,Pen Set,251,251,462,118,318.96,446.12,10.0,0.076,On Time
+ORD-00546,2025-08-25,East,WH-03,Supplier C,Furniture,Bookshelf,482,265,784,184,180.18,239.82,1.0,0.028,On Time
+ORD-00547,2025-05-18,West,WH-03,Supplier E,Electronics,Mouse,344,231,650,62,303.65,384.64,11.0,0.014,On Time
+ORD-00548,2025-11-23,South,WH-04,Supplier B,Office Supplies,Stapler,87,87,406,53,159.44,210.03,8.0,0.043,On Time
+ORD-00549,2025-11-07,North,WH-04,Supplier B,Furniture,Bookshelf,47,47,692,227,455.36,602.45,10.0,0.056,On Time
+ORD-00550,2025-05-09,South,WH-02,Supplier A,Office Supplies,Printer Paper,456,415,36,52,435.85,522.87,14.0,0.054,On Time
+ORD-00551,2025-02-18,South,WH-01,Supplier C,Furniture,Bookshelf,135,125,720,189,281.32,357.51,14.0,0.049,On Time
+ORD-00552,2025-06-13,South,WH-02,Supplier D,Accessories,Power Bank,70,41,381,114,165.78,207.73,7.0,0.012,On Time
+ORD-00553,2025-10-04,Central,WH-03,Supplier B,Office Supplies,Stapler,200,161,106,76,150.23,190.83,7.0,0.067,On Time
+ORD-00554,2025-10-20,West,WH-04,Supplier A,Office Supplies,Pen Set,279,185,538,156,21.54,29.69,11.0,0.034,On Time
+ORD-00555,2025-04-26,East,WH-02,Supplier C,Accessories,Power Bank,98,62,694,99,408.83,529.34,6.0,0.018,Delayed
+ORD-00556,2025-01-24,East,WH-02,Supplier C,Furniture,Cabinet,292,278,622,66,227.94,326.43,12.0,0.007,On Time
+ORD-00557,2025-11-07,East,WH-04,Supplier A,Electronics,Keyboard,127,78,195,249,165.94,205.45,4.0,0.033,On Time
+ORD-00558,2025-01-25,East,WH-04,Supplier A,Electronics,Headphones,470,368,705,81,238.2,303.64,11.0,0.049,On Time
+ORD-00559,2025-05-07,West,WH-04,Supplier D,Office Supplies,Stapler,93,93,224,228,410.28,568.68,8.0,0.053,On Time
+ORD-00560,2025-08-22,West,WH-03,Supplier A,Office Supplies,Printer Paper,194,124,260,66,66.68,87.6,2.0,0.077,On Time
+ORD-00561,2025-07-28,North,WH-04,Supplier D,Office Supplies,Printer Paper,203,203,225,83,429.54,564.46,7.0,0.012,On Time
+ORD-00562,2025-04-03,East,WH-01,Supplier D,Electronics,Monitor,42,42,38,84,449.27,523.85,3.0,0.079,On Time
+ORD-00563,2025-04-04,East,WH-02,Supplier E,Electronics,Mouse,293,242,111,201,473.62,601.3,14.0,0.052,On Time
+ORD-00564,2025-11-23,Central,WH-04,Supplier C,Electronics,Laptop,148,93,132,231,201.76,248.41,3.0,0.036,On Time
+ORD-00565,2025-08-13,West,WH-04,Supplier C,Furniture,Bookshelf,310,219,63,195,112.48,163.07,14.0,0.071,On Time
+ORD-00566,2025-10-07,East,WH-03,Supplier C,Office Supplies,Stapler,339,258,292,99,189.95,236.01,7.0,0.056,On Time
+ORD-00567,2025-01-11,North,WH-03,Supplier E,Furniture,Bookshelf,205,144,623,223,169.79,240.31,12.0,0.028,Delayed
+ORD-00568,2025-11-25,West,WH-02,Supplier D,Furniture,Bookshelf,498,343,126,225,92.2,124.73,3.0,0.071,On Time
+ORD-00569,2025-01-12,North,WH-01,Supplier D,Accessories,USB Cable,78,78,625,152,305.6,382.7,15.0,0.053,On Time
+ORD-00570,2025-02-04,South,WH-02,Supplier A,Furniture,Cabinet,20,12,566,82,240.93,316.36,15.0,0.056,On Time
+ORD-00571,2025-08-16,North,WH-04,Supplier E,Furniture,Table,150,137,123,138,433.52,607.86,5.0,0.072,Delayed
+ORD-00572,2025-08-08,West,WH-01,Supplier A,Office Supplies,Printer Paper,86,47,552,204,20.89,29.56,8.0,0.036,On Time
+ORD-00573,2025-05-21,South,WH-01,Supplier E,Furniture,Office Chair,312,264,685,178,323.71,387.84,14.0,0.053,On Time
+ORD-00574,2025-01-23,South,WH-01,Supplier A,Office Supplies,Stapler,486,486,710,134,382.66,479.04,13.0,0.06,On Time
+ORD-00575,2025-03-24,Central,WH-01,Supplier B,Accessories,Laptop Stand,304,210,302,108,380.95,476.4,4.0,0.036,Cancelled
+ORD-00576,2025-08-17,South,WH-02,Supplier C,Accessories,Mouse Pad,108,69,204,59,443.61,515.75,7.0,0.007,On Time
+ORD-00577,2025-12-10,East,WH-03,Supplier C,Electronics,Mouse,436,381,301,202,365.87,486.41,7.0,0.062,On Time
+ORD-00578,2025-03-21,East,WH-03,Supplier D,Accessories,Mouse Pad,119,107,270,106,464.27,652.97,2.0,0.004,Delayed
+ORD-00579,2025-12-19,North,WH-04,Supplier B,Furniture,Office Chair,208,185,216,115,169.67,214.54,14.0,0.057,On Time
+ORD-00580,2025-10-17,West,WH-03,Supplier C,Electronics,Monitor,496,351,573,168,254.09,348.61,8.0,0.073,On Time
+ORD-00581,2025-11-27,North,WH-03,Supplier D,Furniture,Table,397,268,58,161,11.97,16.02,10.0,0.028,On Time
+ORD-00582,2025-06-08,East,WH-03,Supplier B,Accessories,USB Cable,365,365,15,64,8.44,10.66,12.0,0.008,On Time
+ORD-00583,2025-05-08,East,WH-03,Supplier C,Furniture,Cabinet,407,407,388,205,123.86,147.68,10.0,0.019,On Time
+ORD-00584,2025-07-09,West,WH-04,Supplier A,Furniture,Table,260,202,403,62,54.9,74.82,15.0,0.045,Cancelled
+ORD-00585,2025-01-31,West,WH-02,Supplier E,Office Supplies,Pen Set,289,281,233,163,133.8,188.17,14.0,0.075,On Time
+ORD-00586,2025-12-25,South,WH-01,Supplier B,Electronics,Monitor,238,184,32,167,92.64,125.6,9.0,0.041,On Time
+ORD-00587,2025-01-15,North,WH-03,Supplier D,Electronics,Keyboard,436,332,666,191,19.12,22.09,6.0,0.009,On Time
+ORD-00588,2025-11-09,West,WH-02,Supplier B,Electronics,Headphones,425,267,119,163,455.11,552.9,14.0,0.05,On Time
+ORD-00589,2025-03-16,East,WH-03,Supplier D,Electronics,Keyboard,195,148,733,243,9.07,10.62,5.0,0.059,On Time
+ORD-00590,2025-02-03,Central,WH-03,Supplier B,Electronics,Laptop,406,332,562,83,369.36,487.97,1.0,0.031,On Time
+ORD-00591,2025-12-25,Central,WH-01,Supplier D,Electronics,Headphones,490,275,408,150,80.31,110.58,1.0,0.058,On Time
+ORD-00592,2025-07-15,Central,WH-01,Supplier C,Office Supplies,Printer Paper,360,277,181,74,456.55,540.18,9.0,0.026,On Time
+ORD-00593,2025-11-27,East,WH-01,Supplier A,Electronics,Keyboard,252,237,707,161,446.93,626.37,14.0,0.063,On Time
+ORD-00594,2025-01-29,South,WH-03,Supplier C,Furniture,Table,170,151,735,103,328.68,432.76,4.0,0.027,On Time
+ORD-00595,2025-07-13,West,WH-03,Supplier A,Accessories,Mouse Pad,471,408,315,61,337.76,458.34,1.0,0.02,Cancelled
+ORD-00596,2025-01-16,East,WH-03,Supplier C,Furniture,Table,296,296,573,175,7.64,11.01,11.0,0.07,On Time
+ORD-00597,2025-03-18,North,WH-01,Supplier C,Office Supplies,Notebook,248,138,591,186,492.51,578.75,10.0,0.044,On Time
+ORD-00598,2025-10-20,Central,WH-04,Supplier B,Electronics,Monitor,190,157,717,80,439.53,624.29,12.0,0.023,On Time
+ORD-00599,2025-03-22,Central,WH-02,Supplier E,Electronics,Keyboard,242,228,160,127,448.08,532.24,3.0,0.075,On Time
+ORD-00600,2025-05-04,East,WH-04,Supplier D,Electronics,Monitor,232,190,437,102,331.33,420.09,6.0,0.055,On Time
+ORD-00601,2025-01-19,North,WH-03,Supplier D,Electronics,Keyboard,301,214,630,161,175.67,246.89,14.0,0.018,On Time
+ORD-00602,2025-04-12,South,WH-03,Supplier D,Electronics,Headphones,60,37,476,92,447.36,636.09,11.0,0.049,On Time
+ORD-00603,2025-03-18,Central,WH-04,Supplier A,Electronics,Headphones,141,140,639,215,149.3,194.38,13.0,0.07,On Time
+ORD-00604,2025-08-17,Central,WH-03,Supplier D,Electronics,Headphones,246,193,616,91,283.54,376.61,13.0,0.056,Delayed
+ORD-00605,2025-10-24,South,WH-02,Supplier D,Electronics,Mouse,313,309,777,173,54.37,74.08,11.0,0.02,On Time
+ORD-00606,2025-07-22,North,WH-03,Supplier B,Furniture,Office Chair,107,90,565,249,461.37,645.84,8.0,0.052,On Time
+ORD-00607,2025-03-02,Central,WH-02,Supplier C,Electronics,Headphones,286,253,76,225,74.68,88.6,13.0,0.05,On Time
+ORD-00608,2025-01-26,South,WH-04,Supplier D,Furniture,Desk,48,45,165,116,116.32,162.04,10.0,0.066,On Time
+ORD-00609,2025-03-12,East,WH-04,Supplier E,Furniture,Table,266,233,215,115,281.28,364.08,2.0,0.014,On Time
+ORD-00610,2025-04-13,Central,WH-03,Supplier D,Office Supplies,Stapler,335,250,795,193,383.23,492.52,8.0,0.056,On Time
+ORD-00611,2025-11-22,North,WH-02,Supplier A,Electronics,Monitor,470,379,164,132,311.58,397.94,14.0,0.002,On Time
+ORD-00612,2025-12-29,West,WH-03,Supplier A,Office Supplies,Stapler,468,445,700,143,119.91,156.21,13.0,0.056,On Time
+ORD-00613,2025-06-06,North,WH-01,Supplier A,Office Supplies,Pen Set,263,193,518,154,5.47,7.84,,0.077,On Time
+ORD-00614,2025-12-29,South,WH-01,,Electronics,Keyboard,80,59,581,193,379.79,499.22,11.0,0.014,On Time
+ORD-00615,2025-12-25,Central,WH-01,Supplier B,Accessories,USB Cable,166,99,83,80,492.68,707.47,2.0,0.025,Delayed
+ORD-00616,2025-07-13,East,WH-01,Supplier E,Accessories,USB Cable,193,193,58,167,405.91,488.75,8.0,0.047,On Time
+ORD-00617,2025-10-02,Central,WH-03,Supplier D,Electronics,Mouse,452,269,792,235,232.8,318.29,7.0,0.059,On Time
+ORD-00618,2025-11-20,East,WH-01,Supplier B,Electronics,Laptop,297,259,476,77,452.36,630.44,5.0,0.028,Delayed
+ORD-00619,2025-07-05,South,WH-02,Supplier B,Accessories,Laptop Stand,353,267,594,53,207.87,281.4,15.0,0.053,On Time
+ORD-00620,2025-11-22,South,WH-04,Supplier D,Office Supplies,Stapler,388,292,717,187,264.84,352.79,13.0,0.072,On Time
+ORD-00621,2025-04-23,South,WH-04,Supplier D,Electronics,Mouse,460,409,188,228,241.18,318.22,10.0,0.058,On Time
+ORD-00622,2025-11-09,South,WH-01,Supplier B,Electronics,Laptop,398,232,57,67,226.57,319.07,2.0,0.057,On Time
+ORD-00623,2025-06-14,North,WH-01,Supplier B,Furniture,Cabinet,161,136,81,96,388.72,542.85,9.0,0.031,On Time
+ORD-00624,2025-03-02,South,WH-01,Supplier B,Furniture,Office Chair,63,58,122,209,265.75,315.36,5.0,0.073,On Time
+ORD-00625,2025-04-02,East,WH-03,Supplier D,Office Supplies,Stapler,163,157,766,207,161.77,227.22,8.0,0.022,On Time
+ORD-00626,2025-10-13,West,WH-04,Supplier B,Furniture,Table,372,236,168,213,132.79,169.2,13.0,0.016,On Time
+ORD-00627,2025-06-02,West,WH-01,Supplier A,Furniture,Cabinet,352,351,795,58,23.68,29.03,4.0,0.029,On Time
+ORD-00628,2025-08-13,West,WH-02,Supplier D,Office Supplies,Pen Set,415,364,789,213,293.68,414.36,14.0,0.052,On Time
+ORD-00629,2025-05-07,North,WH-01,Supplier A,Electronics,Mouse,74,73,39,78,118.83,152.06,9.0,0.069,On Time
+ORD-00630,2025-07-12,South,WH-04,Supplier C,Electronics,Keyboard,326,258,106,193,78.33,109.08,10.0,0.011,On Time
+ORD-00631,2025-04-25,West,WH-01,Supplier D,Office Supplies,Stapler,377,309,260,141,328.65,403.92,7.0,0.065,Delayed
+ORD-00632,2025-09-19,East,WH-04,Supplier C,Accessories,Webcam,442,442,528,198,342.2,393.93,2.0,0.065,Delayed
+ORD-00633,2025-01-18,North,WH-01,Supplier B,Furniture,Desk,436,435,101,113,377.32,490.0,3.0,0.047,On Time
+ORD-00634,2025-01-10,Central,WH-02,Supplier B,Furniture,Office Chair,180,139,122,160,254.27,300.06,14.0,0.061,On Time
+ORD-00635,2025-04-02,West,WH-01,Supplier E,Electronics,Headphones,304,208,268,243,447.56,615.98,2.0,0.015,On Time
+ORD-00636,2025-05-19,East,WH-02,Supplier B,Furniture,Cabinet,344,256,116,173,468.49,577.57,5.0,0.014,On Time
+ORD-00637,2025-11-29,North,WH-02,Supplier C,Furniture,Office Chair,217,161,584,236,404.65,519.2,2.0,0.069,On Time
+ORD-00638,2025-12-23,West,WH-01,Supplier B,Electronics,Headphones,178,123,399,159,319.62,375.91,5.0,0.04,On Time
+ORD-00639,2025-12-06,West,WH-02,Supplier D,Electronics,Mouse,99,67,367,167,155.34,192.0,13.0,0.02,On Time
+ORD-00640,2025-02-21,West,WH-03,Supplier B,Furniture,Bookshelf,50,49,792,205,491.56,680.54,9.0,0.055,On Time
+ORD-00641,2025-07-14,West,WH-01,Supplier E,Electronics,Mouse,492,287,208,232,140.7,168.2,2.0,0.071,On Time
+ORD-00642,2025-07-25,Central,WH-01,Supplier B,Furniture,Desk,131,116,436,149,105.32,141.57,9.0,0.051,On Time
+ORD-00643,2025-10-14,East,WH-02,Supplier C,Electronics,Monitor,65,41,487,80,223.87,319.07,7.0,0.028,On Time
+ORD-00644,2025-04-03,North,WH-02,Supplier C,Furniture,Bookshelf,372,268,512,210,33.14,44.87,7.0,0.039,On Time
+ORD-00645,2025-11-05,West,WH-01,Supplier B,Electronics,Laptop,224,130,667,237,489.35,681.81,14.0,0.06,On Time
+ORD-00646,2025-05-25,West,WH-03,Supplier C,Accessories,Power Bank,71,48,582,218,296.27,350.4,5.0,0.005,On Time
+ORD-00647,2025-03-27,West,WH-02,Supplier C,Office Supplies,Stapler,157,146,129,130,280.69,343.91,8.0,0.017,On Time
+ORD-00648,2025-06-02,North,WH-02,Supplier E,Office Supplies,Pen Set,491,487,582,95,329.62,467.52,7.0,,On Time
+ORD-00649,2025-01-02,North,WH-04,Supplier D,Office Supplies,Printer Paper,93,61,318,98,251.03,342.54,6.0,0.048,On Time
+ORD-00650,2025-12-08,Central,WH-03,Supplier E,Furniture,Bookshelf,60,46,547,242,20.87,28.0,2.0,0.027,On Time
+ORD-00651,2025-09-17,West,WH-03,Supplier A,Electronics,Monitor,498,391,636,91,308.09,415.65,6.0,0.024,On Time
+ORD-00652,2025-06-13,Central,WH-01,Supplier E,Furniture,Bookshelf,96,94,484,200,359.51,458.11,14.0,0.003,On Time
+ORD-00653,2025-01-06,West,WH-03,Supplier B,Office Supplies,Stapler,406,378,561,161,211.29,245.81,2.0,0.003,On Time
+ORD-00654,2025-05-29,West,WH-01,Supplier D,Office Supplies,File Folder,206,166,353,76,379.86,526.23,1.0,0.022,On Time
+ORD-00655,2025-07-24,West,WH-04,Supplier B,Furniture,Desk,389,344,637,209,117.37,158.87,9.0,0.042,On Time
+ORD-00656,2025-04-28,Central,WH-03,Supplier A,Electronics,Monitor,71,69,145,137,114.53,147.95,13.0,0.045,On Time
+ORD-00657,2025-03-30,East,WH-02,Supplier D,Electronics,Mouse,437,242,286,170,84.9,120.55,5.0,0.04,On Time
+ORD-00658,2025-06-03,West,WH-04,Supplier C,Furniture,Office Chair,452,339,542,52,189.14,236.59,10.0,0.033,On Time
+ORD-00659,2025-06-16,North,WH-01,Supplier E,Office Supplies,File Folder,431,431,40,109,424.27,525.37,10.0,0.02,On Time
+ORD-00660,2025-06-10,East,WH-04,Supplier B,Office Supplies,Pen Set,486,447,256,128,414.82,585.66,4.0,0.032,On Time
+ORD-00661,2025-09-27,West,WH-01,Supplier A,Furniture,Table,106,87,420,194,194.5,270.18,12.0,0.011,On Time
+ORD-00662,2025-02-25,South,WH-04,Supplier C,Accessories,Webcam,128,104,36,81,296.61,386.93,11.0,0.009,Delayed
+ORD-00663,2025-08-16,South,WH-01,Supplier E,Office Supplies,File Folder,499,361,82,56,361.8,430.26,8.0,0.024,Delayed
+ORD-00664,2025-12-03,South,WH-03,Supplier C,Electronics,Keyboard,416,337,106,120,124.4,151.09,15.0,0.08,On Time
+ORD-00665,2025-05-29,South,WH-02,Supplier E,Electronics,Monitor,244,214,682,177,88.23,118.83,5.0,0.026,On Time
+ORD-00666,2025-02-15,South,WH-01,Supplier D,Electronics,Headphones,267,202,355,246,486.19,615.28,14.0,0.075,On Time
+ORD-00667,2025-05-24,East,WH-04,Supplier C,Electronics,Laptop,88,79,485,107,310.69,435.26,7.0,0.031,On Time
+ORD-00668,2025-08-26,Central,WH-01,Supplier C,Electronics,Keyboard,139,136,309,217,490.8,704.29,3.0,0.035,On Time
+ORD-00669,2025-09-29,East,WH-01,Supplier C,Electronics,Keyboard,86,53,308,161,172.19,239.64,15.0,0.064,On Time
+ORD-00670,2025-04-30,North,WH-01,Supplier D,Electronics,Laptop,80,62,296,97,353.0,445.93,8.0,0.007,On Time
+ORD-00671,2025-12-06,North,WH-04,Supplier A,Electronics,Headphones,463,349,458,228,115.19,159.72,8.0,0.015,On Time
+ORD-00672,2025-08-08,West,WH-02,Supplier E,Accessories,Laptop Stand,346,309,221,234,134.29,168.59,3.0,0.078,On Time
+ORD-00673,2025-01-08,South,WH-03,Supplier C,Electronics,Laptop,427,288,85,160,258.39,310.1,9.0,0.04,On Time
+ORD-00674,2025-12-10,Central,WH-02,Supplier D,Furniture,Table,210,182,410,120,163.21,189.33,14.0,0.004,On Time
+ORD-00675,2025-10-02,West,WH-01,Supplier A,Furniture,Office Chair,489,483,664,214,87.97,111.34,8.0,0.004,On Time
+ORD-00676,2025-12-19,West,WH-04,Supplier E,Accessories,USB Cable,208,157,43,124,135.13,192.03,1.0,0.073,On Time
+ORD-00677,2025-03-07,South,WH-02,Supplier D,Electronics,Monitor,170,170,507,123,22.7,27.73,8.0,0.07,On Time
+ORD-00678,2025-03-20,West,WH-01,Supplier E,Furniture,Table,305,305,525,170,353.69,428.66,12.0,0.037,Delayed
+ORD-00679,2025-03-27,South,WH-03,Supplier C,Accessories,Laptop Stand,463,279,337,104,248.6,358.22,11.0,0.013,On Time
+ORD-00680,2025-05-04,Central,WH-03,Supplier A,Accessories,Webcam,421,280,107,90,51.65,59.78,15.0,0.066,Delayed
+ORD-00681,2025-07-21,West,WH-03,Supplier D,Accessories,USB Cable,115,115,375,146,89.99,124.7,4.0,0.026,On Time
+ORD-00682,2025-05-30,South,WH-01,Supplier A,Electronics,Laptop,331,331,738,197,55.75,69.49,6.0,0.034,On Time
+ORD-00683,2025-02-15,South,WH-04,Supplier C,Electronics,Laptop,328,196,472,82,308.23,357.93,14.0,0.055,On Time
+ORD-00684,2025-04-23,North,WH-02,Supplier A,Office Supplies,File Folder,282,157,37,217,51.63,73.59,13.0,0.028,On Time
+ORD-00685,2025-04-01,West,WH-03,Supplier A,Accessories,Power Bank,116,73,722,83,378.37,450.98,10.0,0.05,On Time
+ORD-00686,2025-05-21,South,WH-01,Supplier B,Office Supplies,Pen Set,472,472,395,111,15.15,19.93,9.0,0.071,On Time
+ORD-00687,2025-10-16,West,WH-01,Supplier A,Office Supplies,Stapler,132,84,282,68,128.44,158.27,5.0,0.064,On Time
+ORD-00688,2025-08-06,South,WH-02,Supplier E,Electronics,Monitor,495,396,136,220,445.88,521.48,7.0,0.031,On Time
+ORD-00689,2025-03-18,West,WH-03,Supplier D,Office Supplies,Notebook,144,140,211,246,360.67,420.17,13.0,0.023,On Time
+ORD-00690,2025-11-30,Central,WH-01,Supplier B,Electronics,Laptop,475,266,530,240,41.12,48.71,15.0,0.023,On Time
+ORD-00691,2025-06-01,West,WH-02,Supplier D,Furniture,Office Chair,482,410,296,59,411.46,481.99,1.0,0.028,On Time
+ORD-00692,2025-11-19,West,WH-04,Supplier D,Furniture,Office Chair,455,313,459,169,249.05,343.23,9.0,0.039,On Time
+ORD-00693,2025-08-27,North,WH-04,Supplier C,Furniture,Desk,151,148,97,172,424.16,549.57,14.0,0.033,Delayed
+ORD-00694,2025-04-25,North,WH-04,Supplier C,Electronics,Monitor,437,302,327,153,302.37,378.83,6.0,0.011,On Time
+ORD-00695,2025-11-15,West,WH-03,Supplier B,Electronics,Laptop,472,421,28,190,342.51,436.88,11.0,0.013,On Time
+ORD-00696,2025-04-04,South,WH-02,Supplier C,Office Supplies,Pen Set,436,386,602,54,496.78,709.74,4.0,0.027,On Time
+ORD-00697,2025-02-17,East,WH-02,Supplier C,Electronics,Headphones,140,92,116,107,120.01,170.8,6.0,0.045,On Time
+ORD-00698,2025-07-10,North,WH-01,Supplier C,Office Supplies,File Folder,216,122,467,108,313.85,428.31,5.0,0.047,On Time
+ORD-00699,2025-01-12,South,WH-01,Supplier D,Electronics,Monitor,313,236,320,177,232.86,329.59,3.0,0.039,On Time
+ORD-00700,2025-06-05,North,WH-01,Supplier B,Furniture,Office Chair,141,97,421,236,24.53,30.56,7.0,0.059,On Time
+ORD-00701,2025-06-21,Central,WH-02,Supplier D,Furniture,Desk,301,287,751,135,12.16,15.37,3.0,0.059,On Time
+ORD-00702,2025-10-23,South,WH-01,Supplier E,Electronics,Monitor,404,383,633,153,64.02,85.41,13.0,0.034,On Time
+ORD-00703,2025-06-26,East,WH-02,Supplier D,Furniture,Desk,279,217,741,192,326.3,436.29,14.0,0.01,On Time
+ORD-00704,2025-12-07,North,WH-02,Supplier E,Electronics,Keyboard,58,49,644,178,285.75,369.91,15.0,0.042,On Time
+ORD-00705,2025-02-26,West,WH-04,Supplier A,Electronics,Headphones,73,62,507,87,278.95,354.32,13.0,0.031,On Time
+ORD-00706,2025-12-09,South,WH-01,Supplier A,Accessories,Laptop Stand,493,475,253,156,20.77,30.03,2.0,0.011,On Time
+ORD-00707,2025-12-06,Central,WH-04,Supplier E,Furniture,Cabinet,180,137,699,158,237.3,331.35,14.0,0.079,Cancelled
+ORD-00708,2025-07-22,Central,WH-03,Supplier E,Accessories,Mouse Pad,308,211,586,102,462.69,592.47,4.0,0.03,On Time
+ORD-00709,2025-07-04,South,WH-03,Supplier D,Electronics,Monitor,219,149,389,101,201.81,276.11,7.0,0.05,On Time
+ORD-00710,2025-05-01,Central,WH-03,,Office Supplies,Notebook,295,241,524,50,314.34,386.91,5.0,0.039,On Time
+ORD-00711,2025-08-14,Central,WH-02,Supplier B,Office Supplies,Notebook,35,27,216,60,391.01,461.41,14.0,0.011,On Time
+ORD-00712,2025-07-21,Central,WH-02,Supplier A,Office Supplies,Printer Paper,424,326,403,107,393.04,493.55,9.0,0.004,On Time
+ORD-00713,2025-11-26,Central,WH-02,Supplier A,Furniture,Table,192,114,30,177,262.04,333.02,10.0,0.05,On Time
+ORD-00714,2025-12-29,South,WH-01,Supplier E,Furniture,Cabinet,267,242,536,217,429.69,496.28,15.0,0.02,Delayed
+ORD-00715,2025-12-22,East,WH-04,Supplier C,Furniture,Desk,402,264,352,237,198.73,277.12,7.0,0.019,On Time
+ORD-00716,2025-08-04,North,WH-02,Supplier C,Accessories,Laptop Stand,237,153,727,93,444.9,559.58,12.0,0.077,On Time
+ORD-00717,2025-02-12,North,WH-04,Supplier E,Accessories,Laptop Stand,106,80,211,55,123.91,164.07,14.0,0.037,On Time
+ORD-00718,2025-01-23,Central,WH-04,Supplier B,Accessories,Power Bank,101,67,129,205,143.71,168.46,9.0,0.002,On Time
+ORD-00719,2025-06-04,South,WH-04,Supplier C,Electronics,Mouse,81,68,658,208,31.29,37.63,14.0,0.027,On Time
+ORD-00720,2025-07-05,West,WH-01,Supplier E,Office Supplies,Stapler,306,225,398,57,398.81,565.08,9.0,0.047,On Time
+ORD-00721,2025-09-06,Central,WH-01,Supplier B,Accessories,Mouse Pad,61,47,546,54,211.44,281.77,12.0,0.026,On Time
+ORD-00722,2025-08-25,Central,WH-03,Supplier B,Electronics,Headphones,31,25,243,155,118.41,169.93,2.0,0.002,On Time
+ORD-00723,2025-10-20,Central,WH-03,Supplier D,Electronics,Laptop,340,221,642,231,119.74,173.58,15.0,0.036,On Time
+ORD-00724,2025-05-14,South,WH-04,Supplier B,Office Supplies,Pen Set,253,158,611,161,451.19,569.2,1.0,0.008,Cancelled
+ORD-00725,2025-11-17,North,WH-03,Supplier C,Office Supplies,Stapler,348,344,329,66,417.79,517.91,11.0,0.05,On Time
+ORD-00726,2025-01-22,East,WH-04,Supplier C,Accessories,Webcam,150,115,721,215,279.0,392.69,4.0,0.05,On Time
+ORD-00727,2025-12-27,North,WH-01,Supplier E,Electronics,Laptop,134,101,189,58,309.97,449.33,4.0,0.003,On Time
+ORD-00728,2025-03-29,North,WH-01,Supplier E,Office Supplies,Pen Set,237,134,377,127,239.79,321.05,13.0,0.023,On Time
+ORD-00729,2025-06-02,South,WH-01,Supplier B,Electronics,Laptop,156,124,85,63,198.87,276.14,2.0,0.033,Delayed
+ORD-00730,2025-05-05,West,WH-02,Supplier A,Electronics,Keyboard,125,103,658,203,458.16,634.33,3.0,0.044,On Time
+ORD-00731,2025-03-20,East,WH-04,Supplier D,Electronics,Mouse,198,164,659,162,67.18,84.42,3.0,0.024,On Time
+ORD-00732,2025-12-12,South,WH-01,Supplier A,Accessories,USB Cable,35,31,505,239,212.13,280.5,5.0,0.023,On Time
+ORD-00733,2025-02-20,West,WH-04,Supplier B,Office Supplies,Pen Set,491,313,531,140,175.56,245.77,1.0,0.079,On Time
+ORD-00734,2025-08-04,South,WH-03,Supplier B,Furniture,Cabinet,261,176,210,74,251.58,341.25,9.0,0.003,On Time
+ORD-00735,2025-06-25,North,WH-03,Supplier A,Furniture,Bookshelf,353,337,355,213,231.53,267.73,8.0,0.079,On Time
+ORD-00736,2025-12-24,West,WH-01,Supplier D,Accessories,Laptop Stand,400,400,492,147,261.85,327.58,8.0,0.004,On Time
+ORD-00737,2025-09-10,West,WH-04,Supplier A,Furniture,Office Chair,406,250,228,210,74.26,88.62,3.0,0.023,On Time
+ORD-00738,2025-09-03,West,WH-01,Supplier E,Accessories,Mouse Pad,245,195,69,52,259.01,315.96,2.0,0.039,On Time
+ORD-00739,2025-08-15,North,WH-03,Supplier C,Furniture,Desk,261,171,668,188,125.0,177.71,1.0,0.011,Delayed
+ORD-00740,2025-04-16,Central,WH-01,Supplier E,Furniture,Bookshelf,427,247,628,161,96.24,111.74,12.0,0.011,Cancelled
+ORD-00741,2025-07-12,West,WH-04,Supplier C,Furniture,Bookshelf,476,339,559,235,37.09,45.1,6.0,0.021,On Time
+ORD-00742,2025-11-12,East,WH-03,Supplier B,Furniture,Table,160,99,655,241,382.51,475.41,13.0,0.078,Delayed
+ORD-00743,2025-10-29,West,WH-02,Supplier D,Office Supplies,Notebook,405,366,230,195,216.58,289.15,10.0,0.03,On Time
+ORD-00744,2025-02-05,Central,WH-03,Supplier A,Furniture,Bookshelf,218,178,511,96,315.19,412.97,1.0,0.045,On Time
+ORD-00745,2025-07-23,West,WH-02,Supplier D,Electronics,Mouse,131,81,142,221,365.16,443.84,14.0,0.056,Cancelled
+ORD-00746,2025-09-24,West,WH-01,Supplier A,Accessories,Webcam,146,80,62,236,341.26,409.26,11.0,0.059,On Time
+ORD-00747,2025-09-25,Central,WH-01,Supplier E,Furniture,Cabinet,40,38,459,99,237.9,290.49,5.0,0.055,On Time
+ORD-00748,2025-06-19,West,WH-04,Supplier E,Furniture,Cabinet,166,105,71,246,197.01,256.26,9.0,0.027,Delayed
+ORD-00749,2025-02-08,East,WH-02,Supplier A,Accessories,USB Cable,108,92,32,206,191.1,235.31,11.0,0.009,On Time
+ORD-00750,2025-05-19,West,WH-01,Supplier D,Office Supplies,Stapler,322,231,53,173,321.82,461.58,9.0,0.023,On Time
+ORD-00751,2025-10-19,South,WH-02,Supplier A,Electronics,Headphones,425,358,567,139,249.92,322.19,13.0,0.017,On Time
+ORD-00752,2025-02-21,South,WH-01,Supplier B,Accessories,Power Bank,222,157,668,116,425.32,496.62,12.0,0.011,Delayed
+ORD-00753,2025-10-14,West,WH-03,Supplier E,Office Supplies,Printer Paper,436,258,737,51,437.98,599.5,15.0,0.002,On Time
+ORD-00754,2025-10-16,Central,WH-01,Supplier B,Furniture,Desk,435,287,56,202,89.43,111.67,4.0,0.075,On Time
+ORD-00755,2025-05-21,Central,WH-04,Supplier E,Electronics,Monitor,467,300,33,196,72.44,97.51,7.0,0.074,On Time
+ORD-00756,2025-05-26,South,WH-03,Supplier E,Office Supplies,Stapler,104,79,666,217,317.05,391.2,14.0,0.004,On Time
+ORD-00757,2025-11-10,East,WH-04,Supplier C,Office Supplies,Stapler,186,163,98,51,154.11,203.61,11.0,0.014,On Time
+ORD-00758,2025-07-03,South,WH-03,Supplier B,Furniture,Cabinet,403,274,183,114,14.19,19.61,7.0,0.011,On Time
+ORD-00759,2025-06-01,Central,WH-02,Supplier B,Accessories,Webcam,487,270,585,239,444.88,635.47,4.0,0.022,On Time
+ORD-00760,2025-07-20,Central,WH-04,Supplier C,Office Supplies,Notebook,91,73,128,140,117.32,144.11,5.0,0.016,Delayed
+ORD-00761,2025-05-08,West,WH-01,Supplier D,Electronics,Headphones,317,270,744,231,464.99,581.45,11.0,0.076,On Time
+ORD-00762,2025-10-14,Central,WH-02,Supplier B,Furniture,Bookshelf,28,28,677,222,360.13,464.31,9.0,0.007,Delayed
+ORD-00763,2025-11-07,West,WH-01,Supplier A,Electronics,Keyboard,300,253,187,165,382.51,546.28,7.0,0.017,On Time
+ORD-00764,2025-09-10,West,WH-03,Supplier C,Office Supplies,Pen Set,492,386,351,98,104.72,148.75,7.0,0.006,Cancelled
+ORD-00765,2025-09-23,North,WH-03,Supplier B,Electronics,Keyboard,277,231,577,118,120.93,142.33,10.0,0.078,On Time
+ORD-00766,2025-07-07,East,WH-01,Supplier D,Office Supplies,Printer Paper,294,294,68,215,263.03,312.89,7.0,0.073,On Time
+ORD-00767,2025-08-18,West,WH-01,Supplier B,Office Supplies,Stapler,257,247,447,181,90.19,117.13,15.0,0.057,On Time
+ORD-00768,2025-09-28,West,WH-02,Supplier E,Accessories,USB Cable,39,27,437,194,156.19,184.61,9.0,0.034,On Time
+ORD-00769,2025-09-16,South,WH-01,Supplier A,Furniture,Table,252,168,435,175,164.12,205.75,5.0,0.015,On Time
+ORD-00770,2025-10-26,Central,WH-04,Supplier C,Accessories,Laptop Stand,240,163,390,230,84.02,100.36,6.0,0.018,On Time
+ORD-00771,2025-07-17,North,WH-04,Supplier E,Electronics,Keyboard,345,276,495,102,106.57,142.89,3.0,0.035,On Time
+ORD-00772,2025-11-19,East,WH-01,Supplier D,Accessories,Power Bank,36,33,741,161,395.33,567.24,1.0,0.061,On Time
+ORD-00773,2025-02-25,West,WH-04,Supplier E,Electronics,Mouse,399,319,194,208,87.76,127.17,11.0,0.021,Cancelled
+ORD-00774,2025-11-15,West,WH-01,Supplier E,Furniture,Bookshelf,108,63,568,199,19.09,24.1,12.0,0.025,On Time
+ORD-00775,2025-07-22,West,WH-02,Supplier D,Office Supplies,Printer Paper,215,196,469,188,316.53,420.89,2.0,0.048,Cancelled
+ORD-00776,2025-09-28,South,WH-04,Supplier E,Electronics,Mouse,369,351,111,211,488.11,686.71,8.0,0.019,On Time
+ORD-00777,2025-04-19,North,WH-04,Supplier C,Electronics,Keyboard,103,71,565,162,168.95,200.25,13.0,0.047,On Time
+ORD-00778,2025-04-26,West,WH-01,Supplier B,Office Supplies,Printer Paper,406,358,24,192,63.73,86.47,1.0,0.031,On Time
+ORD-00779,2025-04-02,West,WH-04,Supplier E,Office Supplies,File Folder,106,80,757,163,287.34,365.68,10.0,0.003,Delayed
+ORD-00780,2025-05-18,North,WH-03,Supplier C,Office Supplies,File Folder,326,324,60,187,453.65,549.75,7.0,0.032,On Time
+ORD-00781,2025-10-30,West,WH-02,Supplier B,Office Supplies,File Folder,357,347,318,230,393.11,499.57,5.0,0.074,On Time
+ORD-00782,2025-02-26,East,WH-02,Supplier B,Furniture,Table,173,140,43,97,313.15,367.26,13.0,0.023,On Time
+ORD-00783,2025-02-19,West,WH-04,Supplier E,Electronics,Monitor,459,411,645,80,160.95,218.67,6.0,0.026,On Time
+ORD-00784,2025-03-12,Central,WH-04,Supplier C,Furniture,Cabinet,247,244,598,86,273.23,334.93,8.0,0.005,On Time
+ORD-00785,2025-03-23,North,WH-03,Supplier E,Electronics,Mouse,467,372,644,157,50.17,62.38,4.0,0.049,On Time
+ORD-00786,2025-04-15,North,WH-03,Supplier D,Accessories,Webcam,283,199,214,77,341.08,404.63,6.0,0.068,On Time
+ORD-00787,2025-03-29,West,WH-04,Supplier B,Office Supplies,Notebook,484,448,749,208,363.92,512.91,14.0,0.028,On Time
+ORD-00788,2025-01-02,West,WH-04,Supplier E,Furniture,Bookshelf,242,159,79,119,482.69,626.55,11.0,0.019,Delayed
+ORD-00789,2025-12-26,West,WH-03,Supplier B,Furniture,Table,440,327,239,63,133.9,176.97,3.0,0.077,On Time
+ORD-00790,2025-03-25,Central,WH-01,Supplier C,Accessories,USB Cable,140,137,489,171,14.14,18.68,7.0,0.06,On Time
+ORD-00791,2025-02-12,Central,WH-03,Supplier A,Electronics,Keyboard,430,392,542,65,275.08,350.22,2.0,0.045,Cancelled
+ORD-00792,2025-06-03,Central,WH-01,Supplier E,Office Supplies,Printer Paper,192,144,117,74,354.86,428.59,12.0,0.024,On Time
+ORD-00793,2025-11-23,East,WH-02,Supplier E,Furniture,Cabinet,23,15,250,216,396.25,544.27,8.0,0.018,On Time
+ORD-00794,2025-04-04,East,WH-02,Supplier B,Office Supplies,Printer Paper,361,262,260,115,100.9,119.88,13.0,0.057,Delayed
+ORD-00795,2025-10-25,East,WH-03,Supplier C,Electronics,Mouse,147,101,144,87,134.57,158.95,7.0,0.042,On Time
+ORD-00796,2025-05-13,North,WH-01,Supplier D,Accessories,Webcam,493,314,99,218,258.73,352.66,12.0,0.042,On Time
+ORD-00797,2025-03-06,East,WH-03,Supplier C,Accessories,Webcam,499,459,600,152,168.65,204.51,12.0,0.006,On Time
+ORD-00798,2025-10-17,South,WH-03,Supplier E,Office Supplies,File Folder,491,331,449,147,430.95,535.25,8.0,0.041,On Time
+ORD-00799,2025-09-14,Central,WH-01,Supplier D,Office Supplies,Notebook,129,100,698,164,239.51,309.58,2.0,0.066,On Time
+ORD-00800,2025-08-01,West,WH-03,Supplier C,Accessories,Power Bank,374,277,307,89,400.79,514.94,3.0,0.076,On Time
+ORD-00801,2025-05-28,West,WH-02,Supplier A,Office Supplies,Stapler,56,56,416,113,292.41,398.43,12.0,0.009,On Time
+ORD-00802,2025-03-02,South,WH-04,Supplier B,Electronics,Headphones,499,372,317,138,387.68,518.34,4.0,0.05,Delayed
+ORD-00803,2025-05-29,North,WH-04,Supplier C,Office Supplies,Printer Paper,90,53,111,149,169.67,227.92,12.0,0.045,On Time
+ORD-00804,2025-03-29,North,WH-03,Supplier C,Office Supplies,Stapler,308,183,370,193,416.55,568.26,9.0,0.071,On Time
+ORD-00805,2025-11-20,East,WH-01,Supplier A,Furniture,Desk,50,42,633,131,140.91,174.42,12.0,0.06,On Time
+ORD-00806,2025-10-05,North,WH-01,Supplier E,Office Supplies,Notebook,458,389,702,126,275.32,343.24,12.0,0.077,Delayed
+ORD-00807,2025-03-23,West,WH-02,Supplier B,Accessories,Laptop Stand,400,303,625,108,110.93,142.15,5.0,0.077,Delayed
+ORD-00808,2025-05-09,Central,WH-01,Supplier C,Accessories,Laptop Stand,287,219,537,140,240.39,298.62,6.0,0.018,Delayed
+ORD-00809,2025-10-13,Central,WH-01,Supplier D,Furniture,Office Chair,30,17,617,147,162.5,234.89,1.0,0.058,Delayed
+ORD-00810,2025-12-19,West,WH-02,Supplier C,Electronics,Keyboard,363,293,302,188,137.02,191.04,4.0,0.042,On Time
+ORD-00811,2025-10-07,South,WH-03,Supplier B,Accessories,Webcam,347,278,155,50,483.66,580.1,14.0,0.017,On Time
+ORD-00812,2025-09-27,Central,WH-04,Supplier C,Accessories,Laptop Stand,51,31,413,62,84.24,97.02,4.0,0.016,On Time
+ORD-00813,2025-10-19,Central,WH-02,Supplier A,Electronics,Mouse,76,45,11,79,394.73,459.01,10.0,0.006,On Time
+ORD-00814,2025-07-22,North,WH-03,Supplier C,Accessories,USB Cable,185,113,128,246,492.16,602.02,8.0,0.064,On Time
+ORD-00815,2025-01-24,West,WH-02,Supplier C,Accessories,Power Bank,207,124,615,67,14.85,17.59,8.0,0.026,On Time
+ORD-00816,2025-12-17,South,WH-03,Supplier D,Furniture,Desk,361,308,200,127,351.02,459.84,10.0,0.069,On Time
+ORD-00817,2025-11-07,Central,WH-02,Supplier A,Office Supplies,Notebook,38,24,12,190,130.19,183.23,6.0,0.049,Delayed
+ORD-00818,2025-07-27,Central,WH-03,Supplier A,Furniture,Cabinet,135,91,496,81,25.04,34.33,8.0,0.054,On Time
+ORD-00819,2025-10-07,North,WH-02,Supplier C,Electronics,Mouse,487,310,632,120,204.43,248.32,9.0,0.023,On Time
+ORD-00820,2025-07-24,Central,WH-03,Supplier D,Furniture,Desk,203,203,186,249,467.93,594.17,5.0,0.037,On Time
+ORD-00821,2025-06-01,West,WH-02,Supplier C,Accessories,Power Bank,289,282,266,99,10.82,14.09,1.0,0.033,On Time
+ORD-00822,2025-01-26,Central,WH-04,Supplier C,Electronics,Mouse,52,34,543,248,296.0,412.35,1.0,0.019,On Time
+ORD-00823,2025-07-13,East,WH-04,Supplier B,Furniture,Desk,29,20,486,165,253.19,354.91,2.0,0.067,On Time
+ORD-00824,2025-12-02,Central,WH-01,Supplier B,Furniture,Office Chair,99,64,407,162,437.33,622.28,2.0,0.05,On Time
+ORD-00825,2025-08-26,North,WH-03,Supplier D,Furniture,Table,211,167,505,129,46.58,60.68,5.0,0.003,On Time
+ORD-00826,2025-11-17,South,WH-02,Supplier E,Accessories,Mouse Pad,339,189,229,80,342.36,465.02,7.0,,On Time
+ORD-00827,2025-03-16,North,WH-03,Supplier B,Furniture,Cabinet,209,185,182,100,341.65,404.36,7.0,0.008,On Time
+ORD-00828,2025-06-12,Central,WH-04,Supplier E,Furniture,Desk,87,70,745,204,336.19,443.63,15.0,0.032,On Time
+ORD-00829,2025-10-26,Central,WH-03,Supplier A,Office Supplies,Printer Paper,494,493,399,109,471.46,577.35,4.0,0.046,On Time
+ORD-00830,2025-01-29,Central,WH-02,Supplier B,Furniture,Bookshelf,367,232,511,82,412.43,527.71,13.0,0.001,On Time
+ORD-00831,2025-06-14,Central,WH-03,Supplier B,Electronics,Monitor,144,137,586,230,25.78,34.55,4.0,0.052,Delayed
+ORD-00832,2025-12-03,North,WH-02,Supplier D,Furniture,Desk,446,421,798,176,238.19,292.28,14.0,0.053,On Time
+ORD-00833,2025-07-05,South,WH-04,Supplier E,Electronics,Keyboard,355,217,770,249,201.99,235.45,14.0,,On Time
+ORD-00834,2025-02-23,North,WH-04,Supplier B,Electronics,Laptop,78,58,269,210,158.52,182.78,11.0,0.013,Cancelled
+ORD-00835,2025-10-22,South,WH-04,Supplier B,Furniture,Office Chair,455,288,140,175,228.41,264.19,15.0,0.02,Delayed
+ORD-00836,2025-02-11,South,WH-01,Supplier D,Furniture,Table,116,78,122,90,195.18,224.95,10.0,0.02,Delayed
+ORD-00837,2025-10-12,East,WH-04,Supplier D,Accessories,Laptop Stand,294,200,732,68,219.01,259.11,3.0,0.077,On Time
+ORD-00838,2025-05-18,South,WH-03,Supplier E,Furniture,Bookshelf,168,139,29,90,489.73,598.37,11.0,0.005,On Time
+ORD-00839,2025-07-06,North,WH-01,Supplier A,Office Supplies,Notebook,297,224,224,134,48.87,59.44,2.0,0.034,On Time
+ORD-00840,2025-07-23,North,WH-04,Supplier A,Office Supplies,Notebook,284,284,319,138,461.5,667.35,3.0,0.07,On Time
+ORD-00841,2025-02-11,North,WH-03,Supplier C,Electronics,Laptop,28,17,260,91,242.72,301.41,8.0,0.062,On Time
+ORD-00842,2025-12-16,Central,WH-03,Supplier B,Office Supplies,Stapler,476,476,497,169,313.75,372.81,15.0,0.066,On Time
+ORD-00843,2025-10-15,West,WH-03,Supplier E,Electronics,Headphones,302,200,391,72,415.94,546.41,1.0,0.078,On Time
+ORD-00844,2025-01-26,Central,WH-02,Supplier B,Accessories,Webcam,292,273,418,82,183.43,258.16,4.0,0.031,Cancelled
+ORD-00845,2025-02-25,East,WH-01,Supplier E,Electronics,Monitor,447,321,280,69,218.06,295.13,7.0,0.025,On Time
+ORD-00846,2025-09-10,South,WH-03,Supplier E,Furniture,Bookshelf,320,198,416,202,207.71,257.32,5.0,0.002,On Time
+ORD-00847,2025-05-02,West,WH-02,Supplier E,Electronics,Mouse,27,26,701,139,190.49,251.16,2.0,0.012,On Time
+ORD-00848,2025-04-16,South,WH-04,Supplier B,Accessories,USB Cable,227,159,203,153,463.14,631.93,1.0,0.045,On Time
+ORD-00849,2025-05-10,South,WH-03,Supplier D,Furniture,Cabinet,421,370,450,229,415.32,568.34,6.0,0.013,On Time
+ORD-00850,2025-12-03,South,WH-02,Supplier B,Office Supplies,Stapler,144,119,322,61,58.95,79.58,13.0,0.059,On Time
+ORD-00851,2025-06-07,North,WH-03,Supplier E,Electronics,Laptop,142,111,88,209,58.52,82.59,13.0,0.003,On Time
+ORD-00852,2025-08-19,South,WH-01,Supplier C,Office Supplies,Notebook,52,41,189,210,216.8,305.91,5.0,0.021,On Time
+ORD-00853,2025-11-04,South,WH-01,Supplier A,Electronics,Mouse,20,18,684,245,53.84,71.27,3.0,0.056,On Time
+ORD-00854,2025-04-01,West,WH-04,Supplier E,Accessories,Webcam,223,132,723,192,311.45,398.33,11.0,0.02,On Time
+ORD-00855,2025-01-22,North,WH-03,Supplier C,Electronics,Laptop,25,22,23,100,76.13,102.2,11.0,0.058,On Time
+ORD-00856,2025-10-17,South,WH-02,Supplier D,Electronics,Headphones,316,315,255,55,263.57,367.8,15.0,0.08,On Time
+ORD-00857,2025-04-20,Central,WH-04,Supplier E,Electronics,Keyboard,458,265,23,140,8.57,9.87,11.0,0.064,On Time
+ORD-00858,2025-02-18,North,WH-03,Supplier C,Furniture,Office Chair,24,14,108,246,161.72,234.11,9.0,0.027,On Time
+ORD-00859,2025-05-09,South,WH-04,Supplier E,Office Supplies,File Folder,462,419,42,118,340.21,409.91,3.0,0.072,On Time
+ORD-00860,2025-03-14,Central,WH-02,Supplier B,Electronics,Headphones,99,76,445,212,244.6,315.8,2.0,0.004,On Time
+ORD-00861,2025-12-06,North,WH-04,Supplier C,Office Supplies,Stapler,293,220,266,172,489.24,690.62,5.0,0.058,On Time
+ORD-00862,2025-02-22,North,WH-04,Supplier B,Furniture,Cabinet,196,121,43,211,437.68,532.88,9.0,0.002,On Time
+ORD-00863,2025-12-22,East,WH-04,Supplier B,Furniture,Cabinet,357,286,28,240,182.74,236.29,8.0,0.014,On Time
+ORD-00864,2025-06-17,South,WH-03,Supplier C,Furniture,Office Chair,340,208,673,245,27.52,32.74,6.0,0.079,Delayed
+ORD-00865,2025-02-14,East,WH-02,Supplier A,Furniture,Office Chair,358,282,269,195,423.59,537.33,3.0,0.029,On Time
+ORD-00866,2025-04-15,Central,WH-01,Supplier C,Office Supplies,Notebook,457,425,685,164,456.06,548.7,6.0,0.066,On Time
+ORD-00867,2025-05-30,North,WH-03,Supplier A,Electronics,Mouse,464,315,598,203,411.21,517.75,5.0,0.03,On Time
+ORD-00868,2025-05-26,West,WH-01,Supplier E,Electronics,Headphones,155,122,425,160,68.34,86.25,1.0,0.067,Delayed
+ORD-00869,2025-07-23,East,WH-01,Supplier E,Accessories,Webcam,406,406,146,110,498.97,722.48,5.0,0.077,Delayed
+ORD-00870,2025-12-28,North,WH-03,Supplier C,Accessories,Mouse Pad,44,39,368,156,133.0,192.64,14.0,0.035,On Time
+ORD-00871,2025-10-26,West,WH-03,Supplier E,Furniture,Office Chair,344,333,729,127,363.48,430.52,7.0,0.045,On Time
+ORD-00872,2025-06-16,South,WH-02,Supplier D,Electronics,Keyboard,202,152,763,144,454.48,621.63,9.0,0.05,Delayed
+ORD-00873,2025-07-20,East,WH-02,Supplier B,Office Supplies,Notebook,187,174,588,123,121.67,141.81,12.0,0.075,On Time
+ORD-00874,2025-05-14,North,WH-04,Supplier B,Furniture,Bookshelf,486,277,125,97,454.59,526.9,15.0,0.021,Delayed
+ORD-00875,2025-07-30,East,WH-01,Supplier A,Electronics,Keyboard,357,218,413,249,158.19,186.92,1.0,0.049,On Time
+ORD-00876,2025-02-17,South,WH-02,Supplier E,Electronics,Monitor,197,128,211,145,488.32,703.01,3.0,0.026,Delayed
+ORD-00877,2025-05-06,Central,WH-04,Supplier A,Office Supplies,Stapler,392,294,385,80,144.22,206.56,8.0,0.017,Delayed
+ORD-00878,2025-08-27,North,WH-02,Supplier B,Office Supplies,File Folder,114,110,259,83,476.95,576.24,6.0,0.007,On Time
+ORD-00879,2025-01-07,East,WH-03,Supplier B,Electronics,Keyboard,52,37,455,136,31.5,37.75,13.0,0.05,On Time
+ORD-00880,2025-09-29,East,WH-02,Supplier E,Electronics,Keyboard,130,114,287,184,356.09,435.2,5.0,0.071,On Time
+ORD-00881,2025-02-06,West,WH-01,Supplier D,Electronics,Keyboard,165,149,121,132,268.4,350.17,13.0,0.028,On Time
+ORD-00882,2025-07-30,East,WH-02,Supplier D,Office Supplies,Stapler,400,337,482,184,241.55,319.07,10.0,0.044,On Time
+ORD-00883,2025-06-14,West,WH-01,Supplier E,Electronics,Laptop,460,335,755,96,115.63,140.66,2.0,0.051,On Time
+ORD-00884,2025-05-05,West,WH-03,Supplier E,Electronics,Laptop,250,209,697,185,354.27,487.83,3.0,0.033,On Time
+ORD-00885,2025-12-03,Central,WH-01,Supplier A,Office Supplies,Pen Set,291,209,401,178,99.45,123.6,12.0,0.072,Cancelled
+ORD-00886,2025-07-11,South,WH-02,Supplier E,Electronics,Laptop,355,210,152,174,278.66,397.55,2.0,0.029,On Time
+ORD-00887,2025-08-06,East,WH-04,Supplier D,Office Supplies,Notebook,57,57,41,126,130.36,175.6,1.0,0.01,On Time
+ORD-00888,2025-08-02,Central,WH-03,Supplier E,Electronics,Keyboard,444,272,190,52,478.03,612.31,7.0,0.012,Delayed
+ORD-00889,2025-03-03,Central,WH-02,Supplier A,Electronics,Keyboard,154,90,588,230,19.17,26.59,14.0,0.071,Delayed
+ORD-00890,2025-11-24,Central,WH-03,Supplier A,Electronics,Monitor,353,349,525,141,103.87,144.94,3.0,0.079,On Time
+ORD-00891,2025-06-10,South,WH-03,Supplier A,Office Supplies,Notebook,254,178,278,215,124.94,154.57,7.0,0.023,On Time
+ORD-00892,2025-03-07,North,WH-02,Supplier A,Accessories,USB Cable,456,399,245,228,209.96,262.85,12.0,0.011,Delayed
+ORD-00893,2025-10-13,East,WH-02,Supplier C,Accessories,Laptop Stand,338,241,286,192,120.2,171.98,7.0,0.039,On Time
+ORD-00894,2025-08-27,West,WH-04,Supplier E,Furniture,Cabinet,387,288,562,149,248.22,297.72,8.0,0.057,Delayed
+ORD-00895,2025-01-20,East,WH-03,Supplier B,Office Supplies,File Folder,364,247,642,176,436.87,507.92,1.0,0.049,Delayed
+ORD-00896,2025-07-07,East,WH-03,Supplier E,Electronics,Laptop,179,129,284,244,357.47,459.78,5.0,0.076,Delayed
+ORD-00897,2025-03-23,Central,WH-02,Supplier C,Electronics,Keyboard,57,43,752,241,292.08,406.1,10.0,0.065,On Time
+ORD-00898,2025-12-29,South,WH-01,Supplier A,Accessories,Laptop Stand,169,153,95,117,49.06,67.78,9.0,0.07,Delayed
+ORD-00899,2025-07-21,Central,WH-02,Supplier C,Electronics,Laptop,419,337,72,182,348.53,496.95,12.0,0.043,On Time
+ORD-00900,2025-05-12,East,WH-03,Supplier D,Electronics,Mouse,327,327,413,139,87.38,114.46,11.0,0.026,On Time
+ORD-00901,2025-02-06,South,WH-02,Supplier D,Electronics,Keyboard,48,27,201,138,394.25,465.22,7.0,0.056,Delayed
+ORD-00902,2025-05-12,East,WH-04,Supplier E,Electronics,Mouse,163,130,302,59,128.78,170.84,1.0,0.035,On Time
+ORD-00903,2025-03-18,West,WH-01,Supplier E,Electronics,Headphones,95,80,40,57,211.44,292.53,8.0,0.023,On Time
+ORD-00904,2025-03-30,North,WH-02,Supplier B,Office Supplies,File Folder,164,164,339,61,178.48,210.25,3.0,0.012,Delayed
+ORD-00905,2025-09-10,North,WH-04,Supplier B,Furniture,Cabinet,248,142,667,113,430.11,516.91,13.0,0.042,Delayed
+ORD-00906,2025-12-10,Central,WH-03,Supplier D,Accessories,USB Cable,83,69,116,167,67.64,78.04,4.0,0.048,Delayed
+ORD-00907,2025-07-13,North,WH-02,Supplier A,Accessories,USB Cable,366,357,631,108,284.99,378.49,4.0,0.046,On Time
+ORD-00908,2025-06-25,East,WH-03,Supplier C,Furniture,Office Chair,364,244,285,244,75.32,106.65,15.0,0.009,On Time
+ORD-00909,2025-02-02,East,WH-04,Supplier B,Electronics,Mouse,288,284,731,99,353.87,478.15,10.0,0.046,On Time
+ORD-00910,2025-02-27,East,WH-03,Supplier B,Furniture,Office Chair,347,194,660,200,453.01,654.42,14.0,0.013,Delayed
+ORD-00911,2025-07-20,West,WH-04,Supplier A,Office Supplies,Notebook,203,185,607,89,220.13,257.31,12.0,0.053,On Time
+ORD-00912,2025-01-28,South,WH-04,Supplier A,Electronics,Headphones,280,280,565,171,246.61,350.41,8.0,0.034,On Time
+ORD-00913,2025-02-04,East,WH-04,Supplier E,Office Supplies,Notebook,287,252,91,146,464.07,647.02,1.0,0.068,On Time
+ORD-00914,2025-05-05,South,WH-02,Supplier C,Furniture,Office Chair,188,144,73,176,262.89,327.11,8.0,0.062,Cancelled
+ORD-00915,2025-11-17,West,WH-03,Supplier A,Office Supplies,Notebook,278,159,576,136,246.36,355.27,9.0,0.058,On Time
+ORD-00916,2025-02-11,North,WH-03,Supplier B,Furniture,Office Chair,246,246,595,126,291.27,360.12,9.0,0.056,On Time
+ORD-00917,2025-03-26,East,WH-01,Supplier B,Electronics,Mouse,52,40,138,170,346.17,490.45,5.0,0.045,On Time
+ORD-00918,2025-07-07,North,WH-01,Supplier D,Accessories,Mouse Pad,396,223,265,195,57.91,81.9,4.0,0.005,On Time
+ORD-00919,2025-04-21,South,WH-01,Supplier A,Office Supplies,Stapler,233,208,240,198,411.45,566.69,4.0,0.052,On Time
+ORD-00920,2025-09-28,South,WH-01,Supplier E,Electronics,Mouse,69,54,506,160,220.57,290.94,9.0,0.037,On Time
+ORD-00921,2025-11-21,North,WH-03,Supplier C,Accessories,Webcam,459,280,146,178,40.81,48.4,15.0,0.038,On Time
+ORD-00922,2025-04-15,Central,WH-04,Supplier E,Furniture,Office Chair,412,270,464,215,394.16,516.19,8.0,0.03,Delayed
+ORD-00923,2025-11-16,South,WH-04,Supplier B,Accessories,Power Bank,229,133,364,90,191.59,240.84,10.0,0.074,On Time
+ORD-00924,2025-02-10,Central,WH-02,Supplier E,Office Supplies,Printer Paper,453,379,633,219,54.68,75.88,15.0,0.02,On Time
+ORD-00925,2025-08-03,Central,WH-04,Supplier B,Furniture,Table,48,41,494,186,318.72,439.02,10.0,0.025,On Time
+ORD-00926,2025-03-12,East,WH-03,Supplier B,Electronics,Laptop,58,46,155,72,440.67,627.15,12.0,0.077,Delayed
+ORD-00927,2025-02-25,North,WH-03,Supplier B,Electronics,Mouse,366,350,42,127,444.44,513.08,7.0,0.065,On Time
+ORD-00928,2025-08-24,South,WH-03,Supplier B,Furniture,Bookshelf,119,116,269,60,479.04,667.17,12.0,0.001,Delayed
+ORD-00929,2025-10-08,West,WH-02,Supplier B,Office Supplies,Notebook,192,164,96,120,434.51,622.02,3.0,0.072,Delayed
+ORD-00930,2025-04-15,South,WH-01,Supplier D,Electronics,Monitor,36,20,274,208,6.06,8.4,4.0,0.018,On Time
+ORD-00931,2025-06-11,North,WH-04,Supplier E,Electronics,Headphones,75,67,551,75,193.22,229.75,15.0,0.056,On Time
+ORD-00932,2025-07-10,East,WH-03,Supplier D,Accessories,Power Bank,245,185,401,79,410.18,481.71,9.0,0.044,On Time
+ORD-00933,2025-01-09,Central,WH-03,Supplier D,Accessories,Power Bank,65,54,241,211,186.3,215.41,14.0,0.043,Cancelled
+ORD-00934,2025-03-01,West,WH-01,Supplier A,Furniture,Cabinet,86,75,597,223,302.77,405.3,13.0,0.057,On Time
+ORD-00935,2025-11-01,North,WH-03,Supplier A,Electronics,Headphones,216,156,456,151,305.13,408.54,8.0,0.017,On Time
+ORD-00936,2025-08-13,West,WH-04,Supplier A,Electronics,Keyboard,161,161,138,118,185.69,268.52,12.0,0.013,On Time
+ORD-00937,2025-11-03,South,WH-02,Supplier C,Electronics,Mouse,342,211,280,182,452.71,574.68,12.0,0.052,On Time
+ORD-00938,2025-07-07,South,WH-03,Supplier A,Accessories,USB Cable,42,37,98,238,254.1,317.52,1.0,0.023,On Time
+ORD-00939,2025-03-11,Central,WH-04,Supplier E,Electronics,Headphones,113,62,475,215,235.07,314.37,3.0,0.078,On Time
+ORD-00940,2025-10-20,South,WH-03,Supplier D,Office Supplies,File Folder,261,261,179,205,498.77,697.12,14.0,0.036,On Time
+ORD-00941,2025-10-14,South,WH-01,Supplier E,Electronics,Laptop,256,155,137,203,249.28,356.73,12.0,0.009,On Time
+ORD-00942,2025-06-18,North,WH-03,Supplier A,Office Supplies,File Folder,464,277,183,110,93.31,129.79,10.0,0.055,On Time
+ORD-00943,2025-03-03,Central,WH-03,Supplier C,Office Supplies,Printer Paper,426,305,35,155,258.97,330.96,2.0,0.024,On Time
+ORD-00944,2025-12-15,West,WH-02,Supplier C,Accessories,Laptop Stand,430,316,582,72,407.94,546.83,2.0,0.012,On Time
+ORD-00945,2025-01-14,West,WH-01,Supplier D,Electronics,Keyboard,73,47,520,223,389.55,548.05,13.0,0.034,Delayed
+ORD-00946,2025-06-13,West,WH-01,Supplier E,Electronics,Laptop,157,132,497,162,395.35,512.84,13.0,0.077,On Time
+ORD-00947,2025-09-02,North,WH-02,Supplier B,Electronics,Monitor,492,379,588,79,355.47,431.9,8.0,0.033,On Time
+ORD-00948,2025-12-01,East,WH-03,Supplier E,Accessories,USB Cable,352,199,415,116,130.84,157.13,6.0,0.028,On Time
+ORD-00949,2025-01-08,South,WH-04,Supplier A,Accessories,Power Bank,291,206,35,210,431.73,496.51,12.0,0.036,On Time
+ORD-00950,2025-06-03,North,WH-01,Supplier B,Office Supplies,Stapler,60,57,92,180,447.25,610.71,12.0,0.001,On Time
+ORD-00951,2025-02-05,East,WH-01,Supplier C,Office Supplies,Stapler,117,104,373,246,101.11,119.65,12.0,0.011,On Time
+ORD-00952,2025-02-17,Central,WH-03,Supplier D,Office Supplies,Printer Paper,202,184,376,170,69.58,85.11,13.0,0.068,On Time
+ORD-00953,2025-03-26,North,WH-03,Supplier D,Electronics,Keyboard,147,132,69,132,487.92,604.71,6.0,0.078,Delayed
+ORD-00954,2025-01-28,South,WH-01,Supplier C,Accessories,Webcam,248,174,560,219,434.82,573.14,4.0,0.013,On Time
+ORD-00955,2025-07-15,South,WH-03,Supplier A,Furniture,Cabinet,336,201,644,111,447.15,567.61,1.0,0.043,On Time
+ORD-00956,2025-07-27,South,WH-04,Supplier C,Furniture,Table,105,72,301,235,443.76,600.14,11.0,0.077,Delayed
+ORD-00957,2025-07-23,Central,WH-01,Supplier A,Furniture,Table,275,265,798,106,273.13,318.66,7.0,0.013,On Time
+ORD-00958,2025-11-03,East,WH-04,Supplier B,Electronics,Keyboard,228,228,200,50,324.97,385.8,8.0,0.015,On Time
+ORD-00959,2025-04-14,East,WH-04,Supplier C,Electronics,Mouse,234,186,470,151,274.95,357.37,2.0,0.074,On Time
+ORD-00960,2025-08-18,West,WH-03,Supplier A,Office Supplies,Printer Paper,393,218,673,237,30.35,37.97,2.0,0.056,On Time
+ORD-00961,2025-04-11,North,WH-04,Supplier B,Electronics,Headphones,119,73,242,118,374.02,463.32,1.0,0.012,On Time
+ORD-00962,2025-01-29,East,WH-03,Supplier C,Office Supplies,Notebook,68,48,483,108,255.14,298.54,4.0,0.031,Cancelled
+ORD-00963,2025-05-07,East,WH-02,Supplier D,Electronics,Mouse,220,184,414,95,325.62,461.96,6.0,0.005,On Time
+ORD-00964,2025-12-04,West,WH-03,Supplier C,Furniture,Cabinet,455,267,667,155,253.81,344.56,14.0,0.035,On Time
+ORD-00965,2025-01-10,Central,WH-04,Supplier E,Electronics,Mouse,277,277,280,83,248.45,294.78,5.0,0.062,On Time
+ORD-00966,2025-04-16,West,WH-02,Supplier C,Furniture,Cabinet,499,365,143,150,90.04,105.3,4.0,0.044,On Time
+ORD-00967,2025-06-16,South,WH-03,Supplier E,Office Supplies,Stapler,395,395,180,146,142.96,206.21,14.0,0.052,Delayed
+ORD-00968,2025-09-14,Central,WH-04,Supplier B,Electronics,Headphones,197,185,424,202,83.63,113.26,4.0,0.026,On Time
+ORD-00969,2025-10-22,North,WH-01,Supplier C,Office Supplies,Notebook,264,244,37,219,101.85,129.88,10.0,0.013,Delayed
+ORD-00970,2025-10-04,North,WH-01,Supplier B,Furniture,Cabinet,142,121,145,78,486.62,662.06,15.0,0.001,On Time
+ORD-00971,2025-03-06,South,WH-03,Supplier B,Office Supplies,Pen Set,361,311,414,202,80.79,111.24,7.0,0.066,Delayed
+ORD-00972,2025-09-28,South,WH-03,Supplier A,Accessories,Webcam,190,165,514,231,138.29,191.39,7.0,0.051,On Time
+ORD-00973,2025-07-07,East,WH-01,Supplier B,Office Supplies,Notebook,352,304,250,172,297.34,384.57,2.0,0.018,Delayed
+ORD-00974,2025-11-13,West,WH-04,Supplier B,Electronics,Laptop,155,128,453,122,307.04,392.69,13.0,0.033,On Time
+ORD-00975,2025-05-18,Central,WH-04,Supplier C,Electronics,Laptop,78,78,443,244,81.22,93.67,7.0,0.064,On Time
+ORD-00976,2025-12-09,East,WH-04,Supplier C,Electronics,Laptop,212,194,237,192,397.89,568.17,2.0,,On Time
+ORD-00977,2025-04-15,East,WH-03,Supplier D,Office Supplies,Pen Set,484,454,518,53,393.68,523.99,4.0,0.024,On Time
+ORD-00978,2025-02-03,North,WH-02,Supplier A,Electronics,Laptop,287,283,312,87,122.47,148.3,15.0,0.021,Delayed
+ORD-00979,2025-04-20,North,WH-02,Supplier B,Furniture,Table,279,183,43,69,147.89,210.87,1.0,0.017,On Time
+ORD-00980,2025-02-02,East,WH-02,Supplier A,Office Supplies,Stapler,392,232,11,162,469.3,668.51,5.0,0.066,Delayed
+ORD-00981,2025-12-20,East,WH-02,Supplier E,Furniture,Desk,480,379,371,72,413.71,598.54,1.0,0.047,On Time
+ORD-00982,2025-08-19,Central,WH-02,Supplier B,Office Supplies,Notebook,114,92,204,214,350.41,494.85,4.0,0.057,On Time
+ORD-00983,2025-11-13,North,WH-03,Supplier A,Electronics,Keyboard,144,138,615,239,45.71,66.25,13.0,0.069,Delayed
+ORD-00984,2025-09-23,North,WH-03,Supplier D,Electronics,Mouse,60,46,317,160,212.04,259.41,9.0,0.079,On Time
+ORD-00985,2025-07-01,East,WH-02,Supplier D,Office Supplies,Pen Set,398,332,656,185,281.85,395.34,13.0,0.02,On Time
+ORD-00986,2025-12-06,South,WH-03,Supplier B,Furniture,Office Chair,273,222,725,214,97.77,136.58,12.0,0.014,Cancelled
+ORD-00987,2025-03-06,North,WH-03,Supplier E,Office Supplies,Printer Paper,26,14,259,94,226.87,276.62,8.0,0.037,On Time
+ORD-00988,2025-11-29,West,WH-02,Supplier D,Furniture,Table,490,420,156,146,302.51,356.82,6.0,0.003,On Time
+ORD-00989,2025-01-01,North,WH-04,Supplier D,Electronics,Headphones,235,226,355,82,167.05,241.19,15.0,0.063,On Time
+ORD-00990,2025-05-13,West,WH-03,Supplier E,Accessories,USB Cable,88,55,357,184,391.57,485.08,8.0,0.071,Delayed
+ORD-00991,2025-03-21,South,WH-04,Supplier A,Office Supplies,Notebook,88,74,263,71,421.02,594.17,5.0,0.055,Cancelled
+ORD-00992,2025-09-28,North,WH-03,Supplier D,Office Supplies,Notebook,100,84,408,182,165.19,190.17,7.0,0.021,Cancelled
+ORD-00993,2025-08-29,South,WH-03,Supplier C,Electronics,Headphones,49,30,343,64,420.14,485.81,8.0,0.01,On Time
+ORD-00994,2025-01-28,Central,WH-02,Supplier D,Office Supplies,Stapler,92,56,185,70,56.27,72.57,7.0,0.031,On Time
+ORD-00995,2025-08-11,South,WH-03,Supplier A,Furniture,Office Chair,281,281,134,175,419.68,512.69,14.0,0.067,On Time
+ORD-00996,2025-01-23,West,WH-01,Supplier A,Electronics,Headphones,108,80,772,138,80.61,109.38,4.0,0.028,On Time
+ORD-00997,2025-04-19,North,WH-01,Supplier B,Accessories,Power Bank,422,280,407,66,46.05,60.77,5.0,0.003,On Time
+ORD-00998,2025-04-17,West,WH-02,Supplier C,Electronics,Laptop,227,144,140,105,322.68,378.58,13.0,0.022,On Time
+ORD-00999,2025-05-25,South,WH-04,Supplier A,Accessories,USB Cable,232,205,571,99,238.61,286.04,14.0,0.079,Delayed
+ORD-01000,2025-12-20,West,WH-04,Supplier E,Furniture,Bookshelf,341,291,614,184,454.41,575.47,10.0,0.054,Delayed
+ORD-01001,2025-05-19,East,WH-04,Supplier C,Electronics,Mouse,285,248,416,167,184.78,222.79,6.0,0.072,On Time
+ORD-01002,2025-10-11,Central,WH-01,Supplier C,Furniture,Cabinet,419,248,741,171,147.14,204.18,14.0,0.062,Cancelled
+ORD-01003,2025-10-25,South,WH-04,Supplier E,Accessories,USB Cable,312,310,343,99,252.86,322.35,14.0,0.043,Cancelled
+ORD-01004,2025-04-09,North,WH-04,Supplier D,Office Supplies,Pen Set,226,168,29,109,230.69,271.76,12.0,0.012,On Time
+ORD-01005,2025-11-13,North,WH-02,Supplier E,Accessories,Power Bank,352,248,214,174,175.49,227.31,11.0,0.028,On Time
+ORD-01006,2025-05-03,Central,WH-04,Supplier E,Office Supplies,File Folder,96,74,612,165,348.4,410.15,6.0,0.047,On Time
+ORD-01007,2025-11-16,East,WH-01,Supplier D,Office Supplies,Printer Paper,307,228,364,184,380.98,452.86,13.0,0.07,On Time
+ORD-01008,2025-10-14,West,WH-01,Supplier D,Accessories,Webcam,66,64,182,217,427.23,522.03,9.0,0.021,On Time
+ORD-01009,2025-03-22,South,WH-01,Supplier D,Electronics,Keyboard,129,129,198,222,486.56,685.01,10.0,0.01,On Time
+ORD-01010,2025-01-10,South,WH-02,Supplier D,Furniture,Office Chair,219,153,11,236,136.99,195.54,14.0,0.045,Delayed
+ORD-01011,2025-01-08,North,WH-02,Supplier D,Electronics,Laptop,446,437,177,137,359.47,502.49,14.0,0.014,On Time
+ORD-01012,2025-07-24,Central,WH-03,Supplier E,Accessories,Power Bank,229,215,377,154,200.16,250.24,2.0,0.049,On Time
+ORD-01013,2025-11-11,West,WH-04,Supplier B,Accessories,USB Cable,395,395,545,104,340.16,418.99,6.0,0.021,On Time
+ORD-01014,2025-07-16,Central,WH-02,Supplier B,Electronics,Laptop,439,295,589,113,240.61,316.34,13.0,0.018,On Time
+ORD-01015,2025-07-17,South,WH-01,Supplier A,Office Supplies,Printer Paper,173,145,379,242,496.92,679.07,3.0,0.032,On Time
+ORD-01016,2025-01-30,West,WH-01,Supplier B,Accessories,Power Bank,29,19,715,231,365.81,529.7,14.0,0.047,On Time
+ORD-01017,2025-01-20,West,WH-02,Supplier B,Electronics,Keyboard,434,417,605,145,476.48,566.76,2.0,0.044,Cancelled
+ORD-01018,2025-02-17,South,WH-02,Supplier E,Office Supplies,Notebook,372,205,446,217,418.31,487.24,6.0,0.02,On Time
+ORD-01019,2025-05-10,Central,WH-02,Supplier D,Accessories,USB Cable,176,146,216,230,451.94,613.87,4.0,0.071,Delayed
+ORD-01020,2025-10-20,Central,WH-03,Supplier D,Electronics,Headphones,280,201,58,93,408.14,571.26,5.0,0.009,On Time
+ORD-01021,2025-05-12,Central,WH-01,Supplier E,Office Supplies,Notebook,96,68,553,240,232.28,326.1,5.0,0.003,On Time
+ORD-01022,2025-12-22,West,WH-03,Supplier B,Electronics,Keyboard,276,240,691,179,129.64,175.47,3.0,0.048,On Time
+ORD-01023,2025-02-23,South,WH-03,Supplier E,Accessories,Mouse Pad,490,478,138,198,188.31,270.45,12.0,0.01,On Time
+ORD-01024,2025-10-08,South,WH-04,Supplier A,Accessories,Power Bank,150,128,456,99,15.02,19.58,4.0,0.04,Delayed
+ORD-01025,2025-09-22,Central,WH-01,Supplier D,Accessories,Power Bank,86,83,623,160,264.38,376.52,3.0,0.076,On Time
+ORD-01026,2025-08-03,North,WH-01,Supplier C,Furniture,Office Chair,474,323,44,229,255.0,367.29,7.0,0.056,On Time
+ORD-01027,2025-10-17,West,WH-02,Supplier A,Accessories,Laptop Stand,247,200,208,186,265.0,372.1,15.0,0.049,On Time
+ORD-01028,2025-02-12,West,WH-02,Supplier A,Accessories,Mouse Pad,182,141,86,148,487.15,605.49,1.0,0.046,Delayed
+ORD-01029,2025-03-15,West,WH-04,Supplier E,Furniture,Cabinet,34,18,378,197,456.17,551.45,15.0,0.014,On Time
+ORD-01030,2025-12-16,Central,WH-03,Supplier B,Accessories,Power Bank,251,207,535,195,85.05,111.79,6.0,0.035,On Time
+ORD-01031,2025-10-05,South,WH-02,Supplier D,Electronics,Headphones,214,188,358,133,187.6,241.24,4.0,0.027,On Time
+ORD-01032,2025-11-22,South,WH-02,Supplier C,Office Supplies,File Folder,368,311,515,79,214.86,303.67,1.0,0.076,On Time
+ORD-01033,2025-08-30,North,WH-01,Supplier A,Electronics,Mouse,49,44,652,114,183.46,216.48,1.0,0.019,Delayed
+ORD-01034,2025-05-10,East,WH-01,Supplier C,Electronics,Headphones,378,315,247,73,400.26,491.25,5.0,0.038,On Time
+ORD-01035,2025-12-16,South,WH-02,Supplier B,Electronics,Laptop,357,208,289,224,264.4,363.69,14.0,0.075,On Time
+ORD-01036,2025-07-13,South,WH-01,Supplier B,Office Supplies,File Folder,350,212,586,139,288.19,339.63,5.0,0.063,On Time
+ORD-01037,2025-02-01,Central,WH-04,Supplier C,Furniture,Desk,446,378,441,155,427.24,532.44,10.0,0.077,On Time
+ORD-01038,2025-04-16,Central,WH-02,Supplier D,Office Supplies,Stapler,335,230,147,221,403.93,511.43,7.0,0.049,On Time
+ORD-01039,2025-07-23,North,WH-01,Supplier B,Electronics,Monitor,315,185,278,206,70.44,94.16,13.0,0.027,On Time
+ORD-01040,2025-01-01,South,WH-04,Supplier C,Furniture,Table,468,357,749,126,358.39,429.15,12.0,0.066,On Time
+ORD-01041,2025-09-02,Central,WH-01,Supplier A,Furniture,Office Chair,432,357,210,117,220.54,310.56,4.0,0.023,On Time
+ORD-01042,2025-03-13,North,WH-01,Supplier C,Office Supplies,Notebook,349,249,151,158,150.85,193.73,14.0,0.013,On Time
+ORD-01043,2025-11-02,North,WH-01,Supplier C,Furniture,Table,239,217,621,194,29.76,42.41,9.0,0.057,On Time
+ORD-01044,2025-01-15,North,WH-02,Supplier E,Office Supplies,Printer Paper,396,345,659,146,246.19,317.67,4.0,0.051,On Time
+ORD-01045,2025-02-22,West,WH-03,Supplier B,Accessories,Laptop Stand,498,356,689,182,180.94,223.01,,0.07,Delayed
+ORD-01046,2025-01-08,North,WH-01,Supplier D,Office Supplies,Pen Set,166,153,620,141,129.5,154.44,5.0,0.077,On Time
+ORD-01047,2025-11-26,Central,WH-04,Supplier D,Electronics,Monitor,278,243,364,137,348.86,401.58,15.0,0.069,Delayed
+ORD-01048,2025-02-15,East,WH-02,Supplier E,Electronics,Monitor,311,270,587,99,385.9,505.39,5.0,0.005,On Time
+ORD-01049,2025-11-21,East,WH-02,Supplier D,Accessories,Laptop Stand,318,262,338,152,126.17,149.15,6.0,0.053,On Time
+ORD-01050,2025-04-24,South,WH-04,Supplier C,Electronics,Laptop,162,90,568,161,29.48,37.37,8.0,0.063,On Time
+ORD-01051,2025-05-27,East,WH-01,Supplier E,Accessories,Laptop Stand,444,398,240,217,425.13,564.05,15.0,0.079,Delayed
+ORD-01052,2025-06-15,West,WH-03,Supplier A,Furniture,Desk,254,187,317,95,9.93,12.24,5.0,0.03,Delayed
+ORD-01053,2025-05-19,West,WH-01,Supplier B,Accessories,Power Bank,134,134,667,228,468.87,563.85,15.0,0.014,On Time
+ORD-01054,2025-04-27,West,WH-04,Supplier B,Office Supplies,Notebook,384,368,728,60,315.67,436.39,3.0,0.068,On Time
+ORD-01055,2025-10-26,East,WH-02,Supplier B,Accessories,Laptop Stand,109,91,155,61,164.31,235.63,6.0,0.025,On Time
+ORD-01056,2025-10-03,Central,WH-03,Supplier C,Furniture,Cabinet,227,153,161,190,127.01,149.89,14.0,0.048,On Time
+ORD-01057,2025-10-04,Central,WH-02,Supplier A,Office Supplies,Printer Paper,183,119,149,113,9.46,11.32,12.0,0.031,Cancelled
+ORD-01058,2025-12-04,West,WH-04,Supplier E,Furniture,Office Chair,103,74,672,57,121.56,174.8,14.0,0.032,Delayed
+ORD-01059,2025-11-09,North,WH-01,Supplier E,Furniture,Cabinet,96,75,30,242,73.18,84.99,2.0,0.059,On Time
+ORD-01060,2025-06-27,North,WH-03,Supplier B,Office Supplies,Pen Set,180,125,263,58,308.02,444.56,12.0,0.029,On Time
+ORD-01061,2025-11-26,South,WH-02,Supplier A,Accessories,Mouse Pad,24,19,73,179,87.44,100.68,12.0,0.055,On Time
+ORD-01062,2025-12-20,West,WH-02,Supplier A,Accessories,USB Cable,97,61,227,127,266.67,376.56,8.0,0.001,On Time
+ORD-01063,2025-06-03,East,WH-02,Supplier A,Office Supplies,Pen Set,110,110,81,190,297.11,369.07,8.0,0.026,On Time
+ORD-01064,2025-07-20,East,WH-01,Supplier D,Furniture,Table,106,64,171,51,152.53,218.36,15.0,0.026,On Time
+ORD-01065,2025-04-25,Central,WH-03,Supplier D,Furniture,Office Chair,289,289,139,245,22.36,27.84,3.0,0.06,On Time
+ORD-01066,2025-06-08,Central,WH-01,Supplier B,Office Supplies,Pen Set,123,123,590,225,23.44,31.56,12.0,0.025,On Time
+ORD-01067,2025-02-11,Central,WH-01,Supplier A,Electronics,Monitor,471,382,234,123,18.04,21.18,8.0,0.051,On Time
+ORD-01068,2025-09-04,South,WH-01,Supplier A,Electronics,Keyboard,358,326,767,180,370.87,453.46,9.0,0.055,Delayed
+ORD-01069,2025-03-09,West,WH-04,Supplier E,Furniture,Bookshelf,194,148,589,245,162.41,224.47,5.0,0.053,Delayed
+ORD-01070,2025-11-22,South,WH-04,Supplier E,Electronics,Headphones,73,63,463,183,399.17,522.36,5.0,0.048,On Time
+ORD-01071,2025-11-30,North,WH-04,Supplier B,Electronics,Monitor,407,293,393,136,218.71,312.4,6.0,0.033,Delayed
+ORD-01072,2025-07-15,North,WH-03,Supplier A,Electronics,Monitor,497,348,116,54,229.23,293.1,7.0,0.03,On Time
+ORD-01073,2025-03-31,South,WH-01,Supplier B,Electronics,Keyboard,230,192,630,180,258.88,365.27,,0.045,Cancelled
+ORD-01074,2025-04-21,East,WH-01,Supplier E,Electronics,Laptop,114,91,112,187,357.95,459.85,5.0,0.005,On Time
+ORD-01075,2025-12-25,Central,WH-04,Supplier E,Accessories,USB Cable,242,203,150,220,140.38,202.68,1.0,0.07,Delayed
+ORD-01076,2025-05-25,North,WH-01,Supplier D,Furniture,Cabinet,28,19,586,196,65.19,93.74,11.0,0.066,On Time
+ORD-01077,2025-10-02,West,WH-01,Supplier B,Furniture,Bookshelf,72,52,143,63,280.25,349.96,10.0,0.028,On Time
+ORD-01078,2025-06-28,East,WH-02,Supplier B,Office Supplies,Stapler,96,56,208,198,166.85,236.22,5.0,0.045,On Time
+ORD-01079,2025-08-29,South,WH-01,Supplier A,Electronics,Keyboard,225,129,519,173,224.03,314.6,4.0,0.075,On Time
+ORD-01080,2025-11-22,East,WH-02,Supplier A,Accessories,Power Bank,335,226,676,92,325.24,394.58,1.0,0.022,On Time
+ORD-01081,2025-11-15,South,WH-01,Supplier D,Office Supplies,Pen Set,321,188,88,77,249.59,333.77,7.0,0.059,On Time
+ORD-01082,2025-11-27,West,WH-03,Supplier C,Electronics,Headphones,329,198,491,198,312.04,365.65,15.0,0.007,Delayed
+ORD-01083,2025-06-02,East,WH-04,Supplier C,Furniture,Bookshelf,349,333,521,213,274.38,384.41,1.0,0.042,On Time
+ORD-01084,2025-04-14,North,WH-02,Supplier C,Accessories,Webcam,131,74,259,73,371.2,446.32,13.0,0.071,On Time
+ORD-01085,2025-03-16,North,WH-04,Supplier B,Accessories,USB Cable,370,325,608,231,354.44,415.14,8.0,0.044,On Time
+ORD-01086,2025-05-08,East,WH-02,Supplier B,Furniture,Office Chair,184,126,762,215,269.42,342.18,14.0,0.049,On Time
+ORD-01087,2025-07-18,Central,WH-02,Supplier E,Office Supplies,Stapler,298,293,609,66,341.06,451.25,10.0,0.073,On Time
+ORD-01088,2025-06-03,South,WH-02,Supplier B,Electronics,Keyboard,46,36,492,199,437.41,615.21,12.0,0.057,On Time
+ORD-01089,2025-02-25,West,WH-03,Supplier B,Accessories,Mouse Pad,89,62,181,132,218.97,315.81,2.0,0.056,Cancelled
+ORD-01090,2025-10-05,West,WH-01,Supplier B,Electronics,Laptop,237,191,26,94,209.32,268.32,,0.047,On Time
+ORD-01091,2025-12-11,Central,WH-02,Supplier D,Accessories,Power Bank,469,347,744,123,383.3,447.75,13.0,0.051,Delayed
+ORD-01092,2025-01-19,Central,WH-03,Supplier B,Office Supplies,Pen Set,384,319,303,238,293.36,403.29,12.0,0.064,On Time
+ORD-01093,2025-06-08,East,WH-02,Supplier A,Office Supplies,File Folder,208,126,403,188,40.15,52.98,5.0,0.078,Delayed
+ORD-01094,2025-01-26,West,WH-01,Supplier A,Furniture,Table,352,352,507,110,446.6,573.6,13.0,0.064,On Time
+ORD-01095,2025-06-18,Central,WH-02,Supplier E,Electronics,Laptop,454,346,228,87,20.24,25.15,6.0,0.057,On Time
+ORD-01096,2025-01-23,South,WH-03,Supplier D,Electronics,Laptop,325,235,243,115,375.46,488.37,9.0,0.011,On Time
+ORD-01097,2025-02-16,South,WH-01,Supplier A,Electronics,Laptop,143,129,399,82,380.6,476.36,15.0,0.065,Delayed
+ORD-01098,2025-01-13,North,WH-03,Supplier D,Electronics,Mouse,38,27,257,92,476.79,656.59,14.0,0.059,On Time
+ORD-01099,2025-08-05,Central,WH-01,Supplier D,Office Supplies,File Folder,276,266,61,208,31.8,41.76,7.0,0.062,Cancelled
+ORD-01100,2025-11-18,Central,WH-01,Supplier E,Furniture,Bookshelf,315,244,24,161,300.44,424.54,6.0,0.018,On Time
+ORD-01101,2025-07-13,North,WH-04,Supplier D,Electronics,Monitor,435,395,333,84,216.78,284.65,5.0,0.072,On Time
+ORD-01102,2025-05-24,East,WH-04,Supplier B,Accessories,Laptop Stand,41,24,450,86,168.66,206.01,6.0,0.008,On Time
+ORD-01103,2025-03-14,East,WH-04,Supplier D,Accessories,Mouse Pad,387,376,121,224,49.71,69.86,15.0,0.02,On Time
+ORD-01104,2025-06-05,North,WH-01,Supplier E,Accessories,Power Bank,496,455,705,149,283.51,373.43,14.0,0.053,Delayed
+ORD-01105,2025-03-18,Central,WH-02,Supplier E,Accessories,USB Cable,469,307,16,72,242.13,293.47,11.0,0.054,On Time
+ORD-01106,2025-06-18,South,WH-03,Supplier E,Electronics,Headphones,59,36,572,213,56.75,75.88,4.0,0.025,On Time
+ORD-01107,2025-10-14,North,WH-03,Supplier A,Furniture,Desk,57,40,762,217,308.18,387.48,1.0,0.056,On Time
+ORD-01108,2025-03-26,West,WH-03,Supplier B,Office Supplies,Stapler,67,67,254,138,370.29,519.64,15.0,0.031,On Time
+ORD-01109,2025-07-01,West,WH-04,Supplier A,Office Supplies,Stapler,202,137,457,64,384.8,494.85,12.0,0.0,On Time
+ORD-01110,2025-11-11,North,WH-01,Supplier C,Electronics,Monitor,94,73,374,214,453.16,619.89,9.0,0.013,On Time
+ORD-01111,2025-10-24,West,WH-04,Supplier B,Accessories,Mouse Pad,228,128,376,181,207.69,244.8,11.0,0.071,On Time
+ORD-01112,2025-04-22,East,WH-02,Supplier D,Electronics,Keyboard,202,151,707,199,476.77,604.93,5.0,0.018,On Time
+ORD-01113,2025-08-18,North,WH-01,Supplier E,Electronics,Mouse,454,379,296,71,433.39,626.24,8.0,0.009,On Time
+ORD-01114,2025-04-06,North,WH-03,Supplier C,Furniture,Cabinet,126,126,613,127,151.77,211.35,7.0,0.055,On Time
+ORD-01115,2025-06-17,East,WH-04,Supplier B,Office Supplies,Printer Paper,207,167,115,194,83.85,100.45,8.0,0.035,On Time
+ORD-01116,2025-06-05,South,WH-04,Supplier A,Office Supplies,Notebook,283,271,22,121,220.52,271.97,1.0,0.064,Delayed
+ORD-01117,2025-04-15,Central,WH-02,Supplier E,Electronics,Monitor,105,86,155,147,203.94,254.71,9.0,0.069,Delayed
+ORD-01118,2025-07-12,Central,WH-02,Supplier A,Accessories,Mouse Pad,343,195,487,139,289.98,390.05,1.0,0.068,Delayed
+ORD-01119,2025-11-26,Central,WH-04,Supplier B,Electronics,Laptop,350,247,640,158,293.78,404.56,3.0,0.025,Cancelled
+ORD-01120,2025-05-12,South,WH-02,Supplier B,Electronics,Mouse,475,397,724,143,376.24,517.28,8.0,0.04,On Time
+ORD-01121,2025-12-21,Central,WH-03,Supplier C,Accessories,Laptop Stand,156,156,662,129,257.4,335.38,12.0,0.052,On Time
+ORD-01122,2025-05-18,East,WH-02,Supplier D,Accessories,USB Cable,365,357,124,143,56.89,79.26,11.0,0.026,On Time
+ORD-01123,2025-11-27,South,WH-02,Supplier A,Accessories,Webcam,405,268,518,129,429.85,550.69,1.0,0.003,On Time
+ORD-01124,2025-09-27,North,WH-04,Supplier C,Accessories,Laptop Stand,355,234,161,87,158.33,187.96,14.0,0.04,On Time
+ORD-01125,2025-02-07,North,WH-04,Supplier E,Office Supplies,File Folder,114,74,66,201,485.79,640.92,1.0,0.001,Delayed
+ORD-01126,2025-02-14,West,WH-01,Supplier D,Office Supplies,Stapler,345,345,391,183,63.34,90.94,6.0,0.076,On Time
+ORD-01127,2025-06-12,East,WH-01,Supplier C,Electronics,Headphones,264,257,166,245,479.33,665.26,5.0,0.064,On Time
+ORD-01128,2025-11-27,South,WH-04,Supplier A,Furniture,Office Chair,488,457,142,183,50.05,66.25,11.0,0.015,On Time
+ORD-01129,2025-09-10,West,WH-02,Supplier B,Furniture,Office Chair,109,81,172,75,119.36,160.42,6.0,0.023,On Time
+ORD-01130,2025-06-18,South,WH-02,Supplier E,Electronics,Mouse,78,62,284,150,28.06,40.1,3.0,0.079,On Time
+ORD-01131,2025-10-12,East,WH-01,Supplier A,Office Supplies,Notebook,422,330,704,218,354.03,452.63,10.0,0.03,Delayed
+ORD-01132,2025-10-01,South,WH-01,Supplier D,Furniture,Table,47,31,86,124,425.9,532.13,12.0,0.063,On Time
+ORD-01133,2025-01-20,Central,WH-01,Supplier D,Electronics,Monitor,91,73,53,87,219.87,317.31,10.0,0.036,Delayed
+ORD-01134,2025-08-27,Central,WH-03,Supplier B,Electronics,Mouse,289,163,727,132,464.62,654.66,6.0,0.069,Cancelled
+ORD-01135,2025-09-27,East,WH-03,Supplier B,Office Supplies,Pen Set,43,26,559,220,297.2,370.58,2.0,0.056,On Time
+ORD-01136,2025-11-06,South,WH-01,Supplier E,Electronics,Mouse,131,130,327,230,316.85,408.46,8.0,0.002,On Time
+ORD-01137,2025-01-31,South,WH-02,Supplier E,Accessories,Mouse Pad,319,295,543,192,423.48,539.74,15.0,0.024,On Time
+ORD-01138,2025-11-10,Central,WH-01,Supplier B,Furniture,Bookshelf,75,57,594,105,151.92,181.5,12.0,0.045,On Time
+ORD-01139,2025-04-14,South,WH-03,Supplier B,Furniture,Bookshelf,493,398,762,154,180.36,259.24,6.0,0.074,On Time
+ORD-01140,2025-06-19,South,WH-02,Supplier D,Office Supplies,Notebook,242,177,163,233,453.45,576.47,13.0,0.008,Delayed
+ORD-01141,2025-07-05,North,WH-03,Supplier B,Accessories,USB Cable,139,127,246,80,450.98,637.05,13.0,0.048,On Time
+ORD-01142,2025-05-08,East,WH-02,Supplier C,Furniture,Office Chair,198,186,526,234,488.36,589.36,4.0,0.024,On Time
+ORD-01143,2025-07-29,East,WH-03,Supplier A,Office Supplies,File Folder,307,286,230,228,451.41,593.32,4.0,0.071,On Time
+ORD-01144,2025-10-08,Central,WH-02,Supplier B,Office Supplies,Pen Set,453,412,319,201,68.05,78.75,14.0,0.061,On Time
+ORD-01145,2025-09-10,South,WH-02,Supplier E,Electronics,Mouse,444,289,607,107,412.74,569.28,11.0,0.03,On Time
+ORD-01146,2025-01-19,South,WH-02,Supplier C,Accessories,Laptop Stand,469,337,186,122,207.87,275.28,7.0,0.013,On Time
+ORD-01147,2025-07-19,Central,WH-02,Supplier E,Office Supplies,Printer Paper,300,235,780,181,495.45,662.75,14.0,0.001,On Time
+ORD-01148,2025-08-08,Central,WH-04,Supplier C,Office Supplies,Stapler,391,279,229,59,238.78,278.3,3.0,0.05,On Time
+ORD-01149,2025-05-16,South,WH-03,Supplier B,Accessories,USB Cable,208,192,47,240,279.15,338.7,11.0,0.032,Cancelled
+ORD-01150,2025-08-11,East,WH-03,Supplier A,Accessories,Power Bank,85,60,663,122,267.24,313.29,3.0,0.025,Delayed
+ORD-01151,2025-01-03,South,WH-04,Supplier E,Office Supplies,Pen Set,317,196,440,64,164.26,203.14,6.0,0.079,On Time
+ORD-01152,2025-08-24,Central,WH-02,Supplier C,Accessories,Power Bank,468,350,756,147,42.14,56.39,9.0,0.037,On Time
+ORD-01153,2025-12-08,North,WH-02,Supplier D,Office Supplies,Notebook,439,439,212,112,448.35,591.76,1.0,0.06,On Time
+ORD-01154,2025-08-16,Central,WH-03,Supplier B,Office Supplies,Notebook,268,177,457,68,402.32,536.55,5.0,0.014,On Time
+ORD-01155,2025-05-22,West,WH-04,Supplier A,Office Supplies,Notebook,95,81,504,162,74.07,97.39,1.0,0.001,Delayed
+ORD-01156,2025-01-09,East,WH-02,Supplier B,Office Supplies,File Folder,156,119,693,112,389.5,479.83,1.0,0.033,On Time
+ORD-01157,2025-07-09,North,WH-02,Supplier D,Electronics,Mouse,183,107,134,165,314.79,385.1,3.0,0.053,On Time
+ORD-01158,2025-12-16,East,WH-02,Supplier A,Accessories,Webcam,252,200,74,233,207.53,247.19,,0.041,On Time
+ORD-01159,2025-06-14,East,WH-01,Supplier D,Accessories,Mouse Pad,274,246,793,70,130.74,183.65,4.0,0.071,Delayed
+ORD-01160,2025-05-19,North,WH-04,Supplier B,Electronics,Keyboard,495,399,253,211,430.57,574.79,3.0,0.035,Delayed
+ORD-01161,2025-10-03,West,WH-02,Supplier C,Accessories,Mouse Pad,313,308,536,194,351.59,424.0,6.0,0.025,On Time
+ORD-01162,2025-10-18,Central,WH-01,Supplier B,Electronics,Monitor,436,302,235,195,276.13,332.23,12.0,0.073,On Time
+ORD-01163,2025-02-22,East,WH-04,Supplier B,Furniture,Bookshelf,189,112,474,130,306.74,433.09,15.0,0.033,On Time
+ORD-01164,2025-06-24,West,WH-02,Supplier B,Office Supplies,Pen Set,336,336,652,115,50.08,68.75,4.0,0.022,On Time
+ORD-01165,2025-04-20,North,WH-03,Supplier E,Electronics,Keyboard,193,142,716,228,239.59,322.92,8.0,0.008,On Time
+ORD-01166,2025-07-22,East,WH-01,Supplier D,Accessories,Power Bank,489,409,302,114,100.88,128.33,1.0,0.063,Delayed
+ORD-01167,2025-05-16,North,WH-01,Supplier D,Accessories,Power Bank,364,344,730,92,108.15,132.87,8.0,0.066,On Time
+ORD-01168,2025-01-04,West,WH-02,Supplier D,Furniture,Desk,464,330,390,106,332.35,479.86,11.0,0.003,Delayed
+ORD-01169,2025-06-04,Central,WH-02,Supplier E,Electronics,Headphones,37,33,634,187,456.07,633.56,1.0,0.029,Cancelled
+ORD-01170,2025-06-21,West,WH-01,Supplier C,Electronics,Monitor,89,54,765,86,204.86,254.14,11.0,0.06,On Time
+ORD-01171,2025-12-24,North,WH-03,Supplier B,Office Supplies,File Folder,357,248,175,225,107.84,151.44,1.0,0.076,On Time
+ORD-01172,2025-02-16,South,WH-03,Supplier C,Accessories,Power Bank,135,84,712,169,326.13,449.3,7.0,0.03,Delayed
+ORD-01173,2025-04-04,East,WH-04,Supplier E,Office Supplies,Pen Set,99,94,778,118,436.24,540.56,1.0,,On Time
+ORD-01174,2025-02-17,East,WH-02,Supplier D,Electronics,Mouse,34,22,227,105,375.42,479.77,9.0,0.031,On Time
+ORD-01175,2025-08-28,Central,WH-03,Supplier B,Office Supplies,File Folder,195,177,284,168,435.03,524.55,14.0,0.014,On Time
+ORD-01176,2025-12-13,Central,WH-04,Supplier A,Furniture,Bookshelf,475,475,61,213,270.59,320.19,15.0,0.0,On Time
+ORD-01177,2025-08-01,West,WH-03,Supplier A,Office Supplies,Stapler,288,234,383,208,377.18,515.54,8.0,0.026,On Time
+ORD-01178,2025-12-06,South,WH-02,Supplier C,Electronics,Monitor,138,113,679,104,74.33,91.44,13.0,0.03,On Time
+ORD-01179,2025-11-20,South,WH-04,Supplier D,Office Supplies,Stapler,318,248,372,87,177.4,247.65,15.0,0.076,On Time
+ORD-01180,2025-05-19,North,WH-04,Supplier A,Furniture,Office Chair,207,147,576,64,197.83,286.59,1.0,0.016,On Time
+ORD-01181,2025-07-24,South,WH-04,Supplier C,Accessories,USB Cable,76,59,23,193,258.09,302.74,2.0,0.031,On Time
+ORD-01182,2025-03-14,East,WH-03,Supplier E,Furniture,Table,218,185,790,126,464.89,600.6,2.0,0.002,On Time
+ORD-01183,2025-01-04,West,WH-02,Supplier C,Office Supplies,File Folder,36,36,349,102,437.78,608.79,2.0,0.061,On Time
+ORD-01184,2025-03-17,West,WH-04,Supplier C,Accessories,Mouse Pad,453,453,611,233,71.59,99.27,6.0,0.073,On Time
+ORD-01185,2025-11-25,North,WH-01,Supplier C,Electronics,Mouse,307,301,548,56,90.53,124.75,4.0,0.019,On Time
+ORD-01186,2025-03-18,South,WH-02,Supplier B,Accessories,USB Cable,425,422,98,234,182.03,228.39,8.0,0.034,Delayed
+ORD-01187,2025-10-31,North,WH-01,Supplier C,Office Supplies,File Folder,74,58,50,104,148.92,191.53,1.0,0.01,On Time
+ORD-01188,2025-09-13,North,WH-01,Supplier C,Electronics,Mouse,460,404,313,101,309.31,410.92,15.0,0.037,Delayed
+ORD-01189,2025-04-12,Central,WH-04,Supplier B,Furniture,Table,288,287,277,53,451.87,651.68,10.0,0.011,Delayed
+ORD-01190,2025-04-16,North,WH-04,Supplier B,Office Supplies,File Folder,322,240,147,92,481.33,600.83,14.0,0.042,On Time
+ORD-01191,2025-11-29,East,WH-03,Supplier E,Electronics,Laptop,106,106,15,89,328.53,468.79,4.0,0.059,On Time
+ORD-01192,2025-02-08,North,WH-03,Supplier D,Office Supplies,Printer Paper,337,255,251,170,419.89,516.8,10.0,0.044,On Time
+ORD-01193,2025-11-10,Central,WH-03,Supplier A,Furniture,Table,457,388,171,79,264.98,383.35,11.0,0.02,Delayed
+ORD-01194,2025-10-02,East,WH-02,Supplier A,Office Supplies,Pen Set,48,43,701,187,108.12,146.08,5.0,0.028,On Time
+ORD-01195,2025-03-29,South,WH-03,Supplier C,Electronics,Headphones,41,41,527,152,264.72,341.24,9.0,0.051,On Time
+ORD-01196,2025-07-30,East,WH-01,Supplier E,Accessories,Power Bank,340,228,792,56,279.77,373.22,5.0,0.047,On Time
+ORD-01197,2025-03-18,West,WH-03,Supplier C,Accessories,Mouse Pad,304,280,410,213,372.52,458.85,13.0,0.011,On Time
+ORD-01198,2025-03-18,Central,WH-04,Supplier A,Accessories,Mouse Pad,67,54,793,212,113.84,140.28,11.0,0.068,On Time
+ORD-01199,2025-01-28,South,WH-03,Supplier B,Office Supplies,Notebook,24,16,165,216,187.31,221.79,3.0,0.038,On Time
+ORD-01200,2025-09-02,Central,WH-02,Supplier D,Electronics,Monitor,269,252,94,213,185.19,219.3,11.0,0.013,Delayed
+ORD-01201,2025-03-07,Central,WH-02,Supplier E,Office Supplies,Pen Set,182,150,721,158,479.92,601.96,4.0,,On Time
+ORD-01202,2025-09-23,Central,WH-01,Supplier B,Electronics,Headphones,221,194,19,69,224.75,309.9,10.0,0.077,Delayed
+ORD-01203,2025-07-24,West,WH-02,Supplier D,Electronics,Keyboard,486,345,147,98,378.77,504.67,7.0,0.023,On Time
+ORD-01204,2025-02-27,West,WH-03,Supplier E,Furniture,Desk,120,94,763,145,376.65,444.74,1.0,0.073,On Time
+ORD-01205,2025-07-20,East,WH-04,Supplier E,Furniture,Office Chair,90,77,722,108,136.44,191.79,11.0,0.033,Delayed
+ORD-01206,2025-08-13,West,WH-02,Supplier A,Office Supplies,File Folder,449,337,165,226,288.08,383.26,6.0,0.031,On Time
+ORD-01207,2025-05-22,East,WH-01,Supplier B,Office Supplies,Stapler,182,118,417,139,447.68,643.88,8.0,0.056,On Time
+ORD-01208,2025-03-25,West,WH-03,Supplier E,Furniture,Table,192,192,796,75,240.22,324.55,1.0,0.001,On Time
+ORD-01209,2025-05-23,East,WH-01,Supplier E,Electronics,Mouse,160,128,234,85,472.83,568.6,8.0,0.027,Delayed
+ORD-01210,2025-12-18,West,WH-02,Supplier D,Accessories,Mouse Pad,157,143,589,220,111.16,143.63,7.0,0.024,On Time
+ORD-01211,2025-02-02,Central,WH-02,Supplier A,Furniture,Cabinet,85,64,193,175,41.71,56.08,1.0,0.069,On Time
+ORD-01212,2025-06-01,North,WH-01,Supplier C,Furniture,Bookshelf,217,157,204,92,446.27,516.99,9.0,0.042,On Time
+ORD-01213,2025-06-07,Central,WH-03,Supplier A,Electronics,Laptop,347,261,563,148,424.6,490.19,11.0,0.029,Delayed
+ORD-01214,2025-05-21,East,WH-02,Supplier C,Office Supplies,Stapler,247,186,405,82,496.33,590.05,3.0,0.021,Cancelled
+ORD-01215,2025-09-08,Central,WH-04,Supplier B,Office Supplies,File Folder,300,246,672,149,341.3,418.26,2.0,0.047,On Time
+ORD-01216,2025-10-30,East,WH-02,Supplier B,Electronics,Keyboard,191,156,605,146,468.66,599.35,7.0,0.012,On Time
+ORD-01217,2025-04-22,South,WH-03,Supplier E,Electronics,Headphones,335,267,143,222,414.34,537.08,11.0,0.02,Delayed
+ORD-01218,2025-05-24,Central,WH-02,Supplier B,Office Supplies,Pen Set,450,277,318,94,422.99,503.95,3.0,0.023,On Time
+ORD-01219,2025-07-28,South,WH-01,Supplier E,Office Supplies,Notebook,59,47,551,137,286.73,387.66,1.0,0.049,On Time
+ORD-01220,2025-08-12,Central,WH-02,Supplier A,Electronics,Mouse,26,16,18,192,194.27,258.15,10.0,0.03,On Time
+ORD-01221,2025-02-12,East,WH-02,Supplier B,Accessories,Mouse Pad,193,118,179,144,467.61,579.06,13.0,0.04,On Time
+ORD-01222,2025-09-21,East,WH-03,Supplier A,Electronics,Headphones,170,170,299,66,218.9,252.63,3.0,0.052,On Time
+ORD-01223,2025-09-01,South,WH-01,Supplier A,Furniture,Office Chair,230,196,177,189,271.72,318.81,6.0,0.077,On Time
+ORD-01224,2025-01-03,East,WH-03,Supplier B,Accessories,Mouse Pad,321,282,353,71,225.83,286.24,3.0,0.061,On Time
+ORD-01225,2025-05-05,South,WH-02,Supplier A,Furniture,Cabinet,105,78,506,200,284.59,340.42,5.0,0.032,Delayed
+ORD-01226,2025-09-25,North,WH-04,Supplier B,Office Supplies,Pen Set,416,416,154,139,237.9,300.48,9.0,0.06,On Time
+ORD-01227,2025-03-25,South,WH-02,Supplier B,Furniture,Office Chair,272,236,422,127,28.74,38.47,7.0,0.076,On Time
+ORD-01228,2025-01-16,North,WH-03,Supplier B,Electronics,Monitor,40,37,749,189,441.61,580.35,2.0,0.04,Delayed
+ORD-01229,2025-11-30,Central,WH-04,Supplier C,Accessories,Mouse Pad,276,202,597,163,224.97,274.32,1.0,0.033,On Time
+ORD-01230,2025-02-28,Central,WH-03,Supplier A,Furniture,Table,398,398,744,117,296.53,371.6,7.0,0.006,On Time
+ORD-01231,2025-06-26,South,WH-03,Supplier D,Accessories,Power Bank,422,405,698,159,73.9,98.6,4.0,0.071,On Time
+ORD-01232,2025-03-04,West,WH-01,Supplier B,Electronics,Mouse,400,390,466,228,6.68,9.41,11.0,0.02,On Time
+ORD-01233,2025-02-18,South,WH-04,Supplier A,Electronics,Headphones,463,294,710,174,126.42,173.95,7.0,0.005,On Time
+ORD-01234,2025-11-03,West,WH-02,Supplier E,Electronics,Laptop,52,35,311,190,353.77,465.57,6.0,0.043,On Time
+ORD-01235,2025-09-03,Central,WH-03,Supplier B,Office Supplies,File Folder,279,193,55,106,54.1,68.1,7.0,0.068,On Time
+ORD-01236,2025-10-16,Central,WH-02,Supplier B,Furniture,Cabinet,253,173,26,104,454.9,572.95,4.0,0.033,On Time
+ORD-01237,2025-10-13,East,WH-01,Supplier D,Accessories,Mouse Pad,22,21,587,131,111.44,157.56,3.0,0.063,Delayed
+ORD-01238,2025-11-28,West,WH-01,Supplier C,Furniture,Bookshelf,366,207,369,156,106.27,123.46,12.0,0.067,On Time
+ORD-01239,2025-01-15,South,WH-04,Supplier C,Accessories,Power Bank,327,192,270,205,94.85,137.19,5.0,0.036,On Time
+ORD-01240,2025-12-04,Central,WH-01,Supplier B,Electronics,Monitor,246,168,132,151,11.92,16.08,3.0,0.047,On Time
+ORD-01241,2025-09-12,North,WH-01,Supplier A,Accessories,Mouse Pad,303,196,240,221,387.04,524.18,14.0,0.043,On Time
+ORD-01242,2025-04-02,West,WH-02,Supplier E,Office Supplies,File Folder,89,59,646,196,438.14,508.86,3.0,0.075,On Time
+ORD-01243,2025-10-06,West,WH-01,Supplier E,Office Supplies,Stapler,473,448,121,223,309.01,411.5,4.0,0.058,On Time
+ORD-01244,2025-07-25,West,WH-01,Supplier A,Accessories,Power Bank,458,380,793,160,98.16,127.16,8.0,0.074,On Time
+ORD-01245,2025-04-04,North,WH-03,Supplier B,Office Supplies,Notebook,332,183,602,156,146.21,172.78,2.0,0.018,On Time
+ORD-01246,2025-08-13,Central,WH-01,Supplier E,Office Supplies,Stapler,383,292,255,151,240.58,296.73,4.0,0.025,On Time
+ORD-01247,2025-10-28,North,WH-03,Supplier C,Electronics,Headphones,490,369,400,52,477.4,676.52,11.0,0.006,On Time
+ORD-01248,2025-11-14,West,WH-01,Supplier A,Electronics,Laptop,273,165,401,197,127.44,167.58,3.0,0.04,On Time
+ORD-01249,2025-07-18,South,WH-01,Supplier D,Accessories,Laptop Stand,163,144,337,74,367.16,467.77,7.0,0.07,On Time
+ORD-01250,2025-09-28,South,WH-04,Supplier B,Office Supplies,Printer Paper,43,38,224,124,222.53,260.76,2.0,0.026,On Time
+ORD-01251,2025-08-22,East,WH-04,Supplier A,Office Supplies,Pen Set,472,429,756,233,152.43,207.95,1.0,0.01,Delayed
+ORD-01252,2025-02-15,East,WH-03,Supplier E,Furniture,Cabinet,444,405,376,110,230.68,313.92,10.0,0.005,On Time
+ORD-01253,2025-03-05,North,WH-01,Supplier B,Electronics,Laptop,253,139,91,172,40.25,53.7,1.0,0.036,Delayed
+ORD-01254,2025-08-18,North,WH-02,Supplier C,Electronics,Keyboard,352,352,85,104,400.35,521.69,6.0,0.013,Cancelled
+ORD-01255,2025-09-06,East,WH-04,Supplier B,Office Supplies,Notebook,194,185,536,212,125.43,160.57,3.0,0.028,On Time
+ORD-01256,2025-09-03,West,WH-02,Supplier B,Furniture,Desk,351,351,741,236,364.08,483.49,7.0,0.066,Cancelled
+ORD-01257,2025-03-16,Central,WH-04,Supplier C,Electronics,Mouse,344,191,512,88,38.83,47.37,8.0,0.031,On Time
+ORD-01258,2025-06-06,North,WH-04,Supplier C,Furniture,Cabinet,376,376,751,234,477.77,684.35,5.0,0.049,Delayed
+ORD-01259,2025-08-11,South,WH-01,Supplier B,Electronics,Mouse,178,169,488,132,100.54,133.38,5.0,0.04,On Time
+ORD-01260,2025-07-09,North,WH-04,Supplier C,Office Supplies,Pen Set,367,355,381,244,441.96,549.51,12.0,0.057,On Time
+ORD-01261,2025-02-21,North,WH-02,Supplier A,Electronics,Mouse,367,218,274,83,405.69,521.27,2.0,0.012,On Time
+ORD-01262,2025-03-29,West,WH-04,Supplier C,Office Supplies,Notebook,305,280,273,162,484.09,673.71,8.0,0.074,On Time
+ORD-01263,2025-11-09,West,WH-03,Supplier C,Furniture,Office Chair,37,37,119,218,241.56,289.51,10.0,0.051,Delayed
+ORD-01264,2025-12-05,North,WH-01,Supplier B,Furniture,Bookshelf,63,56,316,199,365.06,451.89,13.0,0.022,On Time
+ORD-01265,2025-03-07,South,WH-01,Supplier A,Electronics,Keyboard,174,145,209,76,188.5,255.2,1.0,0.01,On Time
+ORD-01266,2025-05-30,North,WH-03,Supplier D,Electronics,Laptop,374,374,235,198,96.26,119.81,10.0,0.012,On Time
+ORD-01267,2025-01-20,Central,WH-03,Supplier D,Furniture,Bookshelf,429,330,194,218,224.32,311.3,9.0,0.063,On Time
+ORD-01268,2025-02-02,Central,WH-03,Supplier E,Furniture,Desk,396,336,40,80,87.05,103.51,1.0,0.047,On Time
+ORD-01269,2025-11-24,North,WH-04,Supplier C,Office Supplies,Printer Paper,250,197,623,204,491.11,677.15,1.0,0.03,On Time
+ORD-01270,2025-10-08,South,WH-01,Supplier C,Electronics,Keyboard,390,390,780,214,52.64,61.62,1.0,0.027,On Time
+ORD-01271,2025-02-15,Central,WH-03,Supplier A,Office Supplies,File Folder,335,196,108,243,296.66,342.28,7.0,0.068,On Time
+ORD-01272,2025-03-14,Central,WH-04,Supplier D,Accessories,Mouse Pad,421,337,348,231,315.1,447.27,4.0,0.07,On Time
+ORD-01273,2025-12-20,East,WH-03,Supplier E,Office Supplies,Pen Set,244,218,275,186,271.35,359.38,12.0,0.047,On Time
+ORD-01274,2025-11-09,North,WH-02,Supplier A,Electronics,Mouse,236,223,661,132,332.78,417.82,7.0,0.042,Cancelled
+ORD-01275,2025-12-09,North,WH-02,Supplier C,Furniture,Bookshelf,75,63,359,219,62.51,76.25,5.0,0.065,On Time
+ORD-01276,2025-05-13,East,WH-01,Supplier D,Electronics,Mouse,50,50,737,213,279.73,373.46,12.0,0.06,On Time
+ORD-01277,2025-02-24,South,WH-04,Supplier E,Electronics,Headphones,376,376,553,59,147.17,191.72,14.0,0.032,On Time
+ORD-01278,2025-03-02,North,WH-02,Supplier B,Accessories,Mouse Pad,78,45,466,236,470.39,680.88,7.0,0.007,On Time
+ORD-01279,2025-12-11,West,WH-02,Supplier D,Electronics,Laptop,399,299,97,89,382.23,552.31,10.0,0.061,On Time
+ORD-01280,2025-01-08,North,WH-04,Supplier E,Furniture,Cabinet,405,227,72,103,486.39,652.01,14.0,0.013,On Time
+ORD-01281,2025-09-29,West,WH-03,Supplier A,Office Supplies,File Folder,372,265,396,216,23.59,30.26,7.0,0.001,On Time
+ORD-01282,2025-09-03,South,WH-04,Supplier B,Office Supplies,Printer Paper,442,361,468,184,146.14,189.59,4.0,0.067,On Time
+ORD-01283,2025-06-25,North,WH-03,Supplier E,Office Supplies,Printer Paper,464,464,595,53,101.73,137.82,2.0,0.046,On Time
+ORD-01284,2025-04-26,West,WH-02,Supplier E,Electronics,Laptop,254,247,645,192,10.52,12.42,8.0,0.071,On Time
+ORD-01285,2025-11-13,South,WH-02,Supplier C,Furniture,Office Chair,126,77,278,225,124.95,156.0,2.0,0.039,On Time
+ORD-01286,2025-09-28,Central,WH-02,Supplier D,Furniture,Bookshelf,210,125,642,55,340.99,399.84,9.0,0.074,On Time
+ORD-01287,2025-07-12,East,WH-01,Supplier C,Electronics,Keyboard,499,421,355,122,119.39,139.93,5.0,0.028,On Time
+ORD-01288,2025-05-30,South,WH-01,Supplier B,Furniture,Bookshelf,37,30,733,212,256.96,310.6,9.0,0.058,On Time
+ORD-01289,2025-05-11,West,WH-01,Supplier E,Electronics,Headphones,420,286,669,249,444.47,575.84,15.0,0.024,On Time
+ORD-01290,2025-04-12,South,WH-04,Supplier C,Electronics,Headphones,245,244,87,248,348.41,482.7,9.0,0.0,On Time
+ORD-01291,2025-11-06,Central,WH-02,Supplier D,Furniture,Table,186,186,374,245,200.34,259.57,14.0,0.03,On Time
+ORD-01292,2025-09-27,South,WH-02,Supplier B,Electronics,Monitor,90,67,23,107,189.37,236.83,8.0,0.059,On Time
+ORD-01293,2025-10-19,East,WH-04,Supplier A,Office Supplies,File Folder,381,379,145,126,230.59,270.88,8.0,0.012,On Time
+ORD-01294,2025-07-29,North,WH-01,Supplier C,Office Supplies,Notebook,73,54,313,68,92.64,121.83,4.0,0.04,On Time
+ORD-01295,2025-12-27,East,WH-04,Supplier B,Accessories,Mouse Pad,264,242,406,111,318.83,392.6,14.0,0.017,On Time
+ORD-01296,2025-12-04,Central,WH-01,Supplier A,Electronics,Monitor,369,290,88,120,185.26,247.23,4.0,0.006,On Time
+ORD-01297,2025-03-08,Central,WH-02,Supplier C,Electronics,Monitor,95,58,764,187,426.92,616.11,14.0,0.049,On Time
+ORD-01298,2025-01-10,South,WH-03,Supplier B,Electronics,Headphones,54,54,714,74,379.49,449.09,2.0,0.076,On Time
+ORD-01299,2025-02-18,South,WH-01,Supplier B,Office Supplies,Stapler,286,222,427,221,307.2,372.83,4.0,,On Time
+ORD-01300,2025-04-21,Central,WH-02,Supplier C,Office Supplies,Pen Set,336,308,251,176,185.28,239.37,4.0,0.046,On Time
+ORD-01301,2025-11-17,Central,WH-02,Supplier B,Electronics,Laptop,319,234,60,107,108.92,156.91,6.0,0.076,On Time
+ORD-01302,2025-08-07,North,WH-03,Supplier E,Accessories,Mouse Pad,140,78,753,202,389.2,537.7,3.0,0.052,Delayed
+ORD-01303,2025-02-26,East,WH-02,Supplier C,Electronics,Laptop,343,205,780,169,245.77,348.86,2.0,0.054,On Time
+ORD-01304,2025-10-10,South,WH-02,Supplier B,Furniture,Bookshelf,44,35,393,160,116.25,145.33,15.0,0.014,On Time
+ORD-01305,2025-04-23,Central,WH-01,Supplier A,Office Supplies,Notebook,451,403,384,217,101.61,147.09,8.0,0.039,On Time
+ORD-01306,2025-05-13,North,WH-01,Supplier A,Accessories,Webcam,179,128,739,125,86.87,102.58,2.0,0.029,On Time
+ORD-01307,2025-03-12,South,WH-03,Supplier E,Office Supplies,Pen Set,103,92,215,119,389.69,454.34,8.0,0.038,On Time
+ORD-01308,2025-03-24,West,WH-03,Supplier C,Accessories,USB Cable,133,119,498,187,118.35,166.48,7.0,0.064,On Time
+ORD-01309,2025-02-26,North,WH-02,Supplier B,Furniture,Bookshelf,242,218,390,115,265.69,379.45,3.0,0.037,On Time
+ORD-01310,2025-12-15,East,WH-01,Supplier B,Accessories,USB Cable,407,324,320,169,228.52,269.01,6.0,0.005,Delayed
+ORD-01311,2025-09-28,East,WH-03,Supplier A,Electronics,Mouse,185,185,384,202,291.91,345.63,6.0,0.072,On Time
+ORD-01312,2025-04-21,South,WH-03,Supplier E,Accessories,USB Cable,210,166,641,248,439.19,509.44,10.0,0.044,Cancelled
+ORD-01313,2025-12-23,South,WH-04,Supplier A,Furniture,Table,194,150,601,136,434.53,513.33,14.0,0.074,On Time
+ORD-01314,2025-03-17,East,WH-03,Supplier A,Accessories,USB Cable,20,12,51,188,228.28,276.86,5.0,0.046,On Time
+ORD-01315,2025-06-07,North,WH-02,Supplier E,Furniture,Table,406,285,542,171,12.61,18.17,13.0,0.006,On Time
+ORD-01316,2025-01-20,East,WH-01,Supplier C,Office Supplies,File Folder,248,141,531,213,216.09,291.8,8.0,0.044,On Time
+ORD-01317,2025-05-11,Central,WH-03,Supplier B,Furniture,Table,105,91,162,98,305.07,422.08,15.0,0.046,On Time
+ORD-01318,2025-11-25,West,WH-04,Supplier C,Office Supplies,Stapler,81,54,321,97,281.09,388.7,11.0,0.017,On Time
+ORD-01319,2025-05-02,North,WH-01,Supplier D,Electronics,Laptop,339,238,303,164,327.41,429.08,12.0,0.038,On Time
+ORD-01320,2025-02-10,North,WH-03,Supplier D,Electronics,Laptop,420,392,607,136,81.27,112.9,5.0,0.037,On Time
+ORD-01321,2025-06-16,South,WH-04,Supplier D,Electronics,Mouse,401,286,122,56,325.03,431.88,7.0,0.05,On Time
+ORD-01322,2025-05-10,South,WH-03,Supplier E,Electronics,Keyboard,225,150,710,126,95.41,118.72,6.0,0.021,On Time
+ORD-01323,2025-01-23,East,WH-01,Supplier A,Accessories,Webcam,124,78,121,228,376.51,496.37,11.0,0.047,Cancelled
+ORD-01324,2025-10-06,West,WH-01,Supplier C,Electronics,Laptop,337,315,184,194,172.85,226.44,15.0,0.019,On Time
+ORD-01325,2025-09-08,North,WH-01,Supplier B,Accessories,Webcam,310,190,311,209,356.4,497.9,7.0,0.036,Delayed
+ORD-01326,2025-01-09,North,WH-02,Supplier D,Furniture,Cabinet,269,208,525,203,28.69,41.44,13.0,0.01,On Time
+ORD-01327,2025-01-13,South,WH-03,Supplier C,Electronics,Keyboard,32,25,743,170,206.89,263.44,9.0,0.003,On Time
+ORD-01328,2025-11-03,West,WH-02,Supplier D,Office Supplies,Notebook,182,162,230,173,353.99,488.16,3.0,0.026,On Time
+ORD-01329,2025-11-16,North,WH-01,Supplier D,Office Supplies,Notebook,62,53,180,199,117.3,138.41,10.0,0.022,On Time
+ORD-01330,2025-02-21,West,WH-04,Supplier B,Furniture,Cabinet,405,386,327,190,398.67,551.38,7.0,0.033,Cancelled
+ORD-01331,2025-07-28,South,WH-03,Supplier E,Office Supplies,File Folder,459,262,222,174,317.24,400.17,13.0,0.077,On Time
+ORD-01332,2025-02-07,Central,WH-02,Supplier A,Office Supplies,File Folder,130,90,262,61,295.84,343.71,10.0,0.042,Delayed
+ORD-01333,2025-04-10,Central,WH-03,Supplier E,Electronics,Monitor,224,154,133,120,180.01,226.63,3.0,0.044,Delayed
+ORD-01334,2025-07-12,South,WH-04,Supplier C,Accessories,Power Bank,403,251,649,50,243.81,325.05,13.0,0.075,On Time
+ORD-01335,2025-07-10,South,WH-02,Supplier E,Accessories,Power Bank,275,191,222,210,300.69,356.55,2.0,0.074,On Time
+ORD-01336,2025-02-20,East,WH-01,Supplier C,Office Supplies,Notebook,326,229,633,168,238.87,340.92,12.0,0.071,On Time
+ORD-01337,2025-05-21,South,WH-02,Supplier C,Electronics,Keyboard,457,370,94,191,350.67,411.44,7.0,0.008,On Time
+ORD-01338,2025-06-17,West,WH-03,Supplier A,Office Supplies,Pen Set,163,143,525,160,219.68,313.92,4.0,0.051,On Time
+ORD-01339,2025-11-07,Central,WH-03,Supplier B,Electronics,Laptop,165,122,74,113,105.13,143.2,1.0,0.065,On Time
+ORD-01340,2025-04-19,West,WH-03,Supplier A,Electronics,Monitor,410,372,327,92,110.9,138.5,6.0,0.067,On Time
+ORD-01341,2025-07-26,Central,WH-03,Supplier E,Electronics,Monitor,320,229,355,235,7.87,9.97,11.0,0.046,On Time
+ORD-01342,2025-10-27,South,WH-01,Supplier C,Furniture,Cabinet,183,127,641,90,153.97,211.28,6.0,0.001,On Time
+ORD-01343,2025-04-20,North,WH-02,Supplier D,Accessories,Laptop Stand,188,154,252,245,375.71,499.86,6.0,0.078,Delayed
+ORD-01344,2025-07-15,West,WH-01,Supplier D,Office Supplies,Pen Set,497,279,146,164,398.11,538.04,2.0,0.038,On Time
+ORD-01345,2025-06-01,South,WH-01,Supplier C,Office Supplies,Pen Set,317,186,256,88,105.22,133.29,1.0,0.031,On Time
+ORD-01346,2025-08-31,West,WH-01,Supplier A,Furniture,Desk,252,191,450,50,479.73,621.9,3.0,0.032,On Time
+ORD-01347,2025-05-08,South,WH-03,Supplier B,Furniture,Table,410,410,54,90,253.69,367.08,12.0,0.034,Delayed
+ORD-01348,2025-04-15,North,WH-03,Supplier A,Furniture,Cabinet,290,264,667,222,458.9,557.19,14.0,0.019,On Time
+ORD-01349,2025-01-10,Central,WH-03,Supplier C,Accessories,Webcam,79,46,697,137,354.85,452.56,2.0,0.026,Cancelled
+ORD-01350,2025-12-22,North,WH-02,Supplier C,Electronics,Keyboard,315,306,563,147,362.6,448.73,6.0,0.079,Cancelled
+ORD-01351,2025-05-28,Central,WH-04,Supplier B,Accessories,Mouse Pad,486,445,98,137,47.1,64.98,13.0,0.029,Delayed
+ORD-01352,2025-12-31,Central,WH-03,Supplier E,Office Supplies,File Folder,254,217,739,128,113.9,157.09,12.0,0.042,On Time
+ORD-01353,2025-12-30,West,WH-02,Supplier E,Furniture,Table,184,176,237,190,9.36,11.59,6.0,0.068,On Time
+ORD-01354,2025-05-20,West,WH-03,Supplier B,Office Supplies,Printer Paper,213,160,300,120,359.48,422.18,13.0,0.042,Delayed
+ORD-01355,2025-07-09,East,WH-03,Supplier E,Furniture,Office Chair,253,167,431,186,175.5,202.43,5.0,0.026,Delayed
+ORD-01356,2025-04-04,Central,WH-01,Supplier D,Accessories,USB Cable,387,311,76,240,394.39,504.12,10.0,0.042,Delayed
+ORD-01357,2025-08-17,South,WH-01,Supplier E,Accessories,Power Bank,202,166,260,148,172.77,219.95,10.0,0.009,On Time
+ORD-01358,2025-03-04,East,WH-01,Supplier E,Furniture,Table,352,288,50,200,410.57,593.9,5.0,0.01,On Time
+ORD-01359,2025-12-06,West,WH-02,Supplier E,Electronics,Headphones,251,208,108,231,69.7,89.98,9.0,0.056,On Time
+ORD-01360,2025-01-25,East,WH-04,Supplier D,Office Supplies,Notebook,380,380,315,224,90.82,111.43,14.0,0.073,Delayed
+ORD-01361,2025-09-25,East,WH-04,Supplier E,Accessories,Power Bank,126,126,465,216,173.73,246.24,5.0,0.058,On Time
+ORD-01362,2025-10-08,South,WH-02,Supplier D,Electronics,Keyboard,397,392,600,136,207.2,268.8,13.0,0.006,On Time
+ORD-01363,2025-01-11,East,WH-03,Supplier B,Office Supplies,Printer Paper,242,230,310,203,177.61,236.18,10.0,0.032,On Time
+ORD-01364,2025-11-16,Central,WH-02,Supplier A,Office Supplies,Printer Paper,99,99,208,50,383.01,451.45,6.0,0.0,On Time
+ORD-01365,2025-07-20,South,WH-03,Supplier B,Office Supplies,Printer Paper,253,151,668,191,52.99,67.03,11.0,0.041,On Time
+ORD-01366,2025-05-06,Central,WH-02,Supplier A,Electronics,Monitor,400,273,497,161,178.85,256.34,4.0,0.015,On Time
+ORD-01367,2025-11-02,West,WH-02,Supplier B,Office Supplies,Pen Set,203,161,115,123,419.43,556.52,10.0,0.069,On Time
+ORD-01368,2025-07-09,Central,WH-02,Supplier A,Accessories,Laptop Stand,447,435,410,114,38.06,47.7,14.0,0.008,On Time
+ORD-01369,2025-03-30,East,WH-04,Supplier A,Electronics,Mouse,204,163,714,118,471.46,630.67,14.0,0.0,On Time
+ORD-01370,2025-12-21,West,WH-01,Supplier C,Electronics,Mouse,153,141,486,116,493.23,701.93,,0.036,Delayed
+ORD-01371,2025-04-26,North,WH-02,Supplier A,Accessories,Webcam,239,148,131,226,48.84,60.18,1.0,0.012,On Time
+ORD-01372,2025-12-18,Central,WH-04,Supplier A,Electronics,Monitor,307,207,86,99,149.18,194.16,4.0,0.059,On Time
+ORD-01373,2025-06-26,North,WH-01,Supplier C,Accessories,Laptop Stand,383,350,321,107,189.34,272.2,2.0,0.074,Delayed
+ORD-01374,2025-01-14,Central,WH-01,Supplier E,Furniture,Cabinet,221,139,121,102,389.31,467.84,10.0,0.003,On Time
+ORD-01375,2025-09-14,Central,WH-02,Supplier E,Electronics,Headphones,389,282,691,140,299.98,409.74,3.0,0.032,On Time
+ORD-01376,2025-07-28,South,WH-03,Supplier C,Accessories,Laptop Stand,165,112,527,164,323.96,432.27,7.0,0.08,Cancelled
+ORD-01377,2025-10-08,South,WH-03,Supplier D,Furniture,Table,343,248,206,167,379.97,514.44,7.0,0.059,On Time
+ORD-01378,2025-11-24,West,WH-03,Supplier A,Furniture,Bookshelf,146,132,107,106,63.4,79.59,1.0,0.076,On Time
+ORD-01379,2025-11-21,South,WH-02,Supplier A,Furniture,Desk,476,349,468,135,417.44,519.36,8.0,0.013,On Time
+ORD-01380,2025-04-15,Central,WH-03,Supplier C,Office Supplies,Stapler,154,127,239,67,354.28,480.14,7.0,0.018,Delayed
+ORD-01381,2025-05-27,North,WH-04,Supplier C,Electronics,Monitor,133,79,177,65,290.78,353.2,1.0,0.012,On Time
+ORD-01382,2025-10-06,North,WH-04,Supplier D,Furniture,Desk,283,269,786,179,445.42,568.31,8.0,0.024,On Time
+ORD-01383,2025-01-09,Central,WH-04,Supplier E,Accessories,Webcam,83,61,17,62,351.65,424.25,14.0,0.058,Delayed
+ORD-01384,2025-04-28,West,WH-04,Supplier B,Electronics,Keyboard,154,134,181,222,104.84,120.83,14.0,0.013,Delayed
+ORD-01385,2025-04-04,Central,WH-01,Supplier E,Office Supplies,Printer Paper,60,54,369,129,217.72,313.74,2.0,0.042,On Time
+ORD-01386,2025-05-24,South,WH-04,Supplier A,Furniture,Cabinet,315,206,204,249,249.55,319.3,8.0,0.022,On Time
+ORD-01387,2025-10-16,West,WH-03,Supplier C,Office Supplies,Printer Paper,22,21,278,92,32.33,46.58,3.0,0.066,On Time
+ORD-01388,2025-01-14,West,WH-02,Supplier D,Electronics,Laptop,420,360,28,249,477.55,569.29,10.0,0.001,On Time
+ORD-01389,2025-09-14,West,WH-03,Supplier E,Accessories,USB Cable,213,162,363,103,68.65,91.04,7.0,0.018,Delayed
+ORD-01390,2025-12-12,West,WH-04,Supplier D,Furniture,Desk,482,309,58,208,350.24,423.89,13.0,0.048,On Time
+ORD-01391,2025-07-05,East,WH-01,Supplier E,Electronics,Headphones,129,129,473,186,255.58,354.5,6.0,0.008,On Time
+ORD-01392,2025-12-11,East,WH-04,Supplier A,Electronics,Monitor,240,222,365,122,17.69,24.5,5.0,0.037,Delayed
+ORD-01393,2025-07-26,South,WH-02,Supplier B,Electronics,Monitor,389,254,167,97,462.75,547.8,15.0,0.035,On Time
+ORD-01394,2025-12-12,West,WH-03,Supplier D,Furniture,Office Chair,387,278,75,67,426.66,607.4,11.0,0.068,On Time
+ORD-01395,2025-06-21,South,WH-02,Supplier D,Furniture,Desk,455,434,580,60,264.51,319.63,10.0,0.05,On Time
+ORD-01396,2025-09-27,West,WH-02,Supplier B,Accessories,USB Cable,425,381,317,239,118.33,157.84,14.0,0.051,Delayed
+ORD-01397,2025-08-09,South,WH-02,Supplier D,Furniture,Table,23,21,346,133,65.2,94.26,11.0,0.076,Cancelled
+ORD-01398,2025-06-01,West,WH-03,Supplier D,Electronics,Mouse,263,202,680,68,184.88,261.55,2.0,0.079,On Time
+ORD-01399,2025-04-21,West,WH-04,Supplier E,Office Supplies,Printer Paper,409,371,792,149,131.44,188.88,2.0,0.052,Delayed
+ORD-01400,2025-07-02,South,WH-02,Supplier E,Office Supplies,File Folder,185,137,130,165,255.81,320.47,13.0,0.042,Cancelled
+ORD-01401,2025-12-05,North,WH-03,Supplier B,Electronics,Mouse,45,29,775,139,483.37,571.19,12.0,0.049,Cancelled
+ORD-01402,2025-03-13,North,WH-01,Supplier A,Electronics,Keyboard,414,358,413,123,289.6,349.4,15.0,0.031,On Time
+ORD-01403,2025-10-10,West,WH-03,Supplier D,Electronics,Laptop,493,493,782,73,445.52,579.24,1.0,0.079,On Time
+ORD-01404,2025-03-15,Central,WH-01,Supplier A,Office Supplies,Printer Paper,36,25,656,62,327.19,454.13,14.0,0.056,On Time
+ORD-01405,2025-12-21,North,WH-03,Supplier B,Office Supplies,Notebook,235,183,795,174,240.25,287.11,9.0,0.023,On Time
+ORD-01406,2025-08-03,West,WH-04,Supplier B,Furniture,Bookshelf,111,98,577,165,428.03,576.95,11.0,0.005,On Time
+ORD-01407,2025-11-24,South,WH-02,Supplier E,Accessories,USB Cable,50,41,105,223,238.33,297.21,8.0,0.004,On Time
+ORD-01408,2025-01-23,East,WH-04,Supplier D,Accessories,Mouse Pad,224,217,123,230,434.97,544.74,8.0,0.016,On Time
+ORD-01409,2025-03-09,Central,WH-03,Supplier C,Office Supplies,Pen Set,438,407,438,206,149.33,201.38,1.0,0.019,On Time
+ORD-01410,2025-12-28,South,WH-02,Supplier B,Accessories,Laptop Stand,419,242,549,213,68.76,88.71,5.0,0.033,Delayed
+ORD-01411,2025-04-03,East,WH-01,Supplier D,Electronics,Mouse,226,226,11,120,428.38,596.99,12.0,0.017,Delayed
+ORD-01412,2025-11-17,North,WH-03,Supplier A,Electronics,Mouse,126,116,221,175,295.77,353.97,6.0,0.05,On Time
+ORD-01413,2025-11-20,North,WH-02,Supplier E,Electronics,Monitor,165,162,589,194,445.1,617.35,15.0,0.017,On Time
+ORD-01414,2025-03-04,South,WH-01,Supplier A,Electronics,Keyboard,386,337,649,225,469.22,548.65,2.0,0.015,On Time
+ORD-01415,2025-08-12,North,WH-01,Supplier B,Furniture,Table,120,117,342,201,31.55,38.12,10.0,0.038,On Time
+ORD-01416,2025-08-13,West,WH-04,Supplier B,Accessories,Mouse Pad,387,234,33,231,252.98,340.72,15.0,0.071,On Time
+ORD-01417,2025-12-12,East,WH-03,Supplier A,Electronics,Laptop,337,243,774,168,190.61,268.09,5.0,0.037,Delayed
+ORD-01418,2025-12-03,East,WH-01,Supplier B,Electronics,Mouse,387,382,377,140,314.8,385.88,6.0,0.033,On Time
+ORD-01419,2025-04-13,North,WH-02,Supplier D,Furniture,Bookshelf,260,169,751,134,397.83,496.55,9.0,0.046,Delayed
+ORD-01420,2025-08-03,South,WH-01,Supplier B,Accessories,Power Bank,430,253,515,157,143.89,188.66,15.0,0.021,Delayed
+ORD-01421,2025-07-11,West,WH-01,Supplier E,Furniture,Office Chair,266,251,185,176,280.62,340.52,10.0,0.028,On Time
+ORD-01422,2025-06-09,Central,WH-04,Supplier D,Furniture,Desk,182,176,438,170,355.82,495.78,1.0,0.017,Delayed
+ORD-01423,2025-07-26,North,WH-04,Supplier C,Electronics,Monitor,391,246,742,178,71.54,98.87,13.0,0.046,On Time
+ORD-01424,2025-09-26,Central,WH-02,Supplier B,Electronics,Headphones,192,187,451,244,407.96,486.94,10.0,0.056,Delayed
+ORD-01425,2025-07-13,East,WH-04,Supplier B,Accessories,USB Cable,54,48,557,55,305.02,393.22,3.0,0.054,Delayed
+ORD-01426,2025-06-01,East,WH-01,Supplier E,Accessories,Laptop Stand,303,245,523,127,475.02,656.69,12.0,0.02,On Time
+ORD-01427,2025-08-25,East,WH-01,Supplier E,Electronics,Keyboard,378,364,370,232,173.07,216.54,9.0,0.062,On Time
+ORD-01428,2025-03-29,North,WH-04,Supplier A,Accessories,USB Cable,400,303,283,87,58.53,78.43,15.0,0.02,On Time
+ORD-01429,2025-01-11,North,WH-01,Supplier A,Office Supplies,Pen Set,377,243,186,210,255.72,297.93,14.0,0.012,On Time
+ORD-01430,2025-07-06,West,WH-01,Supplier A,Accessories,Power Bank,412,285,273,165,47.48,63.27,1.0,0.028,Cancelled
+ORD-01431,2025-08-02,South,WH-02,Supplier E,Furniture,Table,479,384,195,151,484.92,579.87,1.0,0.048,On Time
+ORD-01432,2025-01-15,Central,WH-04,Supplier A,Furniture,Bookshelf,418,340,536,57,24.15,33.79,1.0,0.011,On Time
+ORD-01433,2025-09-23,East,WH-01,Supplier A,Furniture,Table,40,38,288,127,377.98,474.98,7.0,0.052,On Time
+ORD-01434,2025-10-24,North,WH-04,Supplier C,Office Supplies,File Folder,327,309,715,161,264.93,327.05,13.0,0.069,On Time
+ORD-01435,2025-03-14,West,WH-02,Supplier A,Electronics,Laptop,182,153,207,197,187.47,262.88,5.0,0.023,Delayed
+ORD-01436,2025-02-21,South,WH-04,Supplier B,Electronics,Mouse,116,109,358,104,37.59,43.79,6.0,0.036,On Time
+ORD-01437,2025-05-08,East,WH-01,Supplier E,Furniture,Bookshelf,326,210,430,97,312.97,397.15,13.0,0.018,Delayed
+ORD-01438,2025-01-28,West,WH-04,Supplier D,Office Supplies,Printer Paper,358,205,314,233,294.68,371.59,15.0,0.029,On Time
+ORD-01439,2025-03-06,Central,WH-01,Supplier C,Electronics,Mouse,74,73,73,137,144.04,177.95,14.0,0.002,On Time
+ORD-01440,2025-01-17,West,WH-01,Supplier E,Office Supplies,Printer Paper,490,288,299,59,455.56,648.5,8.0,0.076,On Time
+ORD-01441,2025-12-17,West,WH-01,Supplier E,Accessories,USB Cable,352,237,27,101,155.53,213.9,14.0,0.033,On Time
+ORD-01442,2025-05-18,West,WH-02,Supplier B,Electronics,Headphones,146,131,73,227,227.61,266.12,13.0,0.063,On Time
+ORD-01443,2025-11-15,Central,WH-04,Supplier A,Office Supplies,Stapler,447,337,339,83,274.16,374.07,2.0,0.011,On Time
+ORD-01444,2025-08-17,South,WH-02,Supplier B,Furniture,Bookshelf,212,209,772,213,54.61,71.44,13.0,0.065,Delayed
+ORD-01445,2025-09-11,North,WH-04,Supplier A,Accessories,Mouse Pad,262,183,26,110,466.42,662.44,2.0,0.069,Cancelled
+ORD-01446,2025-07-29,South,WH-02,Supplier A,Electronics,Mouse,368,204,452,193,190.4,236.84,3.0,0.057,On Time
+ORD-01447,2025-10-21,South,WH-03,Supplier E,Office Supplies,File Folder,107,74,150,128,44.99,59.49,13.0,0.072,On Time
+ORD-01448,2025-08-19,West,WH-01,Supplier A,Accessories,Webcam,355,297,317,67,196.71,255.77,3.0,0.013,On Time
+ORD-01449,2025-08-29,West,WH-01,Supplier C,Accessories,USB Cable,428,315,453,120,302.1,391.78,13.0,0.038,Delayed
+ORD-01450,2025-03-11,West,WH-02,Supplier C,Office Supplies,File Folder,234,191,505,224,259.26,333.62,3.0,0.05,On Time
+ORD-01451,2025-04-14,North,WH-03,Supplier C,Furniture,Cabinet,111,109,435,135,348.8,422.64,4.0,0.048,On Time
+ORD-01452,2025-07-23,West,WH-01,Supplier E,Office Supplies,Printer Paper,322,322,484,81,32.46,44.69,3.0,0.069,On Time
+ORD-01453,2025-02-22,South,WH-04,Supplier B,Accessories,Mouse Pad,483,329,254,92,145.85,187.48,2.0,0.017,On Time
+ORD-01454,2025-11-26,West,WH-02,,Office Supplies,Pen Set,254,198,459,132,410.52,590.15,9.0,0.014,On Time
+ORD-01455,2025-02-23,East,WH-01,Supplier A,Electronics,Keyboard,203,167,360,217,44.55,54.72,6.0,0.02,On Time
+ORD-01456,2025-10-03,South,WH-01,Supplier D,Accessories,Laptop Stand,57,57,608,242,428.47,580.5,3.0,0.071,On Time
+ORD-01457,2025-12-01,North,WH-02,Supplier B,Office Supplies,Printer Paper,158,158,720,212,50.49,72.31,9.0,0.075,On Time
+ORD-01458,2025-01-31,North,WH-02,Supplier B,Office Supplies,Stapler,214,142,170,118,418.05,563.97,15.0,0.046,Delayed
+ORD-01459,2025-05-15,Central,WH-04,Supplier E,Electronics,Laptop,34,31,149,99,183.59,259.12,4.0,0.04,On Time
+ORD-01460,2025-02-27,Central,WH-04,Supplier C,Office Supplies,File Folder,276,203,502,61,308.04,430.72,4.0,0.048,On Time
+ORD-01461,2025-04-15,West,WH-01,Supplier C,Furniture,Desk,154,85,597,134,80.68,101.5,8.0,0.049,Delayed
+ORD-01462,2025-09-23,North,WH-01,Supplier B,Office Supplies,File Folder,20,11,540,172,37.75,50.21,7.0,0.014,On Time
+ORD-01463,2025-01-10,East,WH-02,Supplier E,Electronics,Headphones,68,53,402,107,111.89,133.92,15.0,0.055,On Time
+ORD-01464,2025-09-10,West,WH-01,Supplier E,Office Supplies,Stapler,115,91,410,132,68.29,89.5,7.0,0.036,Delayed
+ORD-01465,2025-10-22,West,WH-01,Supplier A,Accessories,Webcam,220,123,59,240,159.64,194.62,10.0,0.041,On Time
+ORD-01466,2025-06-05,North,WH-02,Supplier C,Electronics,Laptop,432,385,753,226,259.62,356.49,7.0,0.002,On Time
+ORD-01467,2025-06-07,North,WH-01,Supplier B,Accessories,USB Cable,45,31,304,161,296.44,387.87,10.0,0.061,On Time
+ORD-01468,2025-02-06,West,WH-01,Supplier D,Furniture,Bookshelf,362,300,434,177,395.98,504.23,11.0,0.067,On Time
+ORD-01469,2025-04-29,South,WH-03,Supplier C,Accessories,USB Cable,448,313,21,85,329.84,405.91,5.0,0.05,On Time
+ORD-01470,2025-03-08,South,WH-04,Supplier A,Office Supplies,Stapler,254,160,344,103,306.34,444.07,15.0,0.06,On Time
+ORD-01471,2025-08-30,North,WH-02,Supplier E,Office Supplies,File Folder,368,277,24,96,208.83,244.65,7.0,0.042,On Time
+ORD-01472,2025-10-26,East,WH-03,Supplier B,Office Supplies,File Folder,263,175,37,164,239.54,278.6,4.0,0.049,Cancelled
+ORD-01473,2025-08-01,Central,WH-04,Supplier C,Accessories,Power Bank,377,308,397,209,210.19,255.42,8.0,0.032,Cancelled
+ORD-01474,2025-11-04,Central,WH-04,Supplier D,Furniture,Desk,346,224,301,173,421.87,608.05,9.0,0.063,On Time
+ORD-01475,2025-04-11,East,WH-04,Supplier A,Furniture,Office Chair,415,333,259,230,118.85,171.59,13.0,0.037,On Time
+ORD-01476,2025-02-25,East,WH-03,Supplier A,Office Supplies,Stapler,370,232,514,209,7.83,10.54,12.0,0.054,On Time
+ORD-01477,2025-11-28,North,WH-03,Supplier C,Accessories,Webcam,435,385,107,239,327.4,462.95,3.0,0.05,On Time
+ORD-01478,2025-11-20,East,WH-04,Supplier D,Office Supplies,Notebook,393,364,346,214,105.22,127.76,7.0,0.056,On Time
+ORD-01479,2025-08-27,South,WH-01,Supplier A,Office Supplies,Stapler,423,255,48,145,445.61,642.4,12.0,0.063,On Time
+ORD-01480,2025-08-19,West,WH-01,Supplier B,Furniture,Cabinet,394,308,47,156,430.23,513.19,10.0,0.041,On Time
+ORD-01481,2025-12-28,South,WH-03,Supplier A,Accessories,Laptop Stand,70,40,309,169,42.98,50.73,9.0,0.065,On Time
+ORD-01482,2025-04-02,South,WH-03,Supplier D,Electronics,Headphones,100,84,188,150,57.66,68.25,1.0,0.04,Delayed
+ORD-01483,2025-10-06,North,WH-03,Supplier E,Furniture,Cabinet,55,37,618,152,250.11,330.63,2.0,0.077,Delayed
+ORD-01484,2025-04-19,South,WH-04,Supplier E,Electronics,Laptop,86,69,478,215,306.57,424.38,7.0,0.06,On Time
+ORD-01485,2025-11-13,North,WH-01,Supplier C,Furniture,Cabinet,148,119,291,207,141.08,177.76,15.0,0.014,On Time
+ORD-01486,2025-06-17,North,WH-03,Supplier D,Furniture,Table,389,389,759,235,359.81,519.34,13.0,0.066,Delayed
+ORD-01487,2025-10-27,Central,WH-03,Supplier A,Furniture,Cabinet,174,143,173,81,299.48,383.43,2.0,0.044,Delayed
+ORD-01488,2025-08-06,East,WH-02,Supplier A,Office Supplies,Notebook,264,222,462,115,165.79,198.14,7.0,0.079,On Time
+ORD-01489,2025-08-10,East,WH-04,Supplier E,Furniture,Bookshelf,130,97,106,228,17.56,22.65,1.0,0.058,On Time
+ORD-01490,2025-06-10,Central,WH-02,Supplier E,Furniture,Table,187,187,778,60,376.32,509.43,15.0,0.007,Cancelled
+ORD-01491,2025-01-16,Central,WH-01,Supplier B,Electronics,Laptop,487,457,318,236,111.3,155.78,3.0,0.032,On Time
+ORD-01492,2025-10-05,West,WH-02,Supplier E,Furniture,Office Chair,161,111,271,197,418.06,538.31,15.0,0.041,On Time
+ORD-01493,2025-02-26,Central,WH-02,Supplier B,Electronics,Monitor,375,364,302,86,213.04,282.93,5.0,0.067,On Time
+ORD-01494,2025-03-03,South,WH-02,Supplier A,Electronics,Headphones,216,165,779,151,290.65,357.56,14.0,0.058,On Time
+ORD-01495,2025-12-29,South,WH-04,Supplier B,Office Supplies,Stapler,490,472,258,98,437.11,587.38,12.0,0.03,On Time
+ORD-01496,2025-11-23,East,WH-01,Supplier B,Office Supplies,File Folder,128,123,254,68,432.49,625.29,14.0,0.052,On Time
+ORD-01497,2025-08-30,West,WH-02,Supplier C,Office Supplies,Pen Set,395,254,260,232,188.9,220.01,11.0,0.046,On Time
+ORD-01498,2025-03-31,West,WH-04,Supplier E,Furniture,Table,98,88,132,217,108.4,153.49,6.0,0.01,On Time
+ORD-01499,2025-03-13,South,WH-01,Supplier B,Furniture,Table,409,284,334,56,388.7,512.57,15.0,0.019,On Time
+ORD-01500,2025-11-22,North,WH-03,Supplier A,Accessories,Webcam,180,125,690,182,219.37,268.87,13.0,0.027,Cancelled
